@@ -29,8 +29,8 @@ Harassment includes, but is not limited to:
 * Inappropriate physical contact
 * Unwelcome sexual attention
 * Hate speech
-* Sea-lioning [definition](http://simplikation.com/why-sealioning-is-bad/)
-* Gas-lighting [definition](https://en.wikipedia.org/wiki/Gaslighting)
+* Sea-lioning ([definition](http://simplikation.com/why-sealioning-is-bad/))
+* Gas-lighting ([definition](https://en.wikipedia.org/wiki/Gaslighting))
 * Spamming of GIFs
 * Advocating for, or encouraging, any of the above behaviour	
 
