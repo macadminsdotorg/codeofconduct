@@ -12,7 +12,7 @@ Thank you for following this code of conduct. We reserve the right to amend or c
 ---
 
 ## Code of Conduct
-All are welcome to participate within the Slack instance as long as the tenants of this Code of Conduct are adhered to.
+All are welcome to participate within the Slack instance as long as the tenets of this Code of Conduct are adhered to.
 
 ### Policies
 The MacAdmins Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem. 
