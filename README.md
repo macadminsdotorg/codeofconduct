@@ -15,7 +15,9 @@ Thank you for following this code of conduct. We reserve the right to amend or c
 All are welcome to participate within the Slack instance as long as the tenants of this Code of Conduct are adhered to.
 
 ### Policies
-The MacAdmins Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem. We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the MacAdmins Slack at the discretion of the Administrative Team. 
+The MacAdmins Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem. 
+
+We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the MacAdmins Slack at the discretion of the Administrative Team. 
 
 Harassment includes, but is not limited to:
 
