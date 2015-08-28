@@ -19,7 +19,7 @@ The MacAdmins Slack Team is dedicated to providing a harassment-free experience 
 
 Harassment includes, but is not limited to:
 
-* Verbal comments that reinforce social structures of domination [related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, [your specific concern here].
+* Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
 * Sexual images in public spaces
 * Deliberate intimidation, stalking, or following 
 * Harassing photography or recording
@@ -29,6 +29,7 @@ Harassment includes, but is not limited to:
 * Hate speech
 * Sea-lioning
 * Gas-lighting
+* Spamming of GIFs
 * Advocating for, or encouraging, any of the above behaviour	
 
 
