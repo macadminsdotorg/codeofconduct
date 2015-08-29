@@ -28,8 +28,9 @@ Everyone is welcome to participate, and no judgement will be made on members of 
 
 The MacAdmins Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem. 
 
+Be welcoming of everyone: discrimination based on gender identity, race, religion, nationality, political beliefs, sexual preference, preferred technological ecosystem, and concerns that have not been included in this list will be addressed with progressive discipline based on the severity of the infraction as determined by the administrative team.
 
-We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the MacAdmins Slack at the discretion of the Administrative Team. 
+Harassment, hate speech,  and bullying are prohibited activities and are grounds for suspension from the community when there is clear documentation in public channels. If you experience any of these behaviors in direct messages please immediately contact the administrative team.
 
 Harassment includes, but is not limited to:
 
@@ -70,3 +71,4 @@ All reports will be handled with discretion.
 If a party to a dispute is also a member of the Admin team, that person will have no role in the dispute resolution process except as a party; forfeiting any involvement in the enforcement and resolution process. It is the responsibility of that person to immediately inform the Admin team of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
 
 If you have concerns regarding this Slack instance please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy to the given situation.
+
