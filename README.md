@@ -33,7 +33,7 @@ We do not tolerate harassment of Slack participants in any form. Sexual language
 
 Harassment includes, but is not limited to:
 
-* Offensive and/or unwelcome comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
+* Offensive and/or unwelcome comments and behaviors related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
 * Sexual images in public spaces
 * Deliberate intimidation, stalking, or following 
 * Harassing photography or recording
@@ -42,7 +42,8 @@ Harassment includes, but is not limited to:
 * Unwelcome sexual attention including gratuitous or off-topic sexual images or behaviour
 * Hate speech
 * Repeatedly asking questions of an individual or targeted group, even if remaining calm/civil while doing so (aka ["Sea-lioning"] (http://nancyfriedman.typepad.com/away_with_words/2014/11/word-of-the-week-sea-lioning.html))
-* Manipulating, or the attempt to manipulate (someone) by psychological means into questioning their own sanity. Purposefully presenting false information to another making them doubt their own memory, perception or sanity(aka [gas-lighting](https://en.wikipedia.org/wiki/Gaslighting))
+* Asking questions in bad faith, or framed in such a way to come across as hostile
+* Manipulating, or the attempt to manipulate (someone) by psychological means into questioning their own sanity. Purposefully presenting false information to another making them doubt their own memory, perception or sanity (aka [gas-lighting](https://en.wikipedia.org/wiki/Gaslighting))
 * Spamming of GIFs
 * Advocating for, or encouraging, any of the above behaviour	
 
@@ -66,6 +67,6 @@ The MacAdmins Slack Team recognizes that there are many reasons speaking directl
 
 All reports will be handled with discretion. 
 
-If a party to a dispute is also a member of the Admin team, that person may have no role in the dispute resolution process except as a party; forfeiting any involvement in the enforcement and resolution process. It is the responsibility of that person to immediately inform the Admin team of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
+If a party to a dispute is also a member of the Admin team, that person will have no role in the dispute resolution process except as a party; forfeiting any involvement in the enforcement and resolution process. It is the responsibility of that person to immediately inform the Admin team of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
 
 If you have concerns regarding this Slack instance please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy to the given situation.
