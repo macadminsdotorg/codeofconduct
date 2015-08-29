@@ -12,12 +12,24 @@ Thank you for following this code of conduct. We reserve the right to amend or c
 -MacAdmins Slack Administrative Team 
 
 ---
+##Code Of Conduct
 
-## Code of Conduct
 All are welcome to participate within the Slack instance as long as the tenets of this Code of Conduct are adhered to.
 
+## Summary
+
+
+Abide by Wheaton’s Law: don’t be a dick.
+
+Everyone is welcome to participate, and no judgement will be made on members of the greater Mac community who are not a part of the community.
+
+## The Details:
+
+
 ### Policies
+
 The MacAdmins Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem. 
+
 
 We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the MacAdmins Slack at the discretion of the Administrative Team. 
 
