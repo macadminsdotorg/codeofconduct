@@ -5,8 +5,6 @@ This community is a complement to the Freenode IRC channels, the various MDM and
 
 We hope that you find the community to be enriching to your personal and professional lives, and above all else a place of camaraderie where our collective knowledge and differences are celebrated in a positive, welcoming environment.
 
-
-
 Thank you for following this code of conduct. We reserve the right to amend or change the code of conduct at any time and encourage you to periodically review these guidelines to ensure a safe environment for all.
 
 -MacAdmins Slack Administrative Team 
