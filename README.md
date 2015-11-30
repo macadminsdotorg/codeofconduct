@@ -68,7 +68,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 The MacAdmins Slack Team recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
 
-[Current List of Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins).
+[Current List of Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md).
 
 All reports will be handled with discretion. 
 
