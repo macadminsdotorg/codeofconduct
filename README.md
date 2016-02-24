@@ -23,6 +23,7 @@ All community members are expected to:
 * treat one another with dignity and respect
 * respect and treat others fairly, regardless of race ancestry, place of origin, colour, ethnic origin, citizenship, religion, gender, sexual orientation, age or disability
 * respect the rights of others
+* refrain from using the community as a sales platform
 
 
 Everyone is welcome to participate, and no judgement will be made on members of the greater Mac community who are not a part of the community.
@@ -53,6 +54,8 @@ Harassment includes, but is not limited to:
 * Spamming of GIFs
 * Advocating for, or encouraging, any of the above behaviour
 * Direct messages or postings in channels/private groups of an overly sales/advertising/spam manner
+
+Additionally, the MacAdmins Slack Team has a low-tolerance policy towards unsolicited marketing of services or products to members of the community at large. If you represent a firm that offers services relevant to another member of the community, please discuss it with them via private message, or use a channel specific to your product or service. Shameless plugs in the general channel will be deleted and may result in a temporary or permanent ban.
 
 
 ### Enforcement
