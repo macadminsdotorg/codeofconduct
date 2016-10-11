@@ -24,6 +24,10 @@ All community members are expected to:
 * respect and treat others fairly, regardless of race ancestry, place of origin, colour, ethnic origin, citizenship, religion, gender, sexual orientation, age or disability
 * respect the rights of others
 
+Additionally, if you are a reporter or a member of the press:
+
+* you must have have that information listed in your profile - documentation on how to do that is [available here](https://get.slack.help/hc/en-us/articles/204092246-Edit-your-profile)
+* if you want to interview someone about something, you need to let that person know that it's an interview and inform them about where their comments may end up being published
 
 Everyone is welcome to participate, and no judgement will be made on members of the greater Mac community who are not a part of the community.
 
@@ -35,7 +39,6 @@ For further information, you are invited to take a look at the documents on the 
 ### Policies
 
 The MacAdmins Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
-
 
 We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the MacAdmins Slack at the discretion of the Administrative Team.
 
