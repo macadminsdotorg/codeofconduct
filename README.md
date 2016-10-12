@@ -77,8 +77,6 @@ The MacAdmins Slack Team recognizes that there are many reasons speaking directl
 
 The Administrative Team will handle all reports with discretion.
 
-Please see this document [Dispute Resolution](link to GitHub page) for full details on resolution steps.
-
 If a party to a dispute is also a member of the Admin team, that person may have no role in the dispute resolution process except as a party; forfeiting any involvement in the enforcement and resolution process. It is the responsibility of that person to immediately inform the Admin team of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
 
 If you have concerns regarding this Slack team, please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy in the given situation.
