@@ -31,7 +31,6 @@ Additionally, if you are a reporter or a member of the press:
 
 Everyone is welcome to participate, and no judgement will be made on members of the greater Mac community who are not a part of the community.
 
-For further information, you are invited to take a look at the documents on the MacAdmins.org GitHub page, they include contact information for administrators, dispute resolution steps and an etiquette guide. This GitHub page is also open to any pull requests and suggestions for change.
 
 ## Long Version:
 
