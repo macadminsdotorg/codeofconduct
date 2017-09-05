@@ -54,7 +54,7 @@ Harassment includes, but is not limited to:
 * Purposeful psychological manipulation of any kind
 * Spamming of GIFs
 * Advocating for, or encouraging, any of the above behaviour
-* Direct messages or postings in channels/private groups of an overly sales/advertising/spam manner
+* Direct messages or postings in channels/private groups of an overly sales/advertising/spam manner ([additional vendor guidelines](https://github.com/macadminsdotorg/codeofconduct/blob/master/Vendor_Guidelines.md))
 
 
 ### Enforcement
