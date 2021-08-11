@@ -1,7 +1,7 @@
 # Welcome to the MacAdmins Slack Team.
 
 ## Introduction
-This community is a complement to the Freenode IRC channels, the various MDM and package management user forums, the Facebook groups, and the mailing lists and seeks to provide a safe, friendly community for Mac administrators, enthusiasts, and developers to interact with one another.
+This community is a complement to IRC channels, various MDM and package management user forums, Facebook groups, and the mailing lists. We seek to provide a safe, friendly community for Mac administrators, enthusiasts, and developers to interact with one another.
 
 We hope that you find the community to be enriching to your personal and professional lives, and above all else a place of camaraderie where our collective knowledge and differences are celebrated in a positive, welcoming environment.
 
