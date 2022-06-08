@@ -1,4 +1,4 @@
-# Welcome to the MacAdmins Slack Team.
+# Welcome to the MacAdmins Slack Workspace
 
 ## Introduction
 This community is a complement to IRC channels, various MDM and package management user forums, Facebook groups, and the mailing lists. We seek to provide a safe, friendly community for Mac administrators, enthusiasts, and developers to interact with one another.
@@ -13,7 +13,7 @@ Thank you for following this code of conduct. We reserve the right to amend or c
 
 ## Code Of Conduct
 
-All are welcome to participate in the Slack team as long as the tenets of this Code of Conduct are adhered to.
+All are welcome to participate in the MacAdmins Slack Workspace as long as the tenets of this Code of Conduct are adhered to.
 
 ## Short Version:
 
@@ -37,7 +37,7 @@ Everyone is welcome to participate, and no judgement will be made on members of 
 
 ### Policies
 
-The MacAdmins Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
+The MacAdmins Slack Workspace is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
 
 We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the MacAdmins Slack at the discretion of the Administrative Team.
 
@@ -78,7 +78,7 @@ The Administrative Team will handle all reports with discretion.
 
 If a party to a dispute is also a member of the Admin team, that person may have no role in the dispute resolution process except as a party; forfeiting any involvement in the enforcement and resolution process. It is the responsibility of that person to immediately inform the Admin team of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
 
-If you have concerns regarding this Slack team, please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy in the given situation.
+If you have concerns regarding this Slack workspace, please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy in the given situation.
 
 ### Contributions and Modifications
 
