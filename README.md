@@ -26,7 +26,7 @@ All community members are expected to:
 
 Additionally, if you are a reporter or a member of the press:
 
-* you must have that information listed in your profile - documentation on how to do that is [available here](https://get.slack.help/hc/en-us/articles/204092246-Edit-your-profile)
+* you must have that information listed in your profile - documentation on how to do that is [available here](https://slack.com/help/articles/204092246-Edit-your-profile)
 * if you want to interview someone about something, you need to ask permission to interview them and inform them about where their comments may end up being published prior to the start of the interview. 
 
 Everyone is welcome to participate, and no judgement will be made on members of the greater Mac community who are not a part of the community.
