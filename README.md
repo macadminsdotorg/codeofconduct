@@ -7,7 +7,7 @@ We hope that you find the community to be enriching to your personal and profess
 
 Thank you for following this code of conduct. We reserve the right to amend or change the code of conduct at any time and encourage you to periodically review these guidelines to ensure a safe environment for all.
 
--MacAdmins Slack Administrative Team
+-[MacAdmins Slack Workspace Administrative Team](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md)
 
 ---
 
@@ -70,13 +70,13 @@ We expect participants to follow these rules in all public and private channels 
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, and you feel comfortable speaking with the offender, please inform the offender that they have affected you negatively. Often, the offending behavior is unintentional, and the accidental offender and offended will resolve the incident by having that initial discussion. As a world-wide community, we recognize that there are inherent language barriers we must work together to overcome.
 
-The MacAdmins Slack Team recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
+The MacAdmins Slack Workspace Administrative Team recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
 
-[Current List of Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md).
+[Current List of MacAdmins Slack Workspace Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md).
 
 The Administrative Team will handle all reports with discretion.
 
-If a party to a dispute is also a member of the Admin team, that person may have no role in the dispute resolution process except as a party; forfeiting any involvement in the enforcement and resolution process. It is the responsibility of that person to immediately inform the Admin team of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
+If a party to a dispute is also a member of the Administrative Team, that person may have no role in the dispute resolution process except as a party; forfeiting any involvement in the enforcement and resolution process. It is the responsibility of that person to immediately inform the Administrative Team of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
 
 If you have concerns regarding this Slack workspace, please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy in the given situation.
 
