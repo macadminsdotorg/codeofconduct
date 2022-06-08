@@ -1,7 +1,7 @@
 # Welcome to the MacAdmins Slack Workspace
 
 ## Introduction
-This community is a complement to IRC channels, various MDM and package management user forums, Facebook groups, and the mailing lists. We seek to provide a safe, friendly community for Mac administrators, enthusiasts, and developers to interact with one another.
+The MacAdmins Slack Workspace is available as a means of collaboration for Apple device administrators, enthusiasts, and developers to interact with one another. It is meant to provide a safe, friendly community along side the already well established user forums, Facebook groups, and mailing lists to help facilitate more real-time collaboration when possible.
 
 We hope that you find the community to be enriching to your personal and professional lives, and above all else a place of camaraderie where our collective knowledge and differences are celebrated in a positive, welcoming environment.
 
