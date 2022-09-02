@@ -5,8 +5,6 @@ Our brief governing philosophy:
 
 *Please strive to resolve the situation by yourself; if you think that isn’t possible or appropriate, please contact an Admin immediately.*
 
-****
-
 ## Something is Off
 
 A significant part of the MacAdmins Slack Admins job is the management of incidents on the MacAdmins Slack, but ideally the community (that’s you) has both the tools and the desire to resolve many situations without Admin support. 
@@ -25,7 +23,7 @@ Ideally, the above discussion can help resolve the situation. It often does. If 
 
 ## It’s Admin O’Clock
 
-Administrators can be contacted directly ([Current List of Administrators](_https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md_)) or in the #ask-about-this-slack channel. Please choose the path most comfortable for you. 
+Administrators can be contacted directly ([Current List of Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md)) or in the #ask-about-this-slack channel. Please choose the path most comfortable for you. 
 
 When you contact an Administrator(s), provide the following:
 

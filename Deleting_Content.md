@@ -31,11 +31,11 @@ The determination of how much time is allowed is up to the acting Administrator,
 * How likely it is to be seen by others (higher-volume channels get less time)
 * How likely it is to trigger negative reactions in others
 
-Additional consequences beyond the removal of content are up to the acting Administrator, per the same incident process found in the [Incident Process](https://github.com/macadminsdotorg/codeofconduct/blob/master/incident-process.md)
+Additional consequences beyond the removal of content are up to the acting Administrator, per the same incident process found in the [Incident Process](https://github.com/macadminsdotorg/codeofconduct/blob/master/Incident_Process.md)
 
 # Direct Messages ("Private Messages")
 
-Direct messages between one or more members are private. Administators have no access to these messages and have no ability to delete them, but the above rules apply to this content. Violations should be addressed with Administators via the [Incident Process](https://github.com/macadminsdotorg/codeofconduct/blob/master/incident-process.md). 
+Direct messages between one or more members are private. Administators have no access to these messages and have no ability to delete them, but the above rules apply to this content. Violations should be addressed with Administators via the [Incident Process](https://github.com/macadminsdotorg/codeofconduct/blob/master/Incident_Process.md). 
 
 ## Administrators
 
