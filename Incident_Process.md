@@ -90,4 +90,8 @@ The Administrators are committed to resolve incidents **within five working days
 
 The current roster of Administrators is maintained in the primary [Current List of Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md) document.
 
+---
+
 Based upon https://github.com/randsleadershipslack/documents-and-resources/blob/main/incident-process.md
+
+VXXX of this Code of Conduct was published on XXXXX, 2022. You can see all prior versions of this artifact [here](https://github.com/macadminsdotorg/codeofconduct/commits/master/README.md).

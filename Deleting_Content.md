@@ -23,7 +23,9 @@ Content posted in this fashion results in a no-warning expulsion of the offendin
 
 Admins may come across or be notified of content on The MacAdmins Slack that violates the Code of Conduct. In some situations, this may lead to an Administrator deleting the message (or messages) that violate the CoC. Messages that are most likely to be deleted are commercial solicitations, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
 
-Ideally, another The MacAdmins Slack member notices this content and contacts the original poster, who then modifies or deletes the message so that it is no longer problematic. In this case, no further Administrator action is required. If Administrator action is desired, due to lack of response or any other reason, an Administrator will notify the original poster of the violation and the need to reword or remove the problematic message. The Administrator will also specify a time after which Administrator action will be taken to delete the content if it is not addressed. This time may be as little as a few minutes, or as much as 24 hours.
+Ideally, another MacAdmins Slack member notices this content and contacts the original poster, who then modifies or deletes the message so that it is no longer problematic. In this case, no further Administrator action is required. The MacAdmins Slack allows members to edit messages up to 30 mins after posting. If 30 mins have elapsed, an Administrator can delete the message if requested - see [Administrators](#Administrators) section below
+
+If Administrator action is desired, due to lack of response or any other reason, an Administrator will notify the original poster of the violation and the need to reword (if within the 30 min edit window) or remove the problematic message. The Administrator will also specify a time after which Administrator action will be taken to delete the content if it is not addressed. This time may be as little as a few minutes, or as much as 24 hours.
 
 The determination of how much time is allowed is up to the acting Administrator, but the following context will be used to help determine the time before Administrator action:
 
@@ -41,4 +43,8 @@ Direct messages between one or more members are private. Administators have no a
 
 The current roster of Administrators is maintained in the primary [Current List of Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md) document.
 
+---
+
 Based upon https://github.com/randsleadershipslack/documents-and-resources/blob/main/deleting-content.md
+
+VXXX of this Code of Conduct was published on XXXXX, 2022. You can see all prior versions of this artifact [here](https://github.com/macadminsdotorg/codeofconduct/commits/master/README.md).
