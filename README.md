@@ -1,6 +1,8 @@
 # Welcome to the Mac Admins Slack.<!-- omit from toc -->
 
-The Mac Admins Slack is a global online community of people who manage Apple devices and services at large and small scales. The community is built around public and private channels focusing on managing Apple devices and services. While many channels are not focused specifically on managing Apple devices and services, all community participants are asked to act as professionals and must comply with the following Code of Conduct. The Mac Admins Slack Admin Team will enforce this code throughout all channels within the Slack.
+The Mac Admins Slack is a global online community of people who manage Apple devices and services at large and small scales. The community is built around public and private channels focusing on managing Apple devices and services. While many channels are not focused specifically on managing Apple devices and services, all community participants are asked to act as professionals and must comply with the following Code of Conduct(CoC).
+
+All principles in this CoC are important and enforceable. The Mac Admins Slack Admin Team will enforce this code throughout all channels within the Slack.
 
 
 ## Introduction
