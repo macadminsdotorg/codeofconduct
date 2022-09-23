@@ -12,7 +12,7 @@ We hope that you find the community to be enriching to your personal and profess
 
 Thank you for following this code of conduct. We reserve the right to amend or change the code of conduct at any time and encourage you to periodically review these guidelines to ensure a safe environment for all.
 
--The Mac Admins Slack Administrative Team
+- The Mac Admins Slack Administrative Team
 
 
 
@@ -47,7 +47,7 @@ All are welcome to participate in the Slack Workspace as long as the tenets of t
 
 Be a valuable postive contributor to this community. 
 
-Be respectful of others, ask people to stop if you are bothered; respect privacy; understand this community is primarily not-for-profit, and attempt to resolve issues without Administrators, but if you can't resolve an issue, you can contact the Administrators. If you violate this Code of Conduct, it will be made clear to you, and you may be asked to leave the Rands Leadership Slack.
+Be respectful of others, ask people to stop if you are bothered; respect privacy; understand this community is primarily not-for-profit, and attempt to resolve issues without Administrators, but if you can't resolve an issue, you can contact the Administrators. If you violate this Code of Conduct, it will be made clear to you, and you may be asked to leave the Mac Admins Slack.
 
 All community members are expected to:
 
@@ -78,7 +78,7 @@ Respectful behavior includes but is not limited to:
 * Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
 * Due regard for the feelings, wishes, rights, and traditions of others.
 
-If you're unclear if a communication, action, or behavior is respectful, ask someone instead of assuming. No, really. Just ask the ([Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md)) publicly or privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
+If you're unclear if a communication, action, or behavior is respectful, ask someone instead of assuming. No, really. Just ask the ([Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md)) publicly via [#ask-about-this-slack channel](https://macadmins.slack.com/archives/C06PS0JKA) or privately via Direct Message. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
 
 Don't be a bystander, be a leader. Role model respectful behavior, but also help to address disrespect when you see it within your community. 
 
@@ -111,7 +111,7 @@ Protect IP and legally-protected information. This community is not a public spa
 
 If you want to disclose anything discussed here in a public channel publicly, use the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule) as the guideline ("participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed"). 
 
-For attribution of specific content found on this Slack on public channels, we ask that you ask the originator of the content for permission. If you don't receive consent in a reasonable time, we ask that you credit the "Rands Leadership Slack."
+For attribution of specific content found on this Slack on public channels, we ask that you ask the originator of the content for permission. If you don't receive consent in a reasonable time, we ask that you credit the "Mac Admins Slack."
 
 **Consequence**: Sharing content from private channels is discouraged without permission of the private channel. 
 
@@ -157,9 +157,9 @@ Should you catch yourself behaving disrespectfully, or be confronted as such, li
 
 If you cannot resolve a situation peacefully, please refer to our [Incident Process](https://github.com/macadminsdotorg/codeofconduct/blob/master/Incident_Process.md) and choose a course of action that suits the situation.
 
-Suppose the Administrators determine that a member is violating any part of this Code of Conduct. In that case, they may take any action they deem appropriate, up to and including expulsion and exclusion from the Rands Leadership Slack. 
+Suppose the Administrators determine that a member is violating any part of this Code of Conduct. In that case, they may take any action they deem appropriate, up to and including expulsion and exclusion from the Mac Admins Slack. 
 
-As Administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents everyday situations we've seen, but we can't foresee every situation. If in the Administrator's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so..
+As Administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents everyday situations we've seen, but we can't foresee every situation. If in the Administrator's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
 
 We expect participants to follow these rules in all public and private channels (including direct messages).
 
@@ -167,9 +167,9 @@ We expect participants to follow these rules in all public and private channels 
 
 See [Vendor Guidelines](https://github.com/macadminsdotorg/codeofconduct/blob/master/Vendor_Guidelines.md)
 
-## Press Guidelines
+## Press & Media Guidelines
 
-Additionally, if you are a reporter or a member of the press:
+Additionally, if you are a reporter or a member of the press or media:
 
 * you must have that information listed in your profile - documentation on how to do that is [available here](https://get.slack.help/hc/en-us/articles/204092246-Edit-your-profile)
 * if you want to interview someone about something, you need to ask permission to interview them and inform them about where their comments may end up being published prior to the start of the interview. 
