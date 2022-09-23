@@ -17,13 +17,13 @@ The determination of whether a message is trolling is often a subjective assessm
 2. Is posted by a non-contributing member with little to no other engagement elsewhere in the Slack, and, 
 3. Is posted via a deliberately fake account.
 
-Content posted in this fashion results in a no-warning expulsion of the offending account from The MacAdmins Slack. Trolling which does not meet this high bar is managed via the usual content review process. 
+Content posted in this fashion results in a no-warning expulsion of the offending account from The Mac Admins Slack. Trolling which does not meet this high bar is managed via the usual content review process. 
 
 # Content Review Process
 
-Admins may come across or be notified of content on The MacAdmins Slack that violates the Code of Conduct. In some situations, this may lead to an Administrator deleting the message (or messages) that violate the CoC. Messages that are most likely to be deleted are commercial solicitations, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
+Admins may come across or be notified of content on The Mac Admins Slack that violates the Code of Conduct. In some situations, this may lead to an Administrator deleting the message (or messages) that violate the CoC. Messages that are most likely to be deleted are commercial solicitations, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
 
-Ideally, another MacAdmins Slack member notices this content and contacts the original poster, who then modifies or deletes the message so that it is no longer problematic. In this case, no further Administrator action is required. The MacAdmins Slack allows members to edit messages up to 30 mins after posting. If 30 mins have elapsed, an Administrator can delete the message if requested - see [Administrators](#Administrators) section below
+Ideally, another Mac Admins Slack member notices this content and contacts the original poster, who then modifies or deletes the message so that it is no longer problematic. In this case, no further Administrator action is required. The Mac Admins Slack allows members to edit messages up to 30 mins after posting. If 30 mins have elapsed, an Administrator can delete the message if requested - see [Administrators](#Administrators) section below
 
 If Administrator action is desired, due to lack of response or any other reason, an Administrator will notify the original poster of the violation and the need to reword (if within the 30 min edit window) or remove the problematic message. The Administrator will also specify a time after which Administrator action will be taken to delete the content if it is not addressed. This time may be as little as a few minutes, or as much as 24 hours.
 

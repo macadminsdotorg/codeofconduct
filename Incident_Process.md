@@ -1,5 +1,5 @@
 
-# The MacAdmins Slack Incident Process
+# The Mac Admins Slack Incident Process
 
 Our brief governing philosophy: 
 
@@ -7,11 +7,11 @@ Our brief governing philosophy:
 
 ## Something is Off
 
-A significant part of the MacAdmins Slack Admins job is the management of incidents on the MacAdmins Slack, but ideally the community (that’s you) has both the tools and the desire to resolve many situations without Admin support. 
+A significant part of the Mac Admins Slack Admins job is the management of incidents on the Mac Admins Slack, but ideally the community (that’s you) has both the tools and the desire to resolve many situations without Admin support. 
 
-*As the MacAdmins Slack is a mature community, we find that the community naturally highlights CoC violations and they are resolved organically. If you are not comfortable with personally raising any violations of the CoC, please go ahead and jump to “It’s Admin O’Clock”.*
+*As the Mac Admins Slack is a mature community, we find that the community naturally highlights CoC violations and they are resolved organically. If you are not comfortable with personally raising any violations of the CoC, please go ahead and jump to “It’s Admin O’Clock”.*
 
-The MacAdmins Code of Conduct (“CoC”) exists to give members a model idea of what is and isn’t acceptable in MacAdmins Slack including behaviour, marketing activity, and etiquette. If you experience strange behaviour in a channel and are wondering if it’s acceptable, please first consult the CoC.
+The Mac Admins Code of Conduct (“CoC”) exists to give members a model idea of what is and isn’t acceptable in Mac Admins Slack including behaviour, marketing activity, and etiquette. If you experience strange behaviour in a channel and are wondering if it’s acceptable, please first consult the CoC.
 
 With CoC clarity in hand, please contact the member(s) and explain:
 
@@ -62,14 +62,14 @@ With this information in hand, the Administrator will:
 With this information in hand, the Administrator will determine a consequence. Consequences include but are not limited to:
 
 1. A Strike
-    * The MacAdmins Slack operates on a three strike system whereby non-suspending CoC violations can result in one or more strikes. Administrators will use their judgement and historical precedent in determining what constitutes a strike. When a member receives three strikes, they will be suspended from the MacAdmins Slack for a period of time or permanently depending on the violation. Multiple strikes can be assessed depending on the violation. 
+    * The Mac Admins Slack operates on a three strike system whereby non-suspending CoC violations can result in one or more strikes. Administrators will use their judgement and historical precedent in determining what constitutes a strike. When a member receives three strikes, they will be suspended from the Mac Admins Slack for a period of time or permanently depending on the violation. Multiple strikes can be assessed depending on the violation. 
     * We do not have a definition of what does and does not constitute a strike. However, as of September 2022, we are keeping a record of all administrative activity to help calibrate strikes. 
 2. Do Not Contact
     * A member may not contact (in any fashion, messages or emoji) either publicly or privately one more other members of the Slack for a predetermined period of time. 
 3. Temporary suspension
-    * A member is suspended from The MacAdmins Slack for a predetermined period of time.
+    * A member is suspended from The Mac Admins Slack for a predetermined period of time.
 4. Permanent suspension
-    * A member is permanently banned from The MacAdmins Slack
+    * A member is permanently banned from The Mac Admins Slack
 
 For any type of suspension, the admins will conduct a private vote based on the incident. Majority wins. 
 
@@ -81,8 +81,8 @@ With the defined incident and consequence in hand, the Administrator will presen
 * This is what I decided in terms of consequence. In the case of a non-ban action, explain the terms of Do Not Contact, Strikes, Etc. 
     * For strikes, members will be alerted to the strike policy and the number of current strikes they have.
     * For Do Not Contact, members will receive the time period when they can not contact other member(s)
-    * For Temporary Suspension, members will receive the time period when they can not be a part of The MacAdmins Slack.
-    * For Permanent Suspension, members will receive the content above and then permanent removed from The MacAdmins Slack.
+    * For Temporary Suspension, members will receive the time period when they can not be a part of The Mac Admins Slack.
+    * For Permanent Suspension, members will receive the content above and then permanent removed from The Mac Admins Slack.
 
 The Administrators are committed to resolve incidents **within five working days**.
 
