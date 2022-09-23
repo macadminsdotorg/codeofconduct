@@ -1,4 +1,4 @@
-# Welcome to the Mac Admins Slack Team.<!-- omit from toc -->
+# Welcome to the Mac Admins Slack.<!-- omit from toc -->
 
 The Mac Admins Slack is a global online community of people who manage Apple devices and services at large and small scales. The community is built around public and private channels focusing on managing Apple devices and services. While many channels are not focused specifically on managing Apple devices and services, all community participants are asked to act as professionals and must comply with the following Code of Conduct. The Mac Admins Slack Admin Team will enforce this code throughout all channels within the Slack.
 
@@ -16,7 +16,7 @@ Thank you for following this code of conduct. We reserve the right to amend or c
 
 # Table of Contents
 
-- [Welcome to the Mac Admins Slack Team.](#welcome-to-the-macadmins-slack-team)
+- [Welcome to the Mac Admins Slack.](#welcome-to-the-Mac Admins-slack)
   - [Introduction](#introduction)
 - [Table of Contents](#table-of-contents)
 - [Code Of Conduct](#code-of-conduct)
@@ -39,7 +39,7 @@ Thank you for following this code of conduct. We reserve the right to amend or c
   - [Contributions and Modifications](#contributions-and-modifications)
 # Code Of Conduct
 
-All are welcome to participate in the Slack team as long as the tenets of this Code of Conduct are adhered to.
+All are welcome to participate in the Slack Workspace as long as the tenets of this Code of Conduct are adhered to.
 
 # Short Version:
 
@@ -84,7 +84,7 @@ Don't be a bystander, be a leader. Role model respectful behavior, but also help
 
 ## Harassment-free
 
-The MacAdmins Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
+The Mac Admins Slack is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
 
 We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the Mac Admins Slack at the discretion of the Administrative Team.
 
@@ -115,7 +115,7 @@ For attribution of specific content found on this Slack on public channels, we a
 
 ## Read the Room
 
-Once onboard, you will likely find yourself in a popular channel with many members who sound like we've figured it out. We haven't. While advice on one channel might read definitive, it is one member's lessons interpretation and learning from their MacAdmin experience. While there is a diverse set of experiences within this community, we continue to learn at every level of expertise. The daily practice of being a MacAdmin is more art than science.
+Once onboard, you will likely find yourself in a popular channel with many members who sound like we've figured it out. We haven't. While advice on one channel might read definitive, it is one member's lessons interpretation and learning from their Mac Admin experience. While there is a diverse set of experiences within this community, we continue to learn at every level of expertise. The daily practice of being a Mac Admin is more art than science.
 
 This is a large community with many different humans populating hundreds of channels. Different channels have organically developed distinct personalities. Before posting in a channel with hundreds of members, we suggest you take the time to read the room. Specifically:
 
@@ -176,7 +176,7 @@ Additionally, if you are a reporter or a member of the press:
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, and you feel comfortable speaking with the offender, please inform the offender that they have affected you negatively. Often, the offending behavior is unintentional, and the accidental offender and offended will resolve the incident by having that initial discussion. As a world-wide community, we recognize that there are inherent language barriers we must work together to overcome.
 
-The Mac Admins Slack Team recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
+The Mac Admins Slack recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
 
 ## Administrators
 
@@ -186,7 +186,7 @@ The Administrative Team will handle all reports with discretion.
 
 If a party to a dispute is also a member of the Admin team, that person may have no role in the dispute resolution process except as a party; forfeiting any involvement in the enforcement and resolution process. It is the responsibility of that person to immediately inform the Admin team of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
 
-If you have concerns regarding this Slack team, please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy in the given situation.
+If you have concerns regarding this Slack, please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy in the given situation.
 
 ## Administrator Information Access
 
@@ -198,7 +198,7 @@ As part of the role, Administrators have information not available to all users.
 
 Administrators do not have standing access to private channels unless they are members of that channel.
 
-Slack Workplace owners, of which only a limited set of the Admin Team are, have other tools (such as export and migration tools) that may provide access to private channels and DMs. As per the privacy section above, you should not presume anything you say here will remain private, so act accordingly.
+Slack Workspace owners, of which only a limited set of the Admin Team are, have other tools (such as export and migration tools) that may provide access to private channels and DMs. As per the privacy section above, you should not presume anything you say here will remain private, so act accordingly.
 
 As part of Code of Conduct investigations, Administrators may choose to access this information. Administrators may also request information from private channels from current channel members to investigate a Code of Conduct violation.
 
