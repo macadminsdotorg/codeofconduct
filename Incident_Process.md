@@ -23,7 +23,7 @@ Ideally, the above discussion can help resolve the situation. It often does. If 
 
 ## It’s Admin O’Clock
 
-Administrators can be contacted directly ([Current List of Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md)) or in the #ask-about-this-slack channel. Please choose the path most comfortable for you. 
+Administrators can be contacted directly ([Current List of Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md)) or in the [#ask-about-this-slack channel](https://macadmins.slack.com/archives/C06PS0JKA). Please choose the path most comfortable for you. 
 
 When you contact an Administrator(s), provide the following:
 
@@ -33,7 +33,7 @@ When you contact an Administrator(s), provide the following:
 Things to know:
 
 * The Administrators are committed to a first response within 24 hours. Usually faster. If you directly contact a single Admin, it could be longer due to time zone differences and work schedules. 
-* #ask-about-this-slack contains all the of the Administrators and is public. If you’re filing a formal incident, we strongly suggest directly contacting an Admin as formal incidents are confidential to the admins.
+* [#ask-about-this-slack channel](https://macadmins.slack.com/archives/C06PS0JKA) contains all the of the Administrators and is public. If you’re filing a formal incident, we strongly suggest directly contacting an Admin as formal incidents are confidential to the admins.
 
 Once you’ve contacted an Administrator, they’ll help you triage the incident. 
 
