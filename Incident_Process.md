@@ -63,7 +63,9 @@ With this information in hand, the Administrator will determine a consequence. C
 
 1. A Strike
     * The Mac Admins Slack operates on a three strike system whereby non-suspending CoC violations can result in one or more strikes. Administrators will use their judgement and historical precedent in determining what constitutes a strike. When a member receives three strikes, they will be suspended from the Mac Admins Slack for a period of time or permanently depending on the violation. Multiple strikes can be assessed depending on the violation. 
-    * We do not have a definition of what does and does not constitute a strike. However, as of September 2022, we are keeping a record of all administrative activity to help calibrate strikes. 
+    * We do not have a definition of what does and does not constitute a strike. 
+    * As of October 2022, we are keeping a record of all administrative activity to help calibrate strikes. This record will be a privately shared Googlesheet and is accessible only by the Admin Team.
+    * Any activity to prior to the formal recording of strikes will not be included in the record of strikes. 
 2. Do Not Contact
     * A member may not contact (in any fashion, messages or emoji) either publicly or privately one more other members of the Slack for a predetermined period of time. 
 3. Temporary suspension

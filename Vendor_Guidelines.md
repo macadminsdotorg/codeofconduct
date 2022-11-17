@@ -14,8 +14,7 @@ It is not permitted to direct message or use other communications tools to conta
 
 ### What is not okay
 
-* Sending direct messages or using outside communications tools to contact the user before they have responded to a posting in a public channel like the above.
- * Sending direct messages or using outside communications tools to contact the user when they have responded in any manner that could be taken as a negative response to a posting in a public channel like the above.
+* Sending direct messages or using outside communications tools to contact the user when they have responded in any manner that could be taken as a negative response to a posting in a public channel like the above.
 
 ## Promoting your product in public channels
 
