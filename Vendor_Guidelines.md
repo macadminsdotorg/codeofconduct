@@ -1,10 +1,10 @@
 # Vendor Guidelines
 
-Vendors can make up an important part of our community, and our Slack team provides a unique method to engage with a user base directly, but vendors should adhere to the following guidelines to help ensure they do not engage in behaviour that violates our Code of Conduct.
+Vendors can make up an important part of our community, and our Slack Workspace provides a unique method to engage with a user base directly, but vendors should adhere to the following guidelines to help ensure they do not engage in behaviour that violates our Code of Conduct.
 
 ## Direct messages
 
-It is not permitted to direct message a member of our community for the purposes of promoting your product without their clear permission beforehand.
+It is not permitted to direct message or use other communications tools to contact a member of our community for the purposes of promoting your product without their clear permission beforehand.
 
 ### What is okay
 
@@ -14,8 +14,7 @@ It is not permitted to direct message a member of our community for the purposes
 
 ### What is not okay
 
-* Direct messaging the user before they have responded to a posting in a public channel like the above.
-* Direct messaging the user when they have responded in any manner that could be taken as a negative response to a posting in a public channel like the above.
+* Sending direct messages or using outside communications tools to contact the user when they have responded in any manner that could be taken as a negative response to a posting in a public channel like the above.
 
 ## Promoting your product in public channels
 
