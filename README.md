@@ -1,5 +1,4 @@
-
-# Welcome to the MacAdmins Slack Workspace
+# Welcome to the Mac Admins Slack.<!-- omit from toc -->
 
 The Mac Admins Slack is a global online community of people who manage Apple devices and services at large and small scales. The community is built around public and private channels focusing on managing Apple devices and services. While many channels are not focused specifically on managing Apple devices and services, all community participants are asked to act as professionals and must comply with the following Code of Conduct(CoC).
 
@@ -8,14 +7,14 @@ All principles in this CoC are important and enforceable. The Mac Admins Slack A
 
 
 ## Introduction
-The MacAdmins Slack Workspace is available as a means of collaboration for Apple device administrators, enthusiasts, and developers to interact with one another. It is meant to provide a safe, friendly community along side the already well established user forums, Facebook groups, and mailing lists to help facilitate more real-time collaboration when possible.
+The Mac Admins Slack is available as a means of collaboration for Apple device administrators, enthusiasts, and developers to interact with one another. It is meant to provide a safe, friendly community along side the already well established user forums, Facebook groups, and mailing lists to help facilitate more real-time collaboration when possible.
 
 We hope that you find the community to be enriching to your personal and professional lives, and above all else a place of camaraderie where our collective knowledge and differences are celebrated in a positive, welcoming environment.
 
 Thank you for following this code of conduct. We reserve the right to amend or change the code of conduct at any time and encourage you to periodically review these guidelines to ensure a safe environment for all.
 
 
--[MacAdmins Slack Workspace Administrative Team](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md)
+-[The Mac Admins Slack Administrative Team](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md)
 
 
 # Table of Contents
@@ -49,7 +48,7 @@ All are welcome to participate in the Slack Workspace as long as the tenets of t
 # Short Version:
 
 
-All are welcome to participate in the MacAdmins Slack Workspace as long as the tenets of this Code of Conduct are adhered to.
+All are welcome to participate in the Mac Admins Slack as long as the tenets of this Code of Conduct are adhered to.
 
 Be a valuable postive contributor to this community. 
 
@@ -94,7 +93,7 @@ Don't be a bystander, be a leader. Role model respectful behavior, but also help
 ## Harassment-free
 
 
-The MacAdmins Slack Workspace is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
+The Mac Admins Slack is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
 
 
 We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the Mac Admins Slack at the discretion of the Administrative Team.
@@ -133,7 +132,7 @@ This is a large community with many different humans populating hundreds of chan
 * Read the last couple of days of messages.
 * Examine the channel topic for helpful tips.
 * Click on the channel details and read the about section to see how many members are present, what messages have already been pinned, and what files have been shared.
-* Use Slack's search feature. Your questions has problably already been discussed, or a least something similar. The results might give you the answer or help you frame your question better.
+* Use Slack's search feature. Your question has problably already been discussed, or a least something similar. The results might give you the answer or help you frame your question better.
 
 **Consequence**: Posting the same message to multiple channels is spamming. Don't spam. 
 
@@ -188,19 +187,17 @@ Additionally, if you are a reporter or a member of the press or media:
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, and you feel comfortable speaking with the offender, please inform the offender that they have affected you negatively. Often, the offending behavior is unintentional, and the accidental offender and offended will resolve the incident by having that initial discussion. As a world-wide community, we recognize that there are inherent language barriers we must work together to overcome.
 
 
-The MacAdmins Slack Workspace Administrative Team recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
+The Mac Admins Slack Workspace Administrative Team recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
 
 ## Administrators
 
-
-[Current List of MacAdmins Slack Workspace Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md).
+[Current List of Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md).
 
 The Administrative Team will handle all reports with discretion.
 
-If a party to a dispute is also a member of the Administrative Team, that person may have no role in the dispute resolution process except as a party; forfeiting any involvement in the enforcement and resolution process. It is the responsibility of that person to immediately inform the Administrative Team of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
+If a party to a dispute is also a member of the Admin team, that person may have no role in the dispute resolution process except as a party; forfeiting any involvement in the enforcement and resolution process. It is the responsibility of that person to immediately inform the Admin team of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
 
-
-If you have concerns regarding this Slack workspace, please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy in the given situation.
+If you have concerns regarding this Slack, please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy in the given situation.
 
 ## Administrator Information Access
 
@@ -230,4 +227,4 @@ Anyone may recommend modifications to this Code of Conduct by opening a pull req
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-VXXX of this Code of Conduct was published on XXXXX, 2022. You can see all prior versions of this artifact [here](https://github.com/macadminsdotorg/codeofconduct/commits/master/README.md).
+V2.0 of this Code of Conduct was published December, 2022. You can see all prior versions of this artifact [here](https://github.com/macadminsdotorg/codeofconduct/commits/master/README.md).
