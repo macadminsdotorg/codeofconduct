@@ -121,7 +121,7 @@ For attribution of specific content found on this Slack on public channels, we a
 
 ## Read the Room
 
-Once onboard, you will likely find yourself in a popular channel with many members who sound like we've figured it out. We haven't. While advice on one channel might read definitive, it is one member's lessons interpretation and learning from their Mac Admin experience. While there is a diverse set of experiences within this community, we continue to learn at every level of expertise. The daily practice of being a Mac Admin is more art than science.
+Once onboard, you will likely find yourself in a popular channel with many members who sound like we've figured it out. We haven't. While advice on one channel might read definitive, it is one member's lessons, interpretations and learnings from their Mac Admin experience. While there is a diverse set of experiences within this community, we continue to learn at every level of expertise. The daily practice of being a Mac Admin is more art than science.
 
 This is a large community with many different humans populating hundreds of channels. Different channels have organically developed distinct personalities. Before posting in a channel with hundreds of members, we suggest you take the time to read the room. Specifically:
 
@@ -147,6 +147,7 @@ The Administrators may come across or be notified of Mac Admins Slack content vi
 
 Ideally, another Mac Admins Slack member notices this content and contacts the original poster, who then modifies or deletes the message so that it is no longer problematic. In this case, no further Administrator action is required. Suppose Administrator action is desired due to lack of response or any other reason. In that case, an Administrator will notify the original poster of the violation and the need to reword or remove the problematic message. The Administrator will also specify a time after which Administrator action will be taken to delete the content if it is not addressed. This time may be as little as a few minutes or as much as 24 hours.
 
+
 ## Resolve Peacefully
 
 As a large online community, we believe peer-to-peer discussions, feedback, and corrections can help build a stronger, safer, more informed, and more welcoming community.
@@ -155,7 +156,7 @@ If you see someone violating any part of this Code of Conduct, we urge you to re
 
 If you experience disrespectful behavior toward yourself or anyone else and feel unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an Administrator. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed. We will listen and work to resolve the matter with your help promptly.
 
-Should you catch yourself behaving disrespectfully, or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. How you handle them and avoid repeating them in future matters. We are here to learn as leaders.
+Should you catch yourself behaving disrespectfully, or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. How you handle them and avoid repeating them in future matters. We are here to learn as professionals.
 
 ## Additional Consequences
 
