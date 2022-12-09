@@ -19,8 +19,7 @@ Thank you for following this code of conduct. We reserve the right to amend or c
 
 # Table of Contents
 
-- [Welcome to the Mac Admins Slack.](#welcome-to-the-Mac Admins-slack)
-  - [Introduction](#introduction)
+- [Introduction](#introduction)
 - [Table of Contents](#table-of-contents)
 - [Code Of Conduct](#code-of-conduct)
 - [Short Version:](#short-version)
@@ -41,9 +40,6 @@ Thank you for following this code of conduct. We reserve the right to amend or c
   - [Administrative Team Guidelines](#administrative-team-guidelines)
   - [Contributions and Modifications](#contributions-and-modifications)
 # Code Of Conduct
-
-
-All are welcome to participate in the Slack Workspace as long as the tenets of this Code of Conduct are adhered to.
 
 # Short Version:
 
@@ -227,4 +223,4 @@ Anyone may recommend modifications to this Code of Conduct by opening a pull req
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-V2.0 of this Code of Conduct was published December, 2022. You can see all prior versions of this artifact [here](https://github.com/macadminsdotorg/codeofconduct/commits/master/README.md).
+V2.0 RC1 of this Code of Conduct was published December, 2022. You can see all prior versions of this artifact [here](https://github.com/macadminsdotorg/codeofconduct/commits/master/README.md).
