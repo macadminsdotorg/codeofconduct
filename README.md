@@ -1,19 +1,21 @@
-# Welcome to the Mac Admins Slack.<!-- omit from toc -->
+
+# Welcome to the MacAdmins Slack Workspace
 
 The Mac Admins Slack is a global online community of people who manage Apple devices and services at large and small scales. The community is built around public and private channels focusing on managing Apple devices and services. While many channels are not focused specifically on managing Apple devices and services, all community participants are asked to act as professionals and must comply with the following Code of Conduct(CoC).
 
 All principles in this CoC are important and enforceable. The Mac Admins Slack Admin Team will enforce this code throughout all channels within the Slack.
 
 
+
 ## Introduction
-This community is a complement to IRC channels, various MDM and package management user forums, Facebook groups, and the mailing lists. We seek to provide a safe, friendly community for Mac administrators, enthusiasts, and developers to interact with one another.
+The MacAdmins Slack Workspace is available as a means of collaboration for Apple device administrators, enthusiasts, and developers to interact with one another. It is meant to provide a safe, friendly community along side the already well established user forums, Facebook groups, and mailing lists to help facilitate more real-time collaboration when possible.
 
 We hope that you find the community to be enriching to your personal and professional lives, and above all else a place of camaraderie where our collective knowledge and differences are celebrated in a positive, welcoming environment.
 
 Thank you for following this code of conduct. We reserve the right to amend or change the code of conduct at any time and encourage you to periodically review these guidelines to ensure a safe environment for all.
 
-- The Mac Admins Slack Administrative Team
 
+-[MacAdmins Slack Workspace Administrative Team](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md)
 
 
 # Table of Contents
@@ -41,11 +43,16 @@ Thank you for following this code of conduct. We reserve the right to amend or c
   - [Contributions and Modifications](#contributions-and-modifications)
 # Code Of Conduct
 
+
 All are welcome to participate in the Slack Workspace as long as the tenets of this Code of Conduct are adhered to.
 
 # Short Version:
 
+
+All are welcome to participate in the MacAdmins Slack Workspace as long as the tenets of this Code of Conduct are adhered to.
+
 Be a valuable postive contributor to this community. 
+
 
 Be respectful of others, ask people to stop if you are bothered; respect privacy; understand this community is primarily not-for-profit, and attempt to resolve issues without Administrators, but if you can't resolve an issue, you can contact the Administrators. If you violate this Code of Conduct, it will be made clear to you, and you may be asked to leave the Mac Admins Slack.
 
@@ -58,7 +65,7 @@ All community members are expected to:
 
 Additionally, if you are a reporter or a member of the press:
 
-* you must have that information listed in your profile - documentation on how to do that is [available here](https://get.slack.help/hc/en-us/articles/204092246-Edit-your-profile)
+* you must have that information listed in your profile - documentation on how to do that is [available here](https://slack.com/help/articles/204092246-Edit-your-profile)
 * if you want to interview someone about something, you need to ask permission to interview them and inform them about where their comments may end up being published prior to the start of the interview. 
 
 Everyone is welcome to participate, and no judgement will be made on members of the greater Mac community who are not a part of the community.
@@ -86,7 +93,9 @@ Don't be a bystander, be a leader. Role model respectful behavior, but also help
 
 ## Harassment-free
 
-The Mac Admins Slack is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
+
+The MacAdmins Slack Workspace is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
+
 
 We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the Mac Admins Slack at the discretion of the Administrative Team.
 
@@ -178,17 +187,20 @@ Additionally, if you are a reporter or a member of the press or media:
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, and you feel comfortable speaking with the offender, please inform the offender that they have affected you negatively. Often, the offending behavior is unintentional, and the accidental offender and offended will resolve the incident by having that initial discussion. As a world-wide community, we recognize that there are inherent language barriers we must work together to overcome.
 
-The Mac Admins Slack recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
+
+The MacAdmins Slack Workspace Administrative Team recognizes that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender *for any reason*, please report violations directly to a member of the Administrative Team.
 
 ## Administrators
 
-[Current List of Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md).
+
+[Current List of MacAdmins Slack Workspace Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md).
 
 The Administrative Team will handle all reports with discretion.
 
-If a party to a dispute is also a member of the Admin team, that person may have no role in the dispute resolution process except as a party; forfeiting any involvement in the enforcement and resolution process. It is the responsibility of that person to immediately inform the Admin team of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
+If a party to a dispute is also a member of the Administrative Team, that person may have no role in the dispute resolution process except as a party; forfeiting any involvement in the enforcement and resolution process. It is the responsibility of that person to immediately inform the Administrative Team of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
 
-If you have concerns regarding this Slack, please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy in the given situation.
+
+If you have concerns regarding this Slack workspace, please feel free to contact the Administrative Team and we will work to understand and address them respectfully and with an appropriate level of privacy in the given situation.
 
 ## Administrator Information Access
 
