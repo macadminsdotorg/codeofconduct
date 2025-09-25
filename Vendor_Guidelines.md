@@ -51,16 +51,16 @@ Here's an example conversation that is OK.
 
 > Vendor: So is it true that :  The new MacOS eliminates IMAGING… Deploy Studio???    [competitor] or OurProduct.com have possible the solutions?
 
-## 12.3 The `#i-built-a-thing` channel
+## 12.3 The `#vendor-announce` channel
 
-We have created the `#i-built-a-thing` channel so that vendors, startups, and anyone wishing to promote a new project, product, or service (free or otherwise) that is relevant to members of the Mac Admins community may post without a requirement to be relevant to a current discussion, as is the case in all other public channels. A discussion may be pursued in the thread of the post.
+We have created the `#vendor-announce` channel so that vendors, startups, and anyone wishing to promote a new project, product, or service (free or otherwise) that is relevant to members of the Mac Admins community may post without a requirement to be relevant to a current discussion, as is the case in all other public channels. A discussion may be pursued in the thread of the post.
 
 You must still adhere to the remaining guidelines:
 
 - While this channel is meant for promotions, it can still be considered 'spam' if you post repeatedly or cross-post to other channels.
 - It is advised to create a new channel for your product, service, or tool, and invite people to join that channel if they wish to hear anything more about it.
-- Do not add direct links in the `#i-built-a-thing` channel to any competitions, giveaways, surveys, or other means of gathering personal information. Instead, direct people to your own channel or your own website.
+- Do not add direct links in the `#vendor-announce` channel to any competitions, giveaways, surveys, or other means of gathering personal information. Instead, direct people to your own channel or your own website.
 
 ---
 
-V3.0 RC1 of this document was published November, 2024. You can see all prior versions of this artifact [here](https://github.com/macadminsdotorg/codeofconduct/commits/master/Vendor_Guidelines.md).
+V3.0 RC2 of this document was published September, 2025. You can see all prior versions of this artifact [here](https://github.com/macadminsdotorg/codeofconduct/commits/master/Vendor_Guidelines.md).
