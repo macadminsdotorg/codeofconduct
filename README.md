@@ -27,7 +27,7 @@ Thank you for following this Code of Conduct. We reserve the right to amend or c
 - [4. Read the Room](#4-read-the-room)
 - [5. Don't Be a Troll](#5-dont-be-a-troll)
 - [6. Don't Spam](#6-dont-spam)
-- [7. Be real](#7-be-real)
+- [7. Be Real](#7-be-real)
 - [8. Direct Message Etiquette](#8-direct-message-etiquette)
 - [9. Content Review Process](#9-content-review-process)
 - [10. Resolve Peacefully](#10-resolve-peacefully)
@@ -174,7 +174,7 @@ Posting the same message to multiple channels is considered spamming and is not 
 
 See also the additional [Vendor guidelines].
 
-## 7. Be real
+## 7. Be Real
 
 It is forbidden to impersonate an individual, or pretend to represent a company.
 
@@ -195,6 +195,14 @@ Unsolicited DMs are likely to be Code of Conduct violations, especially with a c
 - If you want to contact somebody specific due to something personal, such as that you met them at a conference and want to continue a conversation you had, ideally you would ask them during that conversation if it's OK to contact them later via Slack, but if you didn't do that, make sure that you keep it to a single message, ask if it's OK to continue the conversation, and do not expect a response. If they don't respond, respect that and leave it alone.
 - If you are a vendor, see the additional [Vendor guidelines].
 - If you are a member of the press, see the additional [Press & Media Guidelines](#14-press--media-guidelines).
+
+## 9. Private Channels
+
+It is allowed to create private channels. All aspects of the Code of Conduct apply equally in private channels as they do in public channels. Only channel managers and workspace admins, or members themselves, can remove members from private channels. The creator of a private channel is a channel manager, and they can appoint new members to be channel managers.
+
+Technically, any member of a private channel can invite new members into the channel. However, private channels may have agreed upon rules for adding new members, and these should be adhered to. However, controlling this is up to the existing members of the channel. 
+
+The Administrators have no access to private channels unless they are invited to join them. The Administrators can not see a list of private channels. Only the Workspace Owner (the MAF Board) can do this. Administrators may request to see this list if the board agrees.
 
 ## 9. Content Review Process
 
@@ -295,7 +303,7 @@ Anyone may recommend modifications to this Code of Conduct by opening a pull req
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-V3.0 RC1 of this Code of Conduct was published November, 2024. You can see all prior versions of this artifact [here](https://github.com/macadminsdotorg/codeofconduct/commits/master/README.md).
+V3.0 RC2 of this Code of Conduct was published September, 2025. You can see all prior versions of this artifact [here](https://github.com/macadminsdotorg/codeofconduct/commits/master/README.md).
 
 [Administrators]: https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md
 [Vendor Guidelines]: https://github.com/macadminsdotorg/codeofconduct/blob/master/Vendor_Guidelines.md
