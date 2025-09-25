@@ -11,7 +11,7 @@ Vendors can make up an important part of our community, and our Slack Workspace 
   - [12.2.2 What is OK](#1222-what-is-ok)
   - [12.2.3 What is not OK](#1223-what-is-not-ok)
 - [12.3 The `#vendor-announce` channel](#123-the-vendor-announce-channel)
-- [12.4 Use of private channels](#124-use-of-private-channel)s
+- [12.4 Use of private channels](#124-use-of-private-channels)
 
 ## 12.1 Direct messages
 
