@@ -11,6 +11,7 @@ Vendors can make up an important part of our community, and our Slack Workspace 
   - [12.2.2 What is OK](#1222-what-is-ok)
   - [12.2.3 What is not OK](#1223-what-is-not-ok)
 - [12.3 The `#vendor-announce` channel](#123-the-vendor-announce-channel)
+- [12.4 Use of private channels](#124-use-of-private-channel)s
 
 ## 12.1 Direct messages
 
@@ -60,6 +61,10 @@ You must still adhere to the remaining guidelines:
 - While this channel is meant for promotions, it can still be considered 'spam' if you post repeatedly or cross-post to other channels.
 - It is advised to create a new channel for your product, service, or tool, and invite people to join that channel if they wish to hear anything more about it.
 - Do not add direct links in the `#vendor-announce` channel to any competitions, giveaways, surveys, or other means of gathering personal information. Instead, direct people to your own channel or your own website.
+
+## 12.4 Use of private channels
+
+The Mac Admins Slack is not a substitute for a vendor operating their own platform. It is allowed to use private channels, but it is not allowed to require users to create accounts in Mac Admins Slack based on their company email in order to gain access to the channel. If you need to identify customers to interact with your customers, use your own enterprise system.
 
 ---
 
