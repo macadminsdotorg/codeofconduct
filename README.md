@@ -29,16 +29,17 @@ Thank you for following this Code of Conduct. We reserve the right to amend or c
 - [6. Don't Spam](#6-dont-spam)
 - [7. Be Real](#7-be-real)
 - [8. Direct Message Etiquette](#8-direct-message-etiquette)
-- [9. Content Review Process](#9-content-review-process)
-- [10. Resolve Peacefully](#10-resolve-peacefully)
-- [11. Reporting Incidents](#11-reporting-incidents)
-- [12. Incident Process](#12-incident-process)
-- [13. Recusement of Administrators part to an issue](#13-recusement-of-administrators-part-to-an-issue)
-- [14. Press \& Media Guidelines](#14-press--media-guidelines)
-- [15. Vendor Guidelines](#15-vendor-guidelines)
-- [15. Administrator Information Access](#15-administrator-information-access)
-- [16. Opinions of the Administrators](#16-opinions-of-the-administrators)
-- [17. Contacting the Mac Admins Foundation Board](#17-contacting-the-mac-admins-foundation-board)
+- [9. Private Channels](#9-private-channels)
+- [10. Content Review Process](#10-content-review-process)
+- [11. Resolve Peacefully](#11-resolve-peacefully)
+- [12. Reporting Incidents](#12-reporting-incidents)
+- [13. Incident Process](#13-incident-process)
+- [14. Recusement of Administrators part to an issue](#14-recusement-of-administrators-part-to-an-issue)
+- [15. Press \& Media Guidelines](#15-press--media-guidelines)
+- [16. Vendor Guidelines](#16-vendor-guidelines)
+- [17. Administrator Information Access](#17-administrator-information-access)
+- [18. Opinions of the Administrators](#18-opinions-of-the-administrators)
+- [19. Contacting the Mac Admins Foundation Board](#19-contacting-the-mac-admins-foundation-board)
 - [Become an Administrator](#become-an-administrator)
 - [Contributions and Modifications to the Code of Conduct](#contributions-and-modifications-to-the-code-of-conduct)
 
@@ -53,7 +54,7 @@ All are welcome to participate in the Mac Admins Slack as long as the tenets of 
 - Respect privacy.
 - Understand that this community is moderated voluntarily, and attempt to resolve issues without Administrators, but if you can't resolve an issue, you can contact the [Administrators].
 
-There are additional [Vendor Guidelines] and [Press & Media Guidelines](#14-press--media-guidelines).
+There are additional [Vendor Guidelines] and [Press & Media Guidelines](#15-press--media-guidelines).
 
 We expect participants to follow the Code of Conduct in all public and private channels (including direct messages).
 
@@ -119,7 +120,7 @@ Harassment includes, but is not limited to:
 - Purposeful psychological manipulation of any kind
 - Spamming of GIFs
 - Advocating for, or encouraging, any of the above behaviour
-- Direct messages or postings in channels/private groups of an overly sales/advertising/spam manner (see also additional [Vendor Guidelines] and [Press & Media Guidelines](#14-press--media-guidelines)).
+- Direct messages or postings in channels/private groups of an overly sales/advertising/spam manner (see also additional [Vendor Guidelines] and [Press & Media Guidelines](#15-press--media-guidelines)).
 
 ## 3. Privacy
 
@@ -182,7 +183,9 @@ As a member of a company, is is strictly not allowed to impersonate a customer o
 
 ## 8. Direct Message Etiquette
 
-A direct message ("DM") is a private message to one or more other members. Administators have no access to these messages and have no ability to delete them, but the CoC still applies to this content, as does the [Content Review Process](#7-content-review-process).
+A direct message ("DM") is a private message to one or more other members. Administators have no standing access to these messages and have no ability to delete them, but the CoC still applies to this content, as does the [Content Review Process](#10-content-review-process).
+
+> Note: See [15. Administrator Information Access](#17-administrator-information-access) for details on how the Slack Workspace Owner account can potentially be used to request access to DMs in the event of a serious issue.
 
 Sending a DM to another member you don't know might be jarring for the receiver. Before sending a DM to a member you've never contacted, consider the following:
 
@@ -194,17 +197,17 @@ Unsolicited DMs are likely to be Code of Conduct violations, especially with a c
 - If you are contacting somebody because you consider them to be an expert in something you need help on, first look for a channel that is relevant to that thing. Many vendors, maintainers of open source software and tools, and experts in specific topics, have created a channel for the thing you're trying to learn about. If you don't find a specific channel, try to find a more generic channel that is still somewhat relevant, and ask in there. Somebody will probably point you to the specific channel if it exists and you failed to find it yourself. If you really can't think of a relevant channel, ask for help in finding the relevant channel in the [#ask-about-this-slack channel].
 - If you want to contact somebody specific due to something personal, such as that you met them at a conference and want to continue a conversation you had, ideally you would ask them during that conversation if it's OK to contact them later via Slack, but if you didn't do that, make sure that you keep it to a single message, ask if it's OK to continue the conversation, and do not expect a response. If they don't respond, respect that and leave it alone.
 - If you are a vendor, see the additional [Vendor guidelines].
-- If you are a member of the press, see the additional [Press & Media Guidelines](#14-press--media-guidelines).
+- If you are a member of the press, see the additional [Press & Media Guidelines](#15-press--media-guidelines).
 
 ## 9. Private Channels
 
 It is allowed to create private channels. All aspects of the Code of Conduct apply equally in private channels as they do in public channels. Only channel managers and workspace admins, or members themselves, can remove members from private channels. The creator of a private channel is a channel manager, and they can appoint new members to be channel managers.
 
-Technically, any member of a private channel can invite new members into the channel. However, private channels may have agreed upon rules for adding new members, and these should be adhered to. However, controlling this is up to the existing members of the channel. 
+Technically, any member of a private channel can invite new members into the channel. However, private channels may have agreed upon rules for adding new members, and these should be adhered to. However, controlling this is up to the existing members of the channel.
 
 The Administrators have no access to private channels unless they are invited to join them. The Administrators can not see a list of private channels. Only the Workspace Owner (the MAF Board) can do this. Administrators may request to see this list if the board agrees.
 
-## 9. Content Review Process
+## 10. Content Review Process
 
 The Administrators may come across or be notified of content within or relating to the Mac Admins Slack Workspace that violates the Code of Conduct. In some situations, this may lead to an Administrator deleting the message (or messages) that violate the CoC. Messages most likely to be deleted are commercial solicitations, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
 
@@ -222,7 +225,7 @@ Additional consequences beyond the removal of content are up to the acting Admin
 
 Administators have no access to these messages and have no ability to delete them, however, violations should be addressed with Administators via the [Incident Process](https://github.com/macadminsdotorg/codeofconduct/blob/master/Incident_Process.md).
 
-## 10. Resolve Peacefully
+## 11. Resolve Peacefully
 
 As a large online community, we believe that peer-to-peer discussions, feedback, and corrections can help build a stronger, safer, more informed, and more welcoming community.
 
@@ -232,13 +235,13 @@ If you experience disrespectful behavior toward yourself or anyone else and feel
 
 Should you catch yourself behaving disrespectfully, or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. How you handle them and avoid repeating them in future matters. We are here to learn as professionals.
 
-## 11. Reporting Incidents
+## 12. Reporting Incidents
 
 If you feel that you are being harassed and you feel comfortable speaking with the offender, please inform the offender that they have affected you negatively. Often, the offending behavior is unintentional, and the accidental offender and offended will resolve the incident by having that initial discussion. As a world-wide community, we recognize that there are inherent language barriers we must work together to overcome.
 
 The Mac Admins Slack Workspace Administrators recognize that there are many reasons speaking directly to the offender may not be workable for you (all reasons are valid, we will never ask you to explain nor defend your reasons). If you don't feel comfortable speaking directly with the offender _for any reason_, please report violations directly to a member of the [Administrators].
 
-## 12. Incident Process
+## 13. Incident Process
 
 If you cannot resolve a situation peacefully, please refer to our [Incident Process](https://github.com/macadminsdotorg/codeofconduct/blob/master/Incident_Process.md) and choose a course of action that suits the situation.
 
@@ -246,24 +249,24 @@ Suppose the Administrators determine that a member is violating any part of this
 
 As Administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents everyday situations we've seen, but we can't foresee every situation. If in the Administrator's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
 
-## 13. Recusement of Administrators part to an issue
+## 14. Recusement of Administrators part to an issue
 
 If a party to a dispute is also a member of the Administrators team, that person will be recused from any role in the dispute resolution process except as a party, forfeiting any involvement in any enforcement and resolution process. It is the responsibility of that person to immediately inform the [Administrators] of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
 
-## 14. Press & Media Guidelines
+## 15. Press & Media Guidelines
 
 If you are a reporter or a member of the press, there are additional guidelines to which you must conform:
 
 - You must show that you are a reporter or a member of the press in your Slack profile. Documentation on how to do that is available in the link: [Edit Your Profile](https://slack.com/help/articles/204092246-Edit-your-profile)
 - If you want to interview someone about something, you need to ask permission to interview them first, and inform them about where their comments may end up being published _prior_ to the start of the interview.
 
-## 15. Vendor Guidelines
+## 16. Vendor Guidelines
 
 See the additional [Vendor Guidelines](https://github.com/macadminsdotorg/codeofconduct/blob/master/Vendor_Guidelines.md)
 
 If you have concerns regarding this Slack, please feel free to post in contact any of the Administrators and we will work to understand and address them respectfully and with an appropriate level of privacy in the given situation.
 
-## 15. Administrator Information Access
+## 17. Administrator Information Access
 
 As part of the role, Administrators have access to information not available to regular users. This information includes:
 
@@ -279,13 +282,13 @@ As part of Code of Conduct investigations, Administrators may choose to access t
 
 Administrators may use the above information as part of a Code of Conduct investigation. Use of this information for any reason unrelated to administrator work is forbidden and will be treated as a Code of Conduct violation.
 
-## 16. Opinions of the Administrators
+## 18. Opinions of the Administrators
 
 The Mac Admins Slack Administrators are here to ensure that the community runs within the spirit and guidelines of the Code Of Conduct, and to manage the technical aspects of keeping the Mac Admins Slack instance running. We are also members, and fellow Mac Admins, so when it comes to products, how to do things, why to do things etc., please take our input only as fellow Mac Admins and not as a representative of the Administrators.
 
 On all subjects, other than running of the Mac Admins Slack and the [CoC](https://github.com/macadminsdotorg/codeofconduct), the Administrators' opinions are their own and do not necessarily reflect those of the rest of Mac Admins Slack Administrators or the Mac Admins community.
 
-## 17. Contacting the Mac Admins Foundation Board
+## 19. Contacting the Mac Admins Foundation Board
 
 The members of the Mac Admins Foundation Board are not Administrators, unless they have chosen to also be an Administrator. As such, they should not be contacted by DM in regard to any matters relating to violations of the Code of Conduct, or for any reason that would be considered in violation of the Code of Conduct for any other member of this Slack Workspace.
 
@@ -299,11 +302,11 @@ New administrators are chosen by existing and outgoing administrators. We try to
 
 ## Contributions and Modifications to the Code of Conduct
 
-Anyone may recommend modifications to this Code of Conduct by opening a pull request [here](https://github.com/macadminsdotorg/codeofconduct). The request will be reviewed by the Administrator team before being approved. We will then also seek the approval of the Mac Admins Foundation Board.
+Anyone may recommend modifications to this Code of Conduct by opening a pull request. [Click here to access the Pull Request page](https://github.com/macadminsdotorg/codeofconduct/pulls). The request will be reviewed by the Administrator team before being approved. We will then also seek the approval of the Mac Admins Foundation Board.
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-V3.0 RC2 of this Code of Conduct was published September, 2025. You can see all prior versions of this artifact [here](https://github.com/macadminsdotorg/codeofconduct/commits/master/README.md).
+V3.0 of this Code of Conduct was published September, 2025. You can see all prior versions of this artifact in the [commit history](https://github.com/macadminsdotorg/codeofconduct/commits/master/README.md).
 
 [Administrators]: https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md
 [Vendor Guidelines]: https://github.com/macadminsdotorg/codeofconduct/blob/master/Vendor_Guidelines.md
