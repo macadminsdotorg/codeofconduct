@@ -34,7 +34,7 @@ Thank you for following this Code of Conduct. We reserve the right to amend or c
 - [11. Resolve Peacefully](#11-resolve-peacefully)
 - [12. Reporting Incidents](#12-reporting-incidents)
 - [13. Incident Process](#13-incident-process)
-- [14. Recusement of Administrators part to an issue](#14-recusement-of-administrators-part-to-an-issue)
+- [14. Recusement of Administrators party to an issue](#14-recusement-of-administrators-party-to-an-issue)
 - [15. Press \& Media Guidelines](#15-press--media-guidelines)
 - [16. Vendor Guidelines](#16-vendor-guidelines)
 - [17. Administrator Information Access](#17-administrator-information-access)
@@ -119,6 +119,7 @@ Harassment includes, but is not limited to:
 - Hate speech
 - Purposeful psychological manipulation of any kind
 - Spamming of GIFs
+- Weighing in on to an existing dispute, including gratuitous use of an emoji that triggers an action, such as the 🚚 (truck) emoji which may have been assigned as a reminder of the purpose of certain channels
 - Advocating for, or encouraging, any of the above behaviour
 - Direct messages or postings in channels/private groups of an overly sales/advertising/spam manner (see also additional [Vendor Guidelines] and [Press & Media Guidelines](#15-press--media-guidelines)).
 
@@ -203,9 +204,9 @@ Unsolicited DMs are likely to be Code of Conduct violations, especially with a c
 
 It is allowed to create private channels. All aspects of the Code of Conduct apply equally in private channels as they do in public channels. Only channel managers and workspace admins, or members themselves, can remove members from private channels. The creator of a private channel is a channel manager, and they can appoint new members to be channel managers.
 
-Technically, any member of a private channel can invite new members into the channel. However, private channels may have agreed upon rules for adding new members, and these should be adhered to. However, controlling this is up to the existing members of the channel.
-
 The Administrators have no access to private channels unless they are invited to join them. The Administrators can not see a list of private channels. Only the Workspace Owner (the MAF Board) can do this. Administrators may request to see this list if the board agrees.
+
+Technically, any member of a private channel can invite new members into the channel. However, private channels may have agreed upon rules for adding new members, and these should be adhered to. Controlling admission to private channels is up to the existing members of the channel, within the boundaries set by the CoC and Vendor Guidelines.
 
 ## 10. Content Review Process
 
@@ -249,7 +250,7 @@ Suppose the Administrators determine that a member is violating any part of this
 
 As Administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents everyday situations we've seen, but we can't foresee every situation. If in the Administrator's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
 
-## 14. Recusement of Administrators part to an issue
+## 14. Recusement of Administrators party to an issue
 
 If a party to a dispute is also a member of the Administrators team, that person will be recused from any role in the dispute resolution process except as a party, forfeiting any involvement in any enforcement and resolution process. It is the responsibility of that person to immediately inform the [Administrators] of the conflict. The only way a conflict of interest is applicable is when a person involved in the mediation/resolution process is also involved in the conflict. As members, we are entrusted to make decisions in the best interest of the community and set aside personal interest for the best interest of our community as a whole.
 

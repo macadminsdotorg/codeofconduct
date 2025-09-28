@@ -1,11 +1,11 @@
 
-# The Mac Admins Slack Incident Process
+# 13. The Mac Admins Slack Incident Process
 
 Our brief governing philosophy:
 
 *Please strive to resolve the situation by yourself. If you think that isn't possible or appropriate, please contact an Admin immediately.*
 
-## Something is Off
+## 13.1 Something is Off
 
 A significant part of the Mac Admins Slack Administrators' jobs is the management of incidents on the Mac Admins Slack, but ideally the community (that's you) has both the tools and the desire to resolve many situations without Admin support.
 
@@ -17,11 +17,11 @@ With CoC clarity in hand, please contact the member(s) and explain:
 
 1. This is the activity I saw which I have an issue with,
 2. it's in violation of the CoC, and,
-3. Let's figure out how to resolve it.
+3. let's figure out how to resolve it.
 
-Ideally, the above discussion can help resolve the situation. It often does. If does not, if you are not comfortable contacting the member(s), or if this is an obvious heinous situation, jump to "it's Admin o'clock".
+Ideally, the above discussion can help resolve the situation. It often does. If does not, if you are not comfortable contacting the member(s), or if this is an obvious heinous situation, jump to "It's Admin O'Clock" below.
 
-## It's Admin O'Clock
+## 13.2 It's Admin O'Clock
 
 Administrators can be contacted directly ([Current List of Administrators](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md)) or in the [#ask-about-this-slack channel](https://macadmins.slack.com/archives/C06PS0JKA). Please choose the path most comfortable for you.
 
@@ -38,7 +38,7 @@ Things to know:
 
 Once you've contacted an Administrator, they'll help you triage the incident.
 
-## Formal Incident Process
+## 13.3 Formal Incident Process
 
 In the case of a formal incident being reported, there are two possible resolution paths:
 
@@ -97,4 +97,4 @@ The current roster of Administrators is maintained in the primary [Current List 
 
 Based upon <https://github.com/randsleadershipslack/documents-and-resources/blob/main/incident-process.md>
 
-V3.0 RC1 of this document was published November, 2024. You can see all prior versions of this artifact [here](https://github.com/macadminsdotorg/codeofconduct/commits/master/Incident_Process.md).
+V3.0 of this Code of Conduct was published September, 2025. You can see all prior versions of this artifact in the [commit history](https://github.com/macadminsdotorg/codeofconduct/commits/master/Incident_Process.md).
