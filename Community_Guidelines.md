@@ -369,7 +369,7 @@ The Mac Admins Slack exists because thousands of professionals choose to spend t
 
 **Be kind. Be helpful. Be professional. Be yourself.**
 
-Welcome to The Mac Admins Slack! 🍎
+Welcome to The Mac Admins Slack!
 
 ---
 
