@@ -34,7 +34,8 @@ These Community Guidelines supplement our [Code of Conduct](./code-of-conduct.md
 ### General Guidelines
 
 **Be Clear and Concise**
-- Use threads to keep conversations organized
+- Threading varies by channel - most channels don't thread as we predate that feature
+- Observe channel norms before posting
 - Break long messages into paragraphs
 - Use formatting (bold, code blocks) appropriately
 - Search before asking - your question may be answered already
@@ -58,6 +59,7 @@ These Community Guidelines supplement our [Code of Conduct](./code-of-conduct.md
 - Provide context (OS version, device model, MDM, etc.)
 - Include error messages or logs (use snippets for long text)
 - Post in the most relevant channel
+- We're here to educate and help you learn, not do your work for you
 - Update the thread if you solve your own problem
 
 **Answering Questions**
@@ -65,7 +67,7 @@ These Community Guidelines supplement our [Code of Conduct](./code-of-conduct.md
 - Explain your reasoning, don't just post commands
 - Link to documentation when relevant
 - If you're unsure, say so
-- Use threads to avoid channel clutter
+- Follow the channel's threading conventions
 
 **Sharing Solutions**
 - Share code snippets as files or formatted code blocks
@@ -112,6 +114,14 @@ These Community Guidelines supplement our [Code of Conduct](./code-of-conduct.md
   - 👀 = I'm looking into this
   - 🙏 = thank you
   - 📝 = documented/noted
+
+**Special Channel Structures**
+
+Some channels have specific posting and discussion patterns:
+
+- **#jobs-board / #jobs-chat** - Job postings go in #jobs-board, discussion happens in #jobs-chat. Threaded replies on specific job postings are fine, but general chatter moves to #jobs-chat.
+
+- **#politics** - There is a private politics channel. To request access, see the placeholder #politics channel and DM an Admin.
 
 ### Direct Messages
 
@@ -167,7 +177,7 @@ See the detailed [Vendor Policy](./vendor-policy.md) for complete guidelines. Su
 - Sharing your blog posts in #blog-posts
 - Conference talk announcements in #conferences
 - Open source project launches in #github
-- Job postings in #jobs (follow channel guidelines)
+- Job postings in #jobs-board (discussion in #jobs-chat)
 
 **Not Allowed:**
 - Repeated self-promotion
@@ -193,7 +203,7 @@ See the detailed [Vendor Policy](./vendor-policy.md) for complete guidelines. Su
 
 - Add alt text to images when possible
 - Use descriptive link text, not "click here"
-- Use threads for long conversations
+- Follow channel threading norms
 - Avoid wall-of-text messages
 - Use headings in longer posts
 
@@ -225,9 +235,9 @@ See the detailed [Vendor Policy](./vendor-policy.md) for complete guidelines. Su
 ### Requires Caution
 
 **Politics:**
-- Keep discussions relevant to our work (e.g., tech policy, privacy laws)
-- Avoid partisan discussions
-- Move heated political debates to DM or off-platform
+- There is a private #politics channel available
+- Request access by DMing an Admin (see placeholder channel #politics)
+- General channels: keep politics relevant to our work (tech policy, privacy laws)
 - Admins may intervene if discussions become disruptive
 
 **Religion:**
@@ -253,27 +263,22 @@ See the detailed [Vendor Policy](./vendor-policy.md) for complete guidelines. Su
 
 ## Bots and Automation
 
-### User Bots
-
-- Request Admin approval before adding bots
-- Bots must add value to the community
-- Don't use bots for spam or monitoring
-- Bots must follow all CoC guidelines
+Only MAF-approved bots are enabled in the workspace. User bots and custom integrations are not permitted.
 
 ### Slash Commands and Integrations
 
-- Use built-in commands appropriately
-- Don't abuse integrations to spam channels
+- Use built-in Slack commands appropriately
 - Report malfunctioning bots to Admins
 
 ## Data and Privacy
 
 ### Your Data
 
-- Understand that free Slack workspaces retain 90 days of messages
+- The Mac Admins Slack is on a Business+ plan with full message and file retention
+- Everything you post is retained permanently
 - Don't post sensitive information (passwords, keys, etc.)
-- Use Slack's scheduled deletion for sensitive messages
 - Assume anything posted may become public
+- There is no message deletion - be thoughtful about what you post
 
 ### Others' Data
 
