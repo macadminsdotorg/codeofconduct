@@ -96,7 +96,7 @@ This policy applies to:
 
 **Recruiting Violations**
 - Mass-recruiting members via DM
-- Posting job listings outside #jobs channel
+- Posting job listings outside #jobs-board
 - Headhunting without Admin approval
 - Aggressive talent recruitment
 
@@ -139,27 +139,42 @@ This policy applies to:
 - Pure sales pitches disguised as conference announcements
 - Repeatedly posting about the same event
 
-### #github and #opensource
+### #vendor-announce
+
+**Purpose:** Did you make something and want the world to know about it? Tell us about it! Commercial activity is permitted in this channel.
 
 **Allowed:**
-- Sharing open-source projects (including commercial products)
-- Announcing open-source releases
-- Asking for feedback on open projects
-- Contributing to community projects
+- Product announcements and launches
+- Major updates and new features
+- Open-source project releases
+- Commercial products and services
+- Include context and value proposition
 
-**Not Allowed:**
-- Promoting closed-source products
-- Using open-source as a sales funnel without value
+**Guidelines:**
+- This is the primary channel for vendor announcements
+- Be clear about what you're announcing
+- Provide relevant links and details
+- Commercial promotion is explicitly allowed here
 
-### #jobs
+### #jobs-board and #jobs-chat
 
-See channel-specific guidelines. Generally:
+**#jobs-board** - Post job listings here
+**#jobs-chat** - Discuss jobs, career advice, general job talk
+
+**Requirements:**
 - Post jobs relevant to Mac admins
 - Include location/remote status
-- Don't recruit via DM without permission
-- Follow job posting frequency limits
+- Include salary range if required by local law (CA, CO, NYC, etc.)
+- Salary disclosure encouraged for all postings but required where legally mandated
+- Postings without legally required salary info will be removed
+- Threaded discussion about specific jobs is fine, general chatter goes to #jobs-chat
 
-### #random and Social Channels
+**Not Allowed:**
+- Mass recruiting via DM
+- Posting outside #jobs-board
+- Reposting the same job repeatedly without updates
+
+### Social Channels
 
 - Participate as a community member, not a vendor
 - Off-topic chat is welcome
@@ -364,7 +379,9 @@ See the following runbooks for handling vendor violations:
 
 > **Vendor in #blog-posts:** "I wrote up our team's approach to zero-touch DEP deployment. Thought it might be useful even if you're not using our product: [link]. Would love feedback! (Disclosure: I work for VendorCo)"
 
-> **Vendor in #random:** "Anyone else watching the game tonight? 🏈"
+> **Vendor in #vendor-announce:** "Excited to announce VendorCo 2.0 with native Apple Silicon support and zero-touch enrollment. Built specifically for Mac admins based on community feedback. Details: [link]"
+
+> **Vendor in social channel:** "Anyone else watching the game tonight?"
 
 ### ❌ Bad Vendor Participation
 
@@ -375,6 +392,8 @@ See the following runbooks for handling vendor violations:
 > **Vendor via DM (unsolicited):** "Hi, I saw you're working on [topic]. We have a solution that could help. When can we set up a 30-minute demo?"
 
 > **Vendor in #jamf:** "Yeah, we looked at Jamf but went with [OurProduct] instead. Jamf has too many issues and their support is terrible."
+
+> **Vendor in #jobs-board:** "Hiring Mac Admin in San Francisco" (Missing legally required salary range for CA)
 
 ## Version History
 
