@@ -7,13 +7,13 @@
 
 ## Purpose
 
-These Community Guidelines supplement our [Code of Conduct](./code-of-conduct.md) with practical guidance for participating in The Mac Admins Slack. While the Code of Conduct defines what is not acceptable, these guidelines describe what good community participation looks like.
+These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md) with practical guidance for participating in The Mac Admins Slack. While the Code of Conduct defines what is not acceptable, these guidelines describe what good community participation looks like.
 
 ## Getting Started
 
 ### Joining the Workspace
 
-- Read and understand the [Code of Conduct](./code-of-conduct.md)
+- Read and understand the [Code of Conduct](./Code_of_Conduct.md)
 - Complete your profile with your name and role (optional but encouraged)
 - Introduce yourself in #introductions
 - Browse channel descriptions to find relevant discussions
@@ -139,7 +139,7 @@ Some channels have specific posting and discussion patterns:
 
 ## Vendor and Commercial Participation
 
-See the detailed [Vendor Policy](./vendor-policy.md) for complete guidelines. Summary:
+See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Summary:
 
 **✅ Acceptable:**
 - Participating authentically as a community member
@@ -292,7 +292,7 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 - Admins can access all channels and DMs if needed for investigations
 - Admins follow strict confidentiality policies
 - Data access is logged and auditable
-- See [Admin Runbooks](../README.md) for procedures
+- Admin Runbooks available for admins
 
 ## Recognition and Credit
 
@@ -334,8 +334,8 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 
 ## Resources
 
-- [Code of Conduct](./code-of-conduct.md) - What's not acceptable
-- [Vendor Policy](./vendor-policy.md) - Guidelines for vendors
+- [Code of Conduct](./Code_of_Conduct.md) - What's not acceptable
+- [Vendor Policy](./Vendor_Policy.md) - Guidelines for vendors
 - [Admin Channels](./admin-channels.md) - How to contact Admins
 - [Escalation Matrix](./escalation-matrix.md) - How Admins handle issues
 
@@ -359,7 +359,7 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 
 These guidelines evolve based on community needs. To suggest improvements:
 
-1. Open an issue in the [runbooks repository](https://github.com/macadmins/slack-admin-runbooks)
+1. Open an issue in the runbooks repository
 2. Discuss in #macadminsfoundation
 3. Contact an Admin or MAF Board member
 

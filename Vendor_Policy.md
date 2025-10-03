@@ -258,11 +258,11 @@ Admins may request verification of vendor identity to ensure authenticity. This 
 - Company email verification
 - Video call verification (for active participants)
 
-See [Identity Verification Runbook](../runbooks/identity-verification.md) for details.
+Admins may request identity verification as needed.
 
 ## Enforcement
 
-Vendor policy violations are handled according to the [Code of Conduct](./code-of-conduct.md) enforcement procedures:
+Vendor policy violations are handled according to the [Code of Conduct](./Code_of_Conduct.md) enforcement procedures:
 
 ### First Violation (Minor)
 - Private warning from Admin
@@ -335,8 +335,8 @@ Vendors who follow these guidelines and participate authentically receive:
 
 ### For New Vendors
 
-1. Read the [Code of Conduct](./code-of-conduct.md)
-2. Read the [Community Guidelines](./community-guidelines.md)
+1. Read the [Code of Conduct](./Code_of_Conduct.md)
+2. Read the [Community Guidelines](./Community_Guidelines.md)
 3. Complete your Slack profile with company info
 4. Introduce yourself in #introductions (mention your company)
 5. Observe conversations for a few weeks before participating
@@ -362,14 +362,11 @@ If you experience vendor behavior that violates this policy:
    - Links to messages or screenshots
    - Whether it's ongoing
 
-See [Code of Conduct](./code-of-conduct.md) for full reporting procedures.
+See [Code of Conduct](./Code_of_Conduct.md) for full reporting procedures.
 
 ## For Admins
 
-See the following runbooks for handling vendor violations:
-- [Identity Verification](../runbooks/identity-verification.md)
-- [Spam Handling](../runbooks/spam-handling.md) (when created)
-- [Member Suspension](../runbooks/member-suspension.md) (when created)
+Admin runbooks are available for handling vendor violations including identity verification, spam handling, and member suspension procedures.
 
 ## Examples
 

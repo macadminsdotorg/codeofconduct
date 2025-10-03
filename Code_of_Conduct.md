@@ -56,7 +56,7 @@ The following behaviors are not tolerated:
 - Threats of violence or violent language
 - Deliberate intimidation or stalking
 - Sustained disruption of discussions
-- Spam or unsolicited commercial messages (see [Vendor Policy](./vendor-policy.md))
+- Spam or unsolicited commercial messages (see [Vendor Policy](./Vendor_Policy.md))
 - Sharing of CSAM (child sexual abuse material) or other illegal content
 - Any conduct that could reasonably be considered inappropriate in a professional setting
 
@@ -170,7 +170,7 @@ Admins are responsible for:
 - Removing, editing, or rejecting content that violates this CoC
 - Temporarily or permanently banning any member for behaviors they deem inappropriate, threatening, offensive, or harmful
 - Handling all reports with confidentiality and respect
-- Following the [Admin Runbooks](../README.md) for consistent enforcement
+- Following Admin Runbooks for consistent enforcement
 
 Admins who do not follow or enforce this Code of Conduct may face temporary or permanent removal from the Admin team.
 
@@ -187,9 +187,8 @@ Admin decisions can be appealed to MAF leadership through the process above.
 ## Additional Policies
 
 This Code of Conduct is supplemented by:
-- [Community Guidelines](./community-guidelines.md) - Detailed expectations and best practices
-- [Vendor Policy](./vendor-policy.md) - Rules for vendor participation and promotional content
-- [Admin Runbooks](../README.md) - Procedures for handling violations
+- [Community Guidelines](./Community_Guidelines.md) - Detailed expectations and best practices
+- [Vendor Policy](./Vendor_Policy.md) - Rules for vendor participation and promotional content
 
 ## Modifications
 
