@@ -58,6 +58,7 @@ The following behaviors are not tolerated:
 - Sustained disruption of discussions
 - Spam or unsolicited commercial messages (see [Vendor Policy](./Vendor_Policy.md))
 - Sharing of CSAM (child sexual abuse material) or other illegal content
+- Scraping, harvesting, or collecting member data without authorization (including email addresses, usernames, profiles, or workspace metadata)
 - Any conduct that creates a hostile, intimidating, or exclusionary environment for community members (including sustained patterns of behavior that may individually seem minor but collectively undermine community safety)
 
 ## Reporting

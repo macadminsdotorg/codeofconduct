@@ -139,6 +139,8 @@ This policy applies to:
 **Not Allowed:**
 - Pure sales pitches disguised as conference announcements
 - Repeatedly posting about the same event
+- Collecting attendee email addresses or member data without explicit consent
+- Using conference attendance to scrape or harvest member information
 
 ### #vendor-announce
 
