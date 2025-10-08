@@ -58,7 +58,7 @@ The following behaviors are not tolerated:
 - Sustained disruption of discussions
 - Spam or unsolicited commercial messages (see [Vendor Policy](./Vendor_Policy.md))
 - Sharing of CSAM (child sexual abuse material) or other illegal content
-- Any conduct that could reasonably be considered inappropriate in a professional setting
+- Any conduct that creates a hostile, intimidating, or exclusionary environment for community members (including sustained patterns of behavior that may individually seem minor but collectively undermine community safety)
 
 ## Reporting
 
@@ -203,7 +203,14 @@ Admins must maintain the trust of the community and are expected to:
 - **Act impartially:** All enforcement decisions must be made objectively and consistently, regardless of the admin's personal or commercial relationships
 - **Be transparent:** Admins should disclose relevant affiliations when participating in discussions related to their employer or products
 
-Admins who do not follow or enforce this Code of Conduct, or who abuse their position, may face temporary or permanent removal from the Admin team.
+**Consequences of Misconduct:**
+
+Admins who do not follow or enforce this Code of Conduct, or who abuse their position, may face:
+- Temporary or permanent removal from the Admin team
+- Temporary or permanent suspension from the Slack workspace
+- Other corrective action determined by the MAF Board
+
+The MAF Board has authority to determine appropriate consequences based on the severity and nature of the misconduct.
 
 ## Scope of Admin Authority
 
