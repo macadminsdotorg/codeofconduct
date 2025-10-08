@@ -142,6 +142,24 @@ This policy applies to:
 - Collecting attendee email addresses or member data without explicit consent
 - Using conference attendance to scrape or harvest member information
 
+### #meetups
+
+**Allowed:**
+- Announcing local or virtual meetups open to the community
+- Sharing meetup details and registration information
+- Organizing community-focused events
+
+**Requirements:**
+- Events must be open to all community members who wish to attend
+- No vendor-exclusive events or customer-only gatherings
+- If a meeting is internal or limited to specific groups, do not post in #meetups
+- Be transparent about any vendor sponsorship or hosting
+
+**Not Allowed:**
+- Posting invite-only events exclusive to your customers
+- Posting internal company meetings or closed-door events
+- Using meetups as exclusive lead generation or sales opportunities
+
 ### #vendor-announce
 
 **Purpose:** Did you make something and want the world to know about it? Tell us about it! Commercial activity is permitted in this channel.
