@@ -59,7 +59,7 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 - Provide context (OS version, device model, MDM, etc.)
 - Include error messages or logs (use snippets for long text)
 - Post in the most relevant channel
-- We're here to educate and help you learn, not do your work for you
+- We're happy to guide you through solving problems—please share what you've already tried so we can help more effectively
 - Update the thread if you solve your own problem
 
 **Answering Questions**
@@ -87,7 +87,7 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 
 **When Tensions Rise**
 - Take a break before responding
-- Assume good intent
+- Assume good intent, but remember that impact matters regardless of intent—take responsibility if your words cause harm
 - Ask clarifying questions
 - Invite Admin mediation if needed
 - Remember: being right isn't worth being rude
@@ -119,6 +119,10 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 
 Some channels have specific posting and discussion patterns:
 
+- **#appleseed** - Discussion of Apple Seed programs and beta testing
+- **#apple-feedback** - Coordinating Apple feedback submissions
+- **#jamf-product-issues** - Jamf-specific product issues and troubleshooting
+- **#blog-feed / #blog-chat** - Blog posts appear in #blog-feed, discussion happens in #blog-chat
 - **#jobs-board / #jobs-chat** - Job postings go in #jobs-board, discussion happens in #jobs-chat. Threaded replies on specific job postings are fine, but general chatter moves to #jobs-chat.
 
 - **#politics** - There is a private politics channel. To request access, see the placeholder #politics channel and DM an Admin.
@@ -129,7 +133,7 @@ Some channels have specific posting and discussion patterns:
 - Sensitive topics not appropriate for public channels
 - Continuing a conversation that's gone off-topic
 - Contacting Admins about CoC violations
-- Networking or mentorship requests
+- Networking or mentorship requests (when you have an existing relationship or context from public channels)
 
 **DM Etiquette**
 - Ask if someone is open to DMs before sending lengthy messages
@@ -150,7 +154,8 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 **❌ Not Acceptable:**
 - Cold-calling members via DM
 - Posting promotional content without context
-- Astroturfing or fake testimonials
+- Astroturfing (fake grassroots support) or sockpuppeting (using fake accounts to post testimonials or promote products)
+- Impersonation (including vendors/competitors posing as customers)
 - Disparaging competitors
 - Recruiting without Admin approval
 
@@ -247,7 +252,9 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 - Admins may intervene if discussions become contentious
 
 **Controversial Topics:**
-- Use content warnings for potentially triggering topics
+- Admins determine what constitutes a controversial topic based on community impact and whether discussions become disruptive
+- Examples include: contentious social issues, divisive current events, sensitive workplace situations
+- Use content warnings for potentially triggering topics (format: "[CW: topic]" at the start of your message)
 - Consider whether Slack is the right venue
 - Move to DMs if requested
 - Stop if asked by Admins
@@ -275,10 +282,11 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 ### Your Data
 
 - The Mac Admins Slack is on a Business+ plan with full message and file retention
-- Everything you post is retained permanently
+- Everything you post is retained permanently in Slack's systems
+- Users can request deletion of individual messages, but there is no bulk data deletion or "right to be forgotten" option
 - Don't post sensitive information (passwords, keys, etc.)
 - Assume anything posted may become public
-- There is no message deletion - be thoughtful about what you post
+- Be thoughtful about what you post - message history is permanent
 
 ### Others' Data
 
@@ -359,7 +367,7 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 
 These guidelines evolve based on community needs. To suggest improvements:
 
-1. Open an issue in the runbooks repository
+1. Open an issue in the [runbooks repository](https://github.com/macadminsdotorg/runbooks)
 2. Discuss in #macadminsfoundation
 3. Contact an Admin or MAF Board member
 

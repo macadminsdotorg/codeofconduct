@@ -76,21 +76,22 @@ This policy applies to:
 - Posting the same promotion in multiple channels
 
 **Deceptive Practices**
-- Creating fake accounts to post fake testimonials
+- Creating fake accounts to post fake testimonials or promote products
 - Paying members to promote your product without disclosure
-- Sock-puppeting or astroturfing
+- Sock-puppeting (using fake accounts to amplify support for your legitimate account or product)
+- Astroturfing (creating fake grassroots enthusiasm or testimonials)
 - Misrepresenting product capabilities
 - Hiding your vendor affiliation
 
 **Competitor Disparagement**
 - Bashing competitor products
-- Spreading FUD (fear, uncertainty, doubt) about competitors
+- Spreading FUD (Fear, Uncertainty, and Doubt) about competitors
 - Comparing your product to competitors unsolicited
 - Brigading discussions about competitor products
 
 **Aggressive Sales Tactics**
 - Pressuring members to buy
-- Following up repeatedly after a "no"
+- Following up after a "no"
 - Making exaggerated or false claims
 - Creating false urgency ("limited time offer" spam)
 
@@ -253,12 +254,24 @@ If two vendors from competing companies have a disagreement:
 
 ## Identity Verification for Vendors
 
-Admins may request verification of vendor identity to ensure authenticity. This may include:
+Admins may request verification of vendor identity to ensure authenticity and prevent impersonation.
+
+**When verification is requested:**
+- Typically after a vendor becomes an active participant in discussions
+- May be triggered by community reports or concerns
+- Can be proactive for vendors in high-visibility roles
+
+**Verification methods may include:**
 - LinkedIn profile confirmation
 - Company email verification
 - Video call verification (for active participants)
 
-Admins may request identity verification as needed.
+**What happens if verification is refused:**
+- Vendor may be subject to additional scrutiny
+- Possible restrictions on promotional activities
+- In cases of suspected impersonation, temporary suspension pending verification
+
+Verification is not required for all vendors—only when authenticity concerns arise or for vendors with significant community presence.
 
 ## Enforcement
 

@@ -1,6 +1,6 @@
 # The Mac Admins Slack Code of Conduct
 
-**Version:** 2.0 (Proposed)
+**Version:** 4.0 (Proposed)
 **Last Updated:** 3 October 2025
 **Owner:** Mac Admins Foundation
 **Review Cycle:** Annually
@@ -70,9 +70,10 @@ If you experience or witness unacceptable behavior:
    - Current Admins are announced monthly in #announce
    - Any Admin can help, or will connect you with the right person
 
-2. **Use the @admins mention** in the channel (for urgent matters)
+2. **Use the @admins mention** in public channels (for urgent matters)
    - This notifies all Admins immediately
    - Use this for urgent safety concerns or ongoing harassment
+   - Note: If you're in a private channel, please DM an Admin directly instead
 
 3. **Email:** admin@macadmins.org (if you prefer not to use Slack)
 
@@ -120,13 +121,13 @@ Violations are categorized by severity:
 - Potential temporary channel restrictions
 
 #### Level 3: Serious Violation
-**Examples:** Harassment, discriminatory behavior, repeated moderate violations, doxxing, threats
+**Examples:** Harassment, discriminatory behavior, repeated moderate violations, doxxing, threats, impersonation (including vendor impersonation or astroturfing)
 
 **Response:**
 - Temporary suspension (1-30 days)
 - Formal documentation
-- Required commitment to follow CoC
-- Review before reinstatement
+- All members required to acknowledge and commit to following CoC
+- Demonstration of understanding before reinstatement
 - May include permanent channel restrictions
 
 #### Level 4: Severe Violation
@@ -149,6 +150,8 @@ For repeated violations:
 
 ## Appeals
 
+### Appealing Enforcement Actions
+
 If you believe an enforcement action was made in error:
 
 1. **Contact:** admin@macadmins.org
@@ -162,6 +165,26 @@ If you believe an enforcement action was made in error:
 
 Appeals are only available for Level 2-3 violations. Level 4 (severe) violations have no appeal except in extraordinary circumstances.
 
+### Reporting Admin Misconduct
+
+If you believe an Admin has violated this Code of Conduct or abused their position:
+
+1. **Contact:** board@macadmins.org (bypasses the admin team)
+2. **Include:**
+   - Admin username
+   - Description of the misconduct
+   - Date, time, and context
+   - Any supporting evidence
+   - How the admin's actions violated the CoC or accountability standards
+3. **Timeline:** MAF Board reviews within 7 days
+4. **Process:**
+   - The admin in question will not participate in the review
+   - Board may consult other admins or community members
+   - Board has authority to remove admins or implement corrective action
+   - You will be notified of the outcome when appropriate
+
+Community members may also petition the MAF Board for admin removal by emailing board@macadmins.org with supporting evidence and community feedback.
+
 ## Admin Responsibilities
 
 Admins are responsible for:
@@ -172,7 +195,15 @@ Admins are responsible for:
 - Handling all reports with confidentiality and respect
 - Following Admin Runbooks for consistent enforcement
 
-Admins who do not follow or enforce this Code of Conduct may face temporary or permanent removal from the Admin team.
+### Admin Accountability
+
+Admins must maintain the trust of the community and are expected to:
+- **Avoid conflicts of interest:** Admins must not use their position for commercial advantage, to silence criticism of their products/services, to provide preferential treatment for their company, or to advance personal interests
+- **Recuse when appropriate:** Admins should recuse themselves from enforcement decisions involving their employer, competitors, or situations where they have a personal conflict of interest
+- **Act impartially:** All enforcement decisions must be made objectively and consistently, regardless of the admin's personal or commercial relationships
+- **Be transparent:** Admins should disclose relevant affiliations when participating in discussions related to their employer or products
+
+Admins who do not follow or enforce this Code of Conduct, or who abuse their position, may face temporary or permanent removal from the Admin team.
 
 ## Scope of Admin Authority
 
@@ -183,6 +214,20 @@ Admins have the authority to:
 - Make decisions about workspace settings and policies
 
 Admin decisions can be appealed to MAF leadership through the process above.
+
+## Privacy and Data Retention
+
+**Important:** Members should be aware of the following data practices:
+
+- The Mac Admins Slack operates on a Business+ plan with full message and file retention
+- All messages, files, and content are retained permanently in Slack's systems
+- Users may request deletion of individual messages, but bulk data deletion or "right to be forgotten" is not available
+- Admins can access all channels and DMs if needed for Code of Conduct investigations
+- Admin access is logged, auditable, and subject to strict confidentiality policies
+- Do not post sensitive information (passwords, credentials, personal data, etc.)
+- Assume any content posted may become public
+
+For more details, see the Data and Privacy section in [Community Guidelines](./Community_Guidelines.md).
 
 ## Additional Policies
 
