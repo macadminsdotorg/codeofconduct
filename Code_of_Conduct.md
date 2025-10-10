@@ -7,9 +7,15 @@
 
 ## Purpose
 
-The Mac Admins Slack is a global community for professionals managing Apple devices. This Code of Conduct ensures our workspace remains welcoming, professional, and productive for all members.
+The Mac Admins Slack is a global community for professionals managing Apple devices. For more than ten years, it has provided a common space for people throughout the globe to connect with each other, solve problems, and learn new technologies. This place has provided common ground for Mac Admins, vendors, Apple, and other interested parties to work on problems, devise solutions, talk through challenges, and build new workflows.
+
+The coordination of this place has long depended on the community's openness to each other, professional respect for each other, and dedication to the larger mission.
+
+This Code of Conduct ensures our workspace remains welcoming, professional, and productive for all members.
 
 ## Scope
+
+The scope of this agreement is very broad, because this community is very broad. This Code of Conduct document is intended to be clear for all the people reading and all who are part of this community.
 
 This Code of Conduct applies to:
 - All public channels
@@ -18,6 +24,8 @@ This Code of Conduct applies to:
 - Any workspace communication or interaction
 
 ## Our Commitment
+
+The Mac Admins Foundation has a clear obligation to keep the Mac Admins Slack a safe and open community. This is designed to welcome new members, encourage collaboration in our global community, and provide psychological safety for our members.
 
 We are committed to providing a harassment-free, professional environment for everyone, regardless of:
 - Gender identity and expression
@@ -282,3 +290,4 @@ By participating in The Mac Admins Slack, you agree to abide by this Code of Con
 |---------|------|---------|
 | 1.0 | [Previous] | Original Code of Conduct |
 | 2.0 | 2025-10-03 | Major revision: Added enforcement levels, reporting procedures, appeals process, admin responsibilities, and supplementary policy links |
+| 2.1 | 2025-10-10 | Minor revision: Included more narrative language |
