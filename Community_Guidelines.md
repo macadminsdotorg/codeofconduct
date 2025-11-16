@@ -41,7 +41,6 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 - Search before asking - your question may be answered already
 
 **Be Respectful of Time**
-- Don't use @channel or @here unless absolutely necessary
 - Use @admins only for urgent admin matters
 - Respect "do not disturb" and timezone differences
 - Be patient waiting for responses - this is an async community
