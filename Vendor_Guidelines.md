@@ -37,6 +37,7 @@ If you wish to promote your product in a public channel, it is important that:
 
 - Your message is relevant to the current discussion topic. For example, if you make a disk partitioning tool, it may be useful to post a link to your own channel if the current discussion is on that topic.
 - Your message cannot be considered 'spam' - in addition to being on topic, it shouldn't be posted repeatedly, either in the same channel or in multiple channels.
+- Your participation is timely and current, and not creating or adding to zombie threads that are more than 30 days without activity.
 
 ### 16.2.2 What is OK
 
