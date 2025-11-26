@@ -32,23 +32,17 @@
   - [8.2 Requires Caution](#82-requires-caution)
   - [8.3 Not Appropriate for This Workspace](#83-not-appropriate-for-this-workspace)
 - [9. Bots and Automation](#9-bots-and-automation)
-  - [9.1 Slash Commands and Integrations](#91-slash-commands-and-integrations)
 - [10. Data and Privacy](#10-data-and-privacy)
   - [10.1 Your Data](#101-your-data)
   - [10.2 Others' Data](#102-others-data)
   - [10.3 Admin Access](#103-admin-access)
 - [11. Recognition and Credit](#11-recognition-and-credit)
-  - [11.1 Giving Credit](#111-giving-credit)
-  - [11.2 Receiving Credit](#112-receiving-credit)
 - [12. When Things Go Wrong](#12-when-things-go-wrong)
   - [12.1 If You Made a Mistake](#121-if-you-made-a-mistake)
   - [12.2 If You're Affected by Someone Else's Behavior](#122-if-youre-affected-by-someone-elses-behavior)
   - [12.3 If You're Contacted by an Admin](#123-if-youre-contacted-by-an-admin)
 - [13. Resources](#13-resources)
 - [14. Getting Help](#14-getting-help)
-  - [14.1 Technical Help](#141-technical-help)
-  - [14.2 Admin Help](#142-admin-help)
-  - [14.3 MAF Questions](#143-maf-questions)
 - [15. Contributing to These Guidelines](#15-contributing-to-these-guidelines)
 - [16. Final Thoughts](#16-final-thoughts)
 - [17. Revision History](#17-revision-history)
@@ -63,20 +57,20 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 
 ### 2.1 Joining the Workspace
 
-- **2.1.a** Read and understand the [Code of Conduct](./Code_of_Conduct.md)
-- **2.1.b** Complete your profile with your name and role (optional but encouraged)
-- **2.1.c** Introduce yourself in #introductions
-- **2.1.d** Browse channel descriptions to find relevant discussions
+- Read and understand the [Code of Conduct](./Code_of_Conduct.md)
+- Complete your profile with your name and role (optional but encouraged)
+- Introduce yourself in #introductions
+- Browse channel descriptions to find relevant discussions
 
 ### 2.2 Setting Up Your Profile
 
 **Recommended profile information:**
 
-- **2.2.a** Full name (or preferred name)
-- **2.2.b** Current role and organization (optional)
-- **2.2.c** Pronouns (optional)
-- **2.2.d** Time zone (helpful for async communication)
-- **2.2.e** Profile photo (optional)
+- Full name (or preferred name)
+- Current role and organization (optional)
+- Pronouns (optional)
+- Time zone (helpful for async communication)
+- Profile photo (optional)
 
 **Privacy note:** Only share what you're comfortable making public.
 
@@ -84,368 +78,338 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 
 ### 3.1 General Guidelines
 
-#### 3.1.1 Be Clear and Concise
+**Be Clear and Concise**
+- Threading varies by channel - most channels don't thread as we predate that feature
+- Observe channel norms before posting
+- Break long messages into paragraphs
+- Use formatting (bold, code blocks) appropriately
+- Search before asking - your question may be answered already
 
-- **3.1.1.a** Threading varies by channel - most channels don't thread as we predate that feature
-- **3.1.1.b** Observe channel norms before posting
-- **3.1.1.c** Break long messages into paragraphs
-- **3.1.1.d** Use formatting (bold, code blocks) appropriately
-- **3.1.1.e** Search before asking - your question may be answered already
+**Be Respectful of Time**
+- Use @admins only for urgent admin matters
+- Respect "do not disturb" and timezone differences
+- Be patient waiting for responses - this is an async community
 
-#### 3.1.2 Be Respectful of Time
-
-- **3.1.2.a** Use @admins only for urgent admin matters
-- **3.1.2.b** Respect "do not disturb" and timezone differences
-- **3.1.2.c** Be patient waiting for responses - this is an async community
-
-#### 3.1.3 Be Inclusive
-
-- **3.1.3.a** Remember this is a global community with varying English proficiency
-- **3.1.3.b** Avoid idioms and cultural references that may not translate
-- **3.1.3.c** Be patient with misunderstandings
-- **3.1.3.d** Offer clarification when asked
+**Be Inclusive**
+- Remember this is a global community with varying English proficiency
+- Avoid idioms and cultural references that may not translate
+- Be patient with misunderstandings
+- Offer clarification when asked
 
 ### 3.2 Technical Discussions
 
-#### 3.2.1 Asking Questions
+**Asking Questions**
+- Search Slack history first
+- Provide context (OS version, device model, MDM, etc.)
+- Include error messages or logs (use snippets for long text)
+- Post in the most relevant channel
+- Share what you've already tried so we can help more effectively
+- Update the thread if you solve your own problem
 
-- **3.2.1.a** Search Slack history first
-- **3.2.1.b** Provide context (OS version, device model, MDM, etc.)
-- **3.2.1.c** Include error messages or logs (use snippets for long text)
-- **3.2.1.d** Post in the most relevant channel
-- **3.2.1.e** We're happy to guide you through solving problems—please share what you've already tried so we can help more effectively
-- **3.2.1.f** Update the thread if you solve your own problem
+**Answering Questions**
+- Be kind - everyone was new once
+- Explain your reasoning, don't just post commands
+- Link to documentation when relevant
+- If you're unsure, say so
+- Follow the channel's threading conventions
 
-#### 3.2.2 Answering Questions
-
-- **3.2.2.a** Be kind - everyone was new once
-- **3.2.2.b** Explain your reasoning, don't just post commands
-- **3.2.2.c** Link to documentation when relevant
-- **3.2.2.d** If you're unsure, say so
-- **3.2.2.e** Follow the channel's threading conventions
-
-#### 3.2.3 Sharing Solutions
-
-- **3.2.3.a** Share code snippets as files or formatted code blocks
-- **3.2.3.b** Include comments in scripts
-- **3.2.3.c** Explain any prerequisites or caveats
-- **3.2.3.d** Link to GitHub repos for longer code
-- **3.2.3.e** Credit original authors if adapting their work
+**Sharing Solutions**
+- Share code snippets as files or formatted code blocks
+- Include comments in scripts
+- Explain any prerequisites or caveats
+- Link to GitHub repos for longer code
+- Credit original authors if adapting their work
 
 ### 3.3 Debates and Disagreements
 
-#### 3.3.1 Healthy Debate
+**Healthy Debate**
+- Focus on ideas, not people
+- Use "I" statements: "I've found..." not "You're wrong..."
+- Acknowledge valid points
+- Know when to agree to disagree
+- Consider moving heated discussions to DM
 
-- **3.3.1.a** Focus on ideas, not people
-- **3.3.1.b** Use "I" statements: "I've found..." not "You're wrong..."
-- **3.3.1.c** Acknowledge valid points
-- **3.3.1.d** Know when to agree to disagree
-- **3.3.1.e** Consider moving heated discussions to DM
-
-#### 3.3.2 When Tensions Rise
-
-- **3.3.2.a** Take a break before responding
-- **3.3.2.b** Assume good intent, but remember that impact matters regardless of intent—take responsibility if your words cause harm
-- **3.3.2.c** Ask clarifying questions
-- **3.3.2.d** Invite Admin mediation if needed
-- **3.3.2.e** Remember: being right isn't worth being rude
+**When Tensions Rise**
+- Take a break before responding
+- Assume good intent, but remember that impact matters regardless of intent—take responsibility if your words cause harm
+- Ask clarifying questions
+- Invite Admin mediation if needed
+- Remember: being right isn't worth being rude
 
 ## 4. Channel Etiquette
 
 ### 4.1 Public Channels
 
-#### 4.1.1 On-Topic Conversations
+**On-Topic Conversations**
+- Read channel descriptions and topics
+- Stay generally on-topic
+- Ask Admins if you're unsure where to post
+- Use #random for off-topic chat
 
-- **4.1.1.a** Read channel descriptions and topics
-- **4.1.1.b** Stay generally on-topic
-- **4.1.1.c** Ask Admins if you're unsure where to post
-- **4.1.1.d** Use #random for off-topic chat
+**Cross-Posting**
+- Avoid posting the same question in multiple channels
+- If you must cross-post, mention where else you've posted
+- Don't tag multiple people with the same question
 
-#### 4.1.2 Cross-Posting
-
-- **4.1.2.a** Avoid posting the same question in multiple channels
-- **4.1.2.b** If you must cross-post, mention where else you've posted
-- **4.1.2.c** Don't tag multiple people with the same question
-
-#### 4.1.3 Reactions and Emoji
-
-- **4.1.3.a** Use reactions instead of "+1" messages
-- **4.1.3.b** Common reactions:
+**Reactions and Emoji**
+- Use reactions instead of "+1" messages
+- Common reactions:
   - ✅ = solved/resolved
   - 👀 = I'm looking into this
   - 🙏 = thank you
   - 📝 = documented/noted
 
-#### 4.1.4 Special Channel Structures
+**Special Channel Structures**
 
 Some channels have specific posting and discussion patterns:
 
-- **4.1.4.a** **#appleseed** - Discussion of Apple Seed programs and beta testing
-- **4.1.4.b** **#apple-feedback** - Coordinating Apple feedback submissions
-- **4.1.4.c** **#jamf-product-issues** - Jamf-specific product issues and troubleshooting
-- **4.1.4.d** **#blog-feed / #blog-chat** - Blog posts appear in #blog-feed, discussion happens in #blog-chat
-- **4.1.4.e** **#jobs-board / #jobs-chat** - Job postings go in #jobs-board, discussion happens in #jobs-chat. Threaded replies on specific job postings are fine, but general chatter moves to #jobs-chat.
-- **4.1.4.f** **#politics** - There is a private politics channel. To request access, see the placeholder #politics channel and DM an Admin.
+- **#appleseed** - Discussion of Apple Seed programs and beta testing
+- **#apple-feedback** - Coordinating Apple feedback submissions
+- **#jamf-product-issues** - Jamf-specific product issues and troubleshooting
+- **#blog-feed / #blog-chat** - Blog posts appear in #blog-feed, discussion happens in #blog-chat
+- **#jobs-board / #jobs-chat** - Job postings go in #jobs-board, discussion happens in #jobs-chat. Threaded replies on specific job postings are fine, but general chatter moves to #jobs-chat.
+- **#politics** - There is a private politics channel. To request access, see the placeholder #politics channel and DM an Admin.
 
 ### 4.2 Direct Messages
 
-#### 4.2.1 When to DM
+**When to DM**
+- Sensitive topics not appropriate for public channels
+- Continuing a conversation that's gone off-topic
+- Contacting Admins about CoC violations
+- Networking or mentorship requests (when you have an existing relationship or context from public channels)
 
-- **4.2.1.a** Sensitive topics not appropriate for public channels
-- **4.2.1.b** Continuing a conversation that's gone off-topic
-- **4.2.1.c** Contacting Admins about CoC violations
-- **4.2.1.d** Networking or mentorship requests (when you have an existing relationship or context from public channels)
-
-#### 4.2.2 DM Etiquette
-
-- **4.2.2.a** Ask if someone is open to DMs before sending lengthy messages
-- **4.2.2.b** Respect "no" - not everyone wants to chat privately
-- **4.2.2.c** Don't use DMs to bypass channel guidelines (e.g., unsolicited sales)
-- **4.2.2.d** Report inappropriate DMs to Admins
+**DM Etiquette**
+- Ask if someone is open to DMs before sending lengthy messages
+- Respect "no" - not everyone wants to chat privately
+- Don't use DMs to bypass channel guidelines (e.g., unsolicited sales)
+- Report inappropriate DMs to Admins
 
 ## 5. Vendor and Commercial Participation
 
 See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Summary:
 
 **✅ Acceptable:**
-
-- **5.a** Participating authentically as a community member
-- **5.b** Answering technical questions about your products
-- **5.c** Sharing relevant announcements in appropriate channels
-- **5.d** Transparent disclosure of affiliation
+- Participating authentically as a community member
+- Answering technical questions about your products
+- Sharing relevant announcements in appropriate channels
+- Transparent disclosure of affiliation
 
 **❌ Not Acceptable:**
-
-- **5.e** Cold-calling members via DM
-- **5.f** Posting promotional content without context
-- **5.g** Astroturfing (fake grassroots support) or sockpuppeting (using fake accounts to post testimonials or promote products)
-- **5.h** Impersonation (including vendors/competitors posing as customers)
-- **5.i** Disparaging competitors
-- **5.j** Recruiting without Admin approval
+- Cold-calling members via DM
+- Posting promotional content without context
+- Astroturfing (fake grassroots support) or sockpuppeting (using fake accounts to post testimonials or promote products)
+- Impersonation (including vendors/competitors posing as customers)
+- Disparaging competitors
+- Recruiting without Admin approval
 
 ## 6. Content Sharing
 
 ### 6.1 Links and Resources
 
 **Acceptable:**
-
-- **6.1.a** Blog posts (your own or others')
-- **6.1.b** Documentation and how-to guides
-- **6.1.c** Open source projects
-- **6.1.d** Conference talks and recordings
-- **6.1.e** Relevant news articles
+- Blog posts (your own or others')
+- Documentation and how-to guides
+- Open source projects
+- Conference talks and recordings
+- Relevant news articles
 
 **Guidelines:**
-
-- **6.1.f** Provide context - don't just drop links
-- **6.1.g** Disclose if it's your own content
-- **6.1.h** Use appropriate channels (#blog-posts, #conferences, etc.)
-- **6.1.i** Don't link to paywalled content without mentioning it
+- Provide context - don't just drop links
+- Disclose if it's your own content
+- Use appropriate channels (#blog-posts, #conferences, etc.)
+- Don't link to paywalled content without mentioning it
 
 ### 6.2 Self-Promotion
 
 **Allowed (in moderation):**
-
-- **6.2.a** Sharing your blog posts in #blog-posts
-- **6.2.b** Conference talk announcements in #conferences
-- **6.2.c** Open source project launches in #github
-- **6.2.d** Job postings in #jobs-board (discussion in #jobs-chat)
+- Sharing your blog posts in #blog-posts
+- Conference talk announcements in #conferences
+- Open source project launches in #github
+- Job postings in #jobs-board (discussion in #jobs-chat)
 
 **Not Allowed:**
-
-- **6.2.e** Repeated self-promotion
-- **6.2.f** Off-topic promotion
-- **6.2.g** Promotional content disguised as help
+- Repeated self-promotion
+- Off-topic promotion
+- Promotional content disguised as help
 
 ### 6.3 Screenshots and Recordings
 
-#### 6.3.1 Privacy Considerations
+**Privacy Considerations**
+- Blur or redact sensitive information (names, emails, IPs, etc.)
+- Don't share screenshots of DMs without permission
+- Don't share internal company information
+- Assume workspace conversations are public
 
-- **6.3.1.a** Blur or redact sensitive information (names, emails, IPs, etc.)
-- **6.3.1.b** Don't share screenshots of DMs without permission
-- **6.3.1.c** Don't share internal company information
-- **6.3.1.d** Assume workspace conversations are public
-
-#### 6.3.2 Recording Policy
-
-- **6.3.2.a** Don't record calls without consent
-- **6.3.2.b** Don't share recordings of Slack calls externally
-- **6.3.2.c** Admin team may record calls for training purposes (with notice)
+**Recording Policy**
+- Don't record calls without consent
+- Don't share recordings of Slack calls externally
+- Admin team may record calls for training purposes (with notice)
 
 ## 7. Accessibility and Inclusion
 
 ### 7.1 Making Content Accessible
 
-- **7.1.a** Add alt text to images when possible
-- **7.1.b** Use descriptive link text, not "click here"
-- **7.1.c** Follow channel threading norms
-- **7.1.d** Avoid wall-of-text messages
-- **7.1.e** Use headings in longer posts
+- Add alt text to images when possible
+- Use descriptive link text, not "click here"
+- Follow channel threading norms
+- Avoid wall-of-text messages
+- Use headings in longer posts
 
 ### 7.2 Language and Communication
 
-- **7.2.a** Use clear, simple language
-- **7.2.b** Define acronyms on first use
-- **7.2.c** Be patient with non-native English speakers
-- **7.2.d** Avoid sarcasm - it doesn't translate well
-- **7.2.e** Use emoji thoughtfully (some are culturally specific)
+- Use clear, simple language
+- Define acronyms on first use
+- Be patient with non-native English speakers
+- Avoid sarcasm - it doesn't translate well
+- Use emoji thoughtfully (some are culturally specific)
 
 ### 7.3 Neurodiversity
 
-- **7.3.a** Some members may communicate differently
-- **7.3.b** Be patient with communication styles
-- **7.3.c** Assume good intent
-- **7.3.d** Offer clarification without judgment
+- Some members may communicate differently
+- Be patient with communication styles
+- Assume good intent
+- Offer clarification without judgment
 
 ## 8. Topics to Approach Carefully
 
 ### 8.1 Generally Acceptable (But Be Respectful)
 
-- **8.1.a** Apple platform technical discussions (primary purpose)
-- **8.1.b** IT and systems administration
-- **8.1.c** Career advice and development
-- **8.1.d** Conference and meetup announcements
-- **8.1.e** Industry news relevant to Mac admins
+- Apple platform technical discussions (primary purpose)
+- IT and systems administration
+- Career advice and development
+- Conference and meetup announcements
+- Industry news relevant to Mac admins
 
 ### 8.2 Requires Caution
 
-#### 8.2.1 Politics
+**Politics**
+- There is a private #politics channel available
+- Request access by DMing an Admin (see placeholder channel #politics)
+- General channels: keep politics relevant to our work (tech policy, privacy laws)
+- Admins may intervene if discussions become disruptive
 
-- **8.2.1.a** There is a private #politics channel available
-- **8.2.1.b** Request access by DMing an Admin (see placeholder channel #politics)
-- **8.2.1.c** General channels: keep politics relevant to our work (tech policy, privacy laws)
-- **8.2.1.d** Admins may intervene if discussions become disruptive
+**Religion**
+- Respect all beliefs and non-beliefs
+- Keep discussions civil
+- Don't proselytize
+- Admins may intervene if discussions become contentious
 
-#### 8.2.2 Religion
-
-- **8.2.2.a** Respect all beliefs and non-beliefs
-- **8.2.2.b** Keep discussions civil
-- **8.2.2.c** Don't proselytize
-- **8.2.2.d** Admins may intervene if discussions become contentious
-
-#### 8.2.3 Controversial Topics
-
-- **8.2.3.a** Admins determine what constitutes a controversial topic based on community impact and whether discussions become disruptive
-- **8.2.3.b** Examples include: contentious social issues, divisive current events, sensitive workplace situations
-- **8.2.3.c** Use content warnings for potentially triggering topics (format: "[CW: topic]" at the start of your message)
-- **8.2.3.d** Consider whether Slack is the right venue
-- **8.2.3.e** Move to DMs if requested
-- **8.2.3.f** Stop if asked by Admins
+**Controversial Topics**
+- Admins determine what constitutes a controversial topic based on community impact and whether discussions become disruptive
+- Examples include: contentious social issues, divisive current events, sensitive workplace situations
+- Use content warnings for potentially triggering topics (format: "[CW: topic]" at the start of your message)
+- Consider whether Slack is the right venue
+- Move to DMs if requested
+- Stop if asked by Admins
 
 ### 8.3 Not Appropriate for This Workspace
 
-- **8.3.a** Cryptocurrency promotion or investment advice
-- **8.3.b** Multi-level marketing (MLM)
-- **8.3.c** Political activism unrelated to tech
-- **8.3.d** Personal grievances with employers (use discretion)
-- **8.3.e** Legal advice (we're not lawyers)
-- **8.3.f** Medical advice (we're not doctors)
+- Cryptocurrency promotion or investment advice
+- Multi-level marketing (MLM)
+- Political activism unrelated to tech
+- Personal grievances with employers (use discretion)
+- Legal advice (we're not lawyers)
+- Medical advice (we're not doctors)
 
 ## 9. Bots and Automation
 
 Only MAF-approved bots are enabled in the workspace. User bots and custom integrations are not permitted.
 
-### 9.1 Slash Commands and Integrations
-
-- **9.1.a** Use built-in Slack commands appropriately
-- **9.1.b** Report malfunctioning bots to Admins
+**Slash Commands and Integrations**
+- Use built-in Slack commands appropriately
+- Report malfunctioning bots to Admins
 
 ## 10. Data and Privacy
 
 ### 10.1 Your Data
 
-- **10.1.a** The Mac Admins Slack is on a Business+ plan with full message and file retention
-- **10.1.b** Everything you post is retained permanently in Slack's systems
-- **10.1.c** Users can request deletion of individual messages, but there is no bulk data deletion or "right to be forgotten" option
-- **10.1.d** Don't post sensitive information (passwords, keys, etc.)
-- **10.1.e** Assume anything posted may become public
-- **10.1.f** Be thoughtful about what you post - message history is permanent
+- The Mac Admins Slack is on a Business+ plan with full message and file retention
+- Everything you post is retained permanently in Slack's systems
+- Users can request deletion of individual messages, but there is no bulk data deletion or "right to be forgotten" option
+- Don't post sensitive information (passwords, keys, etc.)
+- Assume anything posted may become public
+- Be thoughtful about what you post - message history is permanent
 
 ### 10.2 Others' Data
 
-- **10.2.a** Don't collect member data without permission
-- **10.2.b** Don't scrape the workspace
-- **10.2.c** Don't share member information outside Slack
-- **10.2.d** Report data harvesting to Admins
+- Don't collect member data without permission
+- Don't scrape the workspace
+- Don't share member information outside Slack
+- Report data harvesting to Admins
 
 ### 10.3 Admin Access
 
-- **10.3.a** Admins can access all channels and DMs if needed for investigations
-- **10.3.b** Admins follow strict confidentiality policies
-- **10.3.c** Data access is logged and auditable
-- **10.3.d** Admin Runbooks available for admins
+- Admins can access all channels and DMs if needed for investigations
+- Admins follow strict confidentiality policies
+- Data access is logged and auditable
+- Admin Runbooks available for admins
 
 ## 11. Recognition and Credit
 
-### 11.1 Giving Credit
+**Giving Credit**
+- Credit others' work and ideas
+- Link to original sources
+- Tag people when sharing their content
+- Say thank you
 
-- **11.1.a** Credit others' work and ideas
-- **11.1.b** Link to original sources
-- **11.1.c** Tag people when sharing their content
-- **11.1.d** Say thank you
-
-### 11.2 Receiving Credit
-
-- **11.2.a** Accept credit gracefully
-- **11.2.b** Acknowledge collaborators
-- **11.2.c** Share the spotlight
+**Receiving Credit**
+- Accept credit gracefully
+- Acknowledge collaborators
+- Share the spotlight
 
 ## 12. When Things Go Wrong
 
 ### 12.1 If You Made a Mistake
 
-- **12.1.a** Acknowledge it
-- **12.1.b** Apologize if appropriate
-- **12.1.c** Learn from it
-- **12.1.d** Move forward
+1. Acknowledge it
+2. Apologize if appropriate
+3. Learn from it
+4. Move forward
 
 ### 12.2 If You're Affected by Someone Else's Behavior
 
-- **12.2.a** Consider addressing it directly (if safe and comfortable)
-- **12.2.b** Report to Admins if it violates the CoC
-- **12.2.c** Use the mute or block features if needed
-- **12.2.d** Know that Admins take reports seriously
+1. Consider addressing it directly (if safe and comfortable)
+2. Report to Admins if it violates the CoC
+3. Use the mute or block features if needed
+4. Know that Admins take reports seriously
 
 ### 12.3 If You're Contacted by an Admin
 
-- **12.3.a** Respond promptly and respectfully
-- **12.3.b** Provide your perspective
-- **12.3.c** Ask questions if you don't understand
-- **12.3.d** Accept the outcome gracefully (or use appeals process)
+- Respond promptly and respectfully
+- Provide your perspective
+- Ask questions if you don't understand
+- Accept the outcome gracefully (or use appeals process)
 
 ## 13. Resources
 
-- **13.a** [Code of Conduct](./Code_of_Conduct.md) - What's not acceptable
-- **13.b** [Vendor Policy](./Vendor_Policy.md) - Guidelines for vendors
-- **13.c** [Admin Channels](./admin-channels.md) - How to contact Admins
-- **13.d** [Escalation Matrix](./escalation-matrix.md) - How Admins handle issues
+- [Code of Conduct](./Code_of_Conduct.md) - What's not acceptable
+- [Vendor Policy](./Vendor_Policy.md) - Guidelines for vendors
+- [Admin Channels](./admin-channels.md) - How to contact Admins
+- [Escalation Matrix](./escalation-matrix.md) - How Admins handle issues
 
 ## 14. Getting Help
 
-### 14.1 Technical Help
+**Technical Help**
+- Post in relevant technical channels
+- Search history first
+- Provide context and details
 
-- **14.1.a** Post in relevant technical channels
-- **14.1.b** Search history first
-- **14.1.c** Provide context and details
+**Admin Help**
+- DM any Admin for questions
+- Use @admins for urgent matters
+- Email admin@macadmins.org
 
-### 14.2 Admin Help
-
-- **14.2.a** DM any Admin for questions
-- **14.2.b** Use @admins for urgent matters
-- **14.2.c** Email admin@macadmins.org
-
-### 14.3 MAF Questions
-
-- **14.3.a** #macadminsfoundation channel
-- **14.3.b** board@macadmins.org
+**MAF Questions**
+- #macadminsfoundation channel
+- board@macadmins.org
 
 ## 15. Contributing to These Guidelines
 
 These guidelines evolve based on community needs. To suggest improvements:
 
-- **15.a** Open an issue in the [runbooks repository](https://github.com/macadminsdotorg/runbooks)
-- **15.b** Discuss in #macadminsfoundation
-- **15.c** Contact an Admin or MAF Board member
+1. Open an issue in the [runbooks repository](https://github.com/macadminsdotorg/runbooks)
+2. Discuss in #macadminsfoundation
+3. Contact an Admin or MAF Board member
 
 ## 16. Final Thoughts
 
@@ -462,4 +426,4 @@ Welcome to The Mac Admins Slack!
 | Version | Date | Changes |
 |---------|------|---------|
 | 1.0 | 2025-10-03 | Initial community guidelines |
-| 1.1 | 2025-11-26 | Added comprehensive section and item numbering for easy reference |
+| 1.1 | 2025-11-26 | Added section numbering for easy reference |
