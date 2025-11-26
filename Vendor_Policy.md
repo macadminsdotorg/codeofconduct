@@ -41,11 +41,11 @@
 
 ---
 
-## 1. Purpose
+## [1. Purpose](#1-purpose)
 
 The Mac Admins Slack welcomes vendors as community members. This policy clarifies expectations for vendor participation to ensure vendors contribute value while maintaining the community's focus on authentic peer-to-peer knowledge sharing.
 
-## 2. Scope
+## [2. Scope](#2-scope)
 
 This policy applies to:
 
@@ -55,7 +55,7 @@ This policy applies to:
 - Service providers
 - Anyone with commercial interests in products/services relevant to Mac administration
 
-## 3. Philosophy
+## [3. Philosophy](#3-philosophy)
 
 **We welcome vendors who:**
 - Participate authentically as community members
@@ -69,7 +69,7 @@ This policy applies to:
 - Astroturfing or fake testimonials
 - Competitor disparagement
 
-## 4. Vendor Participation Guidelines
+## [4. Vendor Participation Guidelines](#4-vendor-participation-guidelines)
 
 ### 4.1 Acceptable Vendor Behavior
 
@@ -138,7 +138,7 @@ This policy applies to:
 - Headhunting without Admin approval
 - Aggressive talent recruitment
 
-## 5. Channel-Specific Guidelines
+## [5. Channel-Specific Guidelines](#5-channel-specific-guidelines)
 
 ### 5.1 Technical Channels (#mac, #ios, #jamf, etc.)
 
@@ -238,7 +238,7 @@ This policy applies to:
 - Off-topic chat is welcome
 - Don't turn social conversations into sales opportunities
 
-## 6. Direct Messages (DMs)
+## [6. Direct Messages (DMs)](#6-direct-messages-dms)
 
 ### 6.1 Acceptable DM Use
 
@@ -267,7 +267,7 @@ This policy applies to:
 - Don't ask "why not"
 - Move on gracefully
 
-## 7. Special Circumstances
+## [7. Special Circumstances](#7-special-circumstances)
 
 ### 7.1 Sponsored Content
 
@@ -312,7 +312,7 @@ If two vendors from competing companies have a disagreement:
 - Involve Admins if needed
 - Remember: you're representing your company
 
-## 8. Identity Verification for Vendors
+## [8. Identity Verification for Vendors](#8-identity-verification-for-vendors)
 
 Admins may request verification of vendor identity to ensure authenticity and prevent impersonation.
 
@@ -333,9 +333,9 @@ Admins may request verification of vendor identity to ensure authenticity and pr
 
 Verification is not required for all vendors—only when authenticity concerns arise or for vendors with significant community presence.
 
-## 9. Enforcement
+## [9. Enforcement](#9-enforcement)
 
-Vendor policy violations are handled according to the [Code of Conduct](./Code_of_Conduct.md) enforcement procedures:
+Vendor policy violations are handled according to the [Code of Conduct enforcement procedures](./Code_of_Conduct.md#7-enforcement):
 
 **First Violation (Minor)**
 - Private warning from Admin
@@ -357,7 +357,7 @@ Vendor policy violations are handled according to the [Code of Conduct](./Code_o
 - Possible escalation to legal (for harassment, doxxing, etc.)
 - Notification to other communities if relevant
 
-## 10. Vendor Benefits
+## [10. Vendor Benefits](#10-vendor-benefits)
 
 Vendors who follow these guidelines and participate authentically receive:
 
@@ -381,7 +381,7 @@ Vendors who follow these guidelines and participate authentically receive:
 - Organic recruiting opportunities
 - Industry reputation building
 
-## 11. Best Practices for Vendors
+## [11. Best Practices for Vendors](#11-best-practices-for-vendors)
 
 **Do's**
 - Complete your profile with company affiliation
@@ -402,7 +402,7 @@ Vendors who follow these guidelines and participate authentically receive:
 - Bad-mouth competitors
 - Track community sentiment for competitive advantage without giving back
 
-## 12. Vendor Resources
+## [12. Vendor Resources](#12-vendor-resources)
 
 **For New Vendors**
 1. Read the [Code of Conduct](./Code_of_Conduct.md)
@@ -418,7 +418,7 @@ Vendors who follow these guidelines and participate authentically receive:
 - **Sponsorship inquiries:** board@macadmins.org
 - **Policy clarification:** admin@macadmins.org
 
-## 13. Reporting Vendor Violations
+## [13. Reporting Vendor Violations](#13-reporting-vendor-violations)
 
 If you experience vendor behavior that violates this policy:
 
@@ -431,13 +431,13 @@ If you experience vendor behavior that violates this policy:
    - Links to messages or screenshots
    - Whether it's ongoing
 
-See [Code of Conduct](./Code_of_Conduct.md) for full reporting procedures.
+See [Code of Conduct Section 6: Reporting](./Code_of_Conduct.md#6-reporting) for full reporting procedures.
 
-## 14. For Admins
+## [14. For Admins](#14-for-admins)
 
 Admin runbooks are available for handling vendor violations including identity verification, spam handling, and member suspension procedures.
 
-## 15. Examples
+## [15. Examples](#15-examples)
 
 **Good Vendor Participation**
 
@@ -461,12 +461,14 @@ Admin runbooks are available for handling vendor violations including identity v
 
 > **Vendor in #jobs-board:** "Hiring Mac Admin in San Francisco" (Missing legally required salary range for CA)
 
-## 16. Version History
+## [16. Version History](#16-version-history)
 
 | Version | Date | Changes |
 |---------|------|---------|
 | 1.0 | 2025-10-03 | Initial vendor policy |
 | 1.1 | 2025-11-26 | Added section numbering for easy reference |
+| 1.2 | 2025-11-26 | Added clickable section links for cross-references |
+| 1.3 | 2025-11-26 | Made section headings clickable for easy link sharing |
 
 ---
 

@@ -37,7 +37,7 @@
 
 ---
 
-## 1. Purpose
+## [1. Purpose](#1-purpose)
 
 The Mac Admins Slack is a global community for professionals managing Apple devices. For more than ten years, it has provided a common space for people throughout the globe to connect with each other, solve problems, and learn new technologies. This place has provided common ground for Mac Admins, vendors, Apple, and other interested parties to work on problems, devise solutions, talk through challenges, and build new workflows.
 
@@ -45,7 +45,7 @@ The coordination of this place has long depended on the community's openness to 
 
 This Code of Conduct ensures our workspace remains welcoming, professional, and productive for all members.
 
-## 2. Scope
+## [2. Scope](#2-scope)
 
 The scope of this agreement is very broad, because this community is very broad. This Code of Conduct document is intended to be clear for all the people reading and all who are part of this community.
 
@@ -56,7 +56,7 @@ This Code of Conduct applies to:
 - Direct messages between members
 - Any workspace communication or interaction
 
-## 3. Our Commitment
+## [3. Our Commitment](#3-our-commitment)
 
 The Mac Admins Foundation has a clear obligation to keep the Mac Admins Slack a safe and open community. This is designed to welcome new members, encourage collaboration in our global community, and provide psychological safety for our members.
 
@@ -75,7 +75,7 @@ We are committed to providing a harassment-free, professional environment for ev
 - Professional experience level
 - Educational background
 
-## 4. Expected Behavior
+## [4. Expected Behavior](#4-expected-behavior)
 
 All community members are expected to:
 
@@ -87,7 +87,7 @@ All community members are expected to:
 - Show empathy toward other community members
 - Credit others' work and ideas appropriately
 
-## 5. Unacceptable Behavior
+## [5. Unacceptable Behavior](#5-unacceptable-behavior)
 
 The following behaviors are not tolerated:
 
@@ -105,7 +105,7 @@ The following behaviors are not tolerated:
 - Scraping, harvesting, or collecting member data without authorization (including email addresses, usernames, profiles, or workspace metadata)
 - Any conduct that creates a hostile, intimidating, or exclusionary environment for community members (including sustained patterns of behavior that may individually seem minor but collectively undermine community safety)
 
-## 6. Reporting
+## [6. Reporting](#6-reporting)
 
 ### 6.1 How to Report
 
@@ -141,7 +141,7 @@ When reporting, please provide:
 - **No retaliation:** Reporting in good faith will not result in negative consequences
 - **Updates:** You'll be informed of the outcome when appropriate
 
-## 7. Enforcement
+## [7. Enforcement](#7-enforcement)
 
 ### 7.1 Violation Levels
 
@@ -159,7 +159,7 @@ Violations are categorized by severity:
 
 #### 7.1.2 Level 2: Moderate Violation
 
-**Examples:** Repeated Level 1 violations, disrespectful behavior, promotional content after warning, disruptive behavior
+**Examples:** Repeated [Level 1](#711-level-1-minor-violation) violations, disrespectful behavior, promotional content after warning, disruptive behavior
 
 **Response:**
 - Formal written warning
@@ -170,7 +170,7 @@ Violations are categorized by severity:
 
 #### 7.1.3 Level 3: Serious Violation
 
-**Examples:** Harassment, discriminatory behavior, repeated moderate violations, doxxing, threats, impersonation (including vendor impersonation or astroturfing)
+**Examples:** Harassment, discriminatory behavior, repeated [Level 2](#712-level-2-moderate-violation) violations, doxxing, threats, impersonation (including vendor impersonation or astroturfing)
 
 **Response:**
 - Temporary suspension (1-30 days)
@@ -181,7 +181,7 @@ Violations are categorized by severity:
 
 #### 7.1.4 Level 4: Severe Violation
 
-**Examples:** Threats of violence, CSAM, severe harassment, coordinated attacks, repeated serious violations
+**Examples:** Threats of violence, CSAM, severe harassment, coordinated attacks, repeated [Level 3](#713-level-3-serious-violation) violations
 
 **Response:**
 - Immediate permanent ban
@@ -199,7 +199,7 @@ For repeated violations:
 
 **Note:** Severe violations skip progressive discipline and result in immediate permanent ban.
 
-## 8. Appeals
+## [8. Appeals](#8-appeals)
 
 ### 8.1 Appealing Enforcement Actions
 
@@ -214,7 +214,7 @@ If you believe an enforcement action was made in error:
 3. **Timeline:** Appeals reviewed within 7 days
 4. **Decision:** MAF Board makes final decision on appeals
 
-Appeals are only available for Level 2-3 violations. Level 4 (severe) violations have no appeal except in extraordinary circumstances.
+Appeals are only available for [Level 2](#712-level-2-moderate-violation)-[3](#713-level-3-serious-violation) violations. [Level 4](#714-level-4-severe-violation) (severe) violations have no appeal except in extraordinary circumstances.
 
 ### 8.2 Reporting Admin Misconduct
 
@@ -236,7 +236,7 @@ If you believe an Admin has violated this Code of Conduct or abused their positi
 
 Community members may also petition the MAF Board for admin removal by emailing board@macadmins.org with supporting evidence and community feedback.
 
-## 9. Admin Responsibilities
+## [9. Admin Responsibilities](#9-admin-responsibilities)
 
 Admins are responsible for:
 
@@ -266,7 +266,7 @@ Admins who do not follow or enforce this Code of Conduct, or who abuse their pos
 
 The MAF Board has authority to determine appropriate consequences based on the severity and nature of the misconduct.
 
-## 10. Scope of Admin Authority
+## [10. Scope of Admin Authority](#10-scope-of-admin-authority)
 
 Admins have the authority to:
 
@@ -275,9 +275,9 @@ Admins have the authority to:
 - Temporarily or permanently suspend or ban members
 - Make decisions about workspace settings and policies
 
-Admin decisions can be appealed to MAF leadership through the process above.
+Admin decisions can be appealed to MAF leadership through the [appeals process](#8-appeals).
 
-## 11. Privacy and Data Retention
+## [11. Privacy and Data Retention](#11-privacy-and-data-retention)
 
 **Important:** Members should be aware of the following data practices:
 
@@ -289,16 +289,16 @@ Admin decisions can be appealed to MAF leadership through the process above.
 - Do not post sensitive information (passwords, credentials, personal data, etc.)
 - Assume any content posted may become public
 
-For more details, see the Data and Privacy section in [Community Guidelines](./Community_Guidelines.md).
+For more details, see [Section 10: Data and Privacy](./Community_Guidelines.md#10-data-and-privacy) in the Community Guidelines.
 
-## 12. Additional Policies
+## [12. Additional Policies](#12-additional-policies)
 
 This Code of Conduct is supplemented by:
 
 - [Community Guidelines](./Community_Guidelines.md) - Detailed expectations and best practices
 - [Vendor Policy](./Vendor_Policy.md) - Rules for vendor participation and promotional content
 
-## 13. Modifications
+## [13. Modifications](#13-modifications)
 
 This Code of Conduct may be updated at any time. Changes will be:
 
@@ -307,7 +307,7 @@ This Code of Conduct may be updated at any time. Changes will be:
 - Effective 30 days after announcement (for major changes)
 - Archived versions available for reference
 
-## 14. Attribution
+## [14. Attribution](#14-attribution)
 
 This Code of Conduct is adapted from:
 
@@ -315,17 +315,17 @@ This Code of Conduct is adapted from:
 - The Django Code of Conduct
 - Previous Mac Admins Slack Code of Conduct (v1.0)
 
-## 15. License
+## [15. License](#15-license)
 
 This Code of Conduct is released under Creative Commons CC BY 4.0.
 
-## 16. Contact
+## [16. Contact](#16-contact)
 
 - **Admin Team:** admin@macadmins.org or @admins in Slack
 - **MAF Board:** board@macadmins.org
 - **Website:** https://www.macadmins.org
 
-## 17. Acknowledgment
+## [17. Acknowledgment](#17-acknowledgment)
 
 By participating in The Mac Admins Slack, you agree to abide by this Code of Conduct.
 
@@ -333,7 +333,7 @@ By participating in The Mac Admins Slack, you agree to abide by this Code of Con
 
 **Thank you for helping make The Mac Admins Slack a welcoming, respectful, and professional community.**
 
-## 18. Revision History
+## [18. Revision History](#18-revision-history)
 
 | Version | Date | Changes |
 |---------|------|---------|
@@ -341,3 +341,5 @@ By participating in The Mac Admins Slack, you agree to abide by this Code of Con
 | 2.0 | 2025-10-03 | Major revision: Added enforcement levels, reporting procedures, appeals process, admin responsibilities, and supplementary policy links |
 | 2.1 | 2025-10-10 | Minor revision: Included more narrative language |
 | 3.0 | 2025-11-26 | Added section numbering for easy reference |
+| 3.1 | 2025-11-26 | Added clickable section links for cross-references |
+| 3.2 | 2025-11-26 | Made section headings clickable for easy link sharing |
