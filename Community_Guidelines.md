@@ -49,11 +49,11 @@
 
 ---
 
-## 1. Purpose
+## [1. Purpose](#1-purpose)
 
 These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md) with practical guidance for participating in The Mac Admins Slack. While the Code of Conduct defines what is not acceptable, these guidelines describe what good community participation looks like.
 
-## 2. Getting Started
+## [2. Getting Started](#2-getting-started)
 
 ### 2.1 Joining the Workspace
 
@@ -74,7 +74,7 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 
 **Privacy note:** Only share what you're comfortable making public.
 
-## 3. Communication Best Practices
+## [3. Communication Best Practices](#3-communication-best-practices)
 
 ### 3.1 General Guidelines
 
@@ -136,7 +136,7 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 - Invite Admin mediation if needed
 - Remember: being right isn't worth being rude
 
-## 4. Channel Etiquette
+## [4. Channel Etiquette](#4-channel-etiquette)
 
 ### 4.1 Public Channels
 
@@ -184,7 +184,7 @@ Some channels have specific posting and discussion patterns:
 - Don't use DMs to bypass channel guidelines (e.g., unsolicited sales)
 - Report inappropriate DMs to Admins
 
-## 5. Vendor and Commercial Participation
+## [5. Vendor and Commercial Participation](#5-vendor-and-commercial-participation)
 
 See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Summary:
 
@@ -202,7 +202,7 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 - Disparaging competitors
 - Recruiting without Admin approval
 
-## 6. Content Sharing
+## [6. Content Sharing](#6-content-sharing)
 
 ### 6.1 Links and Resources
 
@@ -245,7 +245,7 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 - Don't share recordings of Slack calls externally
 - Admin team may record calls for training purposes (with notice)
 
-## 7. Accessibility and Inclusion
+## [7. Accessibility and Inclusion](#7-accessibility-and-inclusion)
 
 ### 7.1 Making Content Accessible
 
@@ -270,7 +270,7 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 - Assume good intent
 - Offer clarification without judgment
 
-## 8. Topics to Approach Carefully
+## [8. Topics to Approach Carefully](#8-topics-to-approach-carefully)
 
 ### 8.1 Generally Acceptable (But Be Respectful)
 
@@ -311,7 +311,7 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 - Legal advice (we're not lawyers)
 - Medical advice (we're not doctors)
 
-## 9. Bots and Automation
+## [9. Bots and Automation](#9-bots-and-automation)
 
 Only MAF-approved bots are enabled in the workspace. User bots and custom integrations are not permitted.
 
@@ -319,7 +319,7 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 - Use built-in Slack commands appropriately
 - Report malfunctioning bots to Admins
 
-## 10. Data and Privacy
+## [10. Data and Privacy](#10-data-and-privacy)
 
 ### 10.1 Your Data
 
@@ -344,7 +344,7 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 - Data access is logged and auditable
 - Admin Runbooks available for admins
 
-## 11. Recognition and Credit
+## [11. Recognition and Credit](#11-recognition-and-credit)
 
 **Giving Credit**
 - Credit others' work and ideas
@@ -357,7 +357,7 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 - Acknowledge collaborators
 - Share the spotlight
 
-## 12. When Things Go Wrong
+## [12. When Things Go Wrong](#12-when-things-go-wrong)
 
 ### 12.1 If You Made a Mistake
 
@@ -380,14 +380,14 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 - Ask questions if you don't understand
 - Accept the outcome gracefully (or use the [appeals process](./Code_of_Conduct.md#8-appeals))
 
-## 13. Resources
+## [13. Resources](#13-resources)
 
 - [Code of Conduct](./Code_of_Conduct.md) - What's not acceptable
 - [Vendor Policy](./Vendor_Policy.md) - Guidelines for vendors
 - [Admin Channels](./admin-channels.md) - How to contact Admins
 - [Escalation Matrix](./escalation-matrix.md) - How Admins handle issues
 
-## 14. Getting Help
+## [14. Getting Help](#14-getting-help)
 
 **Technical Help**
 - Post in relevant technical channels
@@ -403,7 +403,7 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 - #macadminsfoundation channel
 - board@macadmins.org
 
-## 15. Contributing to These Guidelines
+## [15. Contributing to These Guidelines](#15-contributing-to-these-guidelines)
 
 These guidelines evolve based on community needs. To suggest improvements:
 
@@ -411,7 +411,7 @@ These guidelines evolve based on community needs. To suggest improvements:
 2. Discuss in #macadminsfoundation
 3. Contact an Admin or MAF Board member
 
-## 16. Final Thoughts
+## [16. Final Thoughts](#16-final-thoughts)
 
 The Mac Admins Slack exists because thousands of professionals choose to spend their time helping each other. These guidelines help ensure the community remains valuable, welcoming, and sustainable.
 
@@ -421,10 +421,11 @@ Welcome to The Mac Admins Slack!
 
 ---
 
-## 17. Revision History
+## [17. Revision History](#17-revision-history)
 
 | Version | Date | Changes |
 |---------|------|---------|
 | 1.0 | 2025-10-03 | Initial community guidelines |
 | 1.1 | 2025-11-26 | Added section numbering for easy reference |
 | 1.2 | 2025-11-26 | Added clickable section links for cross-references |
+| 1.3 | 2025-11-26 | Made section headings clickable for easy link sharing |
