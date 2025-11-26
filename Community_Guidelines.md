@@ -175,7 +175,7 @@ Some channels have specific posting and discussion patterns:
 **When to DM**
 - Sensitive topics not appropriate for public channels
 - Continuing a conversation that's gone off-topic
-- Contacting Admins about CoC violations
+- Contacting Admins about [CoC violations](./Code_of_Conduct.md#6-reporting)
 - Networking or mentorship requests (when you have an existing relationship or context from public channels)
 
 **DM Etiquette**
@@ -369,7 +369,7 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 ### 12.2 If You're Affected by Someone Else's Behavior
 
 1. Consider addressing it directly (if safe and comfortable)
-2. Report to Admins if it violates the CoC
+2. [Report to Admins](./Code_of_Conduct.md#6-reporting) if it violates the CoC
 3. Use the mute or block features if needed
 4. Know that Admins take reports seriously
 
@@ -378,7 +378,7 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 - Respond promptly and respectfully
 - Provide your perspective
 - Ask questions if you don't understand
-- Accept the outcome gracefully (or use appeals process)
+- Accept the outcome gracefully (or use the [appeals process](./Code_of_Conduct.md#8-appeals))
 
 ## 13. Resources
 
@@ -427,3 +427,4 @@ Welcome to The Mac Admins Slack!
 |---------|------|---------|
 | 1.0 | 2025-10-03 | Initial community guidelines |
 | 1.1 | 2025-11-26 | Added section numbering for easy reference |
+| 1.2 | 2025-11-26 | Added clickable section links for cross-references |

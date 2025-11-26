@@ -335,7 +335,7 @@ Verification is not required for all vendors—only when authenticity concerns a
 
 ## 9. Enforcement
 
-Vendor policy violations are handled according to the [Code of Conduct](./Code_of_Conduct.md) enforcement procedures:
+Vendor policy violations are handled according to the [Code of Conduct enforcement procedures](./Code_of_Conduct.md#7-enforcement):
 
 **First Violation (Minor)**
 - Private warning from Admin
@@ -431,7 +431,7 @@ If you experience vendor behavior that violates this policy:
    - Links to messages or screenshots
    - Whether it's ongoing
 
-See [Code of Conduct](./Code_of_Conduct.md) for full reporting procedures.
+See [Code of Conduct Section 6: Reporting](./Code_of_Conduct.md#6-reporting) for full reporting procedures.
 
 ## 14. For Admins
 
@@ -467,6 +467,7 @@ Admin runbooks are available for handling vendor violations including identity v
 |---------|------|---------|
 | 1.0 | 2025-10-03 | Initial vendor policy |
 | 1.1 | 2025-11-26 | Added section numbering for easy reference |
+| 1.2 | 2025-11-26 | Added clickable section links for cross-references |
 
 ---
 

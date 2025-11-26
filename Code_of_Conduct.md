@@ -159,7 +159,7 @@ Violations are categorized by severity:
 
 #### 7.1.2 Level 2: Moderate Violation
 
-**Examples:** Repeated Level 1 violations, disrespectful behavior, promotional content after warning, disruptive behavior
+**Examples:** Repeated [Level 1](#711-level-1-minor-violation) violations, disrespectful behavior, promotional content after warning, disruptive behavior
 
 **Response:**
 - Formal written warning
@@ -170,7 +170,7 @@ Violations are categorized by severity:
 
 #### 7.1.3 Level 3: Serious Violation
 
-**Examples:** Harassment, discriminatory behavior, repeated moderate violations, doxxing, threats, impersonation (including vendor impersonation or astroturfing)
+**Examples:** Harassment, discriminatory behavior, repeated [Level 2](#712-level-2-moderate-violation) violations, doxxing, threats, impersonation (including vendor impersonation or astroturfing)
 
 **Response:**
 - Temporary suspension (1-30 days)
@@ -181,7 +181,7 @@ Violations are categorized by severity:
 
 #### 7.1.4 Level 4: Severe Violation
 
-**Examples:** Threats of violence, CSAM, severe harassment, coordinated attacks, repeated serious violations
+**Examples:** Threats of violence, CSAM, severe harassment, coordinated attacks, repeated [Level 3](#713-level-3-serious-violation) violations
 
 **Response:**
 - Immediate permanent ban
@@ -214,7 +214,7 @@ If you believe an enforcement action was made in error:
 3. **Timeline:** Appeals reviewed within 7 days
 4. **Decision:** MAF Board makes final decision on appeals
 
-Appeals are only available for Level 2-3 violations. Level 4 (severe) violations have no appeal except in extraordinary circumstances.
+Appeals are only available for [Level 2](#712-level-2-moderate-violation)-[3](#713-level-3-serious-violation) violations. [Level 4](#714-level-4-severe-violation) (severe) violations have no appeal except in extraordinary circumstances.
 
 ### 8.2 Reporting Admin Misconduct
 
@@ -275,7 +275,7 @@ Admins have the authority to:
 - Temporarily or permanently suspend or ban members
 - Make decisions about workspace settings and policies
 
-Admin decisions can be appealed to MAF leadership through the process above.
+Admin decisions can be appealed to MAF leadership through the [appeals process](#8-appeals).
 
 ## 11. Privacy and Data Retention
 
@@ -289,7 +289,7 @@ Admin decisions can be appealed to MAF leadership through the process above.
 - Do not post sensitive information (passwords, credentials, personal data, etc.)
 - Assume any content posted may become public
 
-For more details, see the Data and Privacy section in [Community Guidelines](./Community_Guidelines.md).
+For more details, see [Section 10: Data and Privacy](./Community_Guidelines.md#10-data-and-privacy) in the Community Guidelines.
 
 ## 12. Additional Policies
 
@@ -341,3 +341,4 @@ By participating in The Mac Admins Slack, you agree to abide by this Code of Con
 | 2.0 | 2025-10-03 | Major revision: Added enforcement levels, reporting procedures, appeals process, admin responsibilities, and supplementary policy links |
 | 2.1 | 2025-10-10 | Minor revision: Included more narrative language |
 | 3.0 | 2025-11-26 | Added section numbering for easy reference |
+| 3.1 | 2025-11-26 | Added clickable section links for cross-references |
