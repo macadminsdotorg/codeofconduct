@@ -82,6 +82,11 @@ Protected characteristics are referred to throughout this document. These includ
 - Job title / career path
 - Political affiliation
 
+A note on protected characteristics:
+
+Holding a protected characteristic — including religious belief, political affiliation, or other ideology — does not exempt anyone from complying with the Code of Conduct. Actions or expressions that violate the code (e.g., hate speech, harassment, advocacy of discrimination) will be addressed regardless of the belief system or ideology motivating them.
+In line with Karl Popper’s thoughts on the paradox of tolerance, a tolerant community must refuse to tolerate expressions of intolerance that threaten the safety or dignity of others or the very structure of the community as a whole.
+
 ## 1. Respect
 
 The Mac Admins Slack is an inclusive environment based on treating all individuals respectfully, regardless of any [characteristics](#protected-characteristics).
