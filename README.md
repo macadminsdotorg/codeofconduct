@@ -82,6 +82,11 @@ Protected characteristics are referred to throughout this document. These includ
 - Job title / career path
 - Political affiliation
 
+A note on protected characteristics:
+
+Holding a protected characteristic — including religious belief, political affiliation, or other ideology — does not exempt anyone from complying with the Code of Conduct. Actions or expressions that violate the code (e.g., hate speech, harassment, advocacy of discrimination) will be addressed regardless of the belief system or ideology motivating them.
+In line with Karl Popper’s thoughts on the paradox of tolerance, a tolerant community must refuse to tolerate expressions of intolerance that threaten the safety or dignity of others or the very structure of the community as a whole.
+
 ## 1. Respect
 
 The Mac Admins Slack is an inclusive environment based on treating all individuals respectfully, regardless of any [characteristics](#protected-characteristics).
@@ -143,7 +148,7 @@ If you want to publicly disclose anything discussed in a _public_ channel of thi
 
 > "Participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed."
 
-For attribution of specific content found on this Slack in _public_ channels, we ask that request permission from the originator of that content. If you don't receive consent in a reasonable time, we ask that you credit the "Mac Admins Slack".
+For attribution of specific content found on this Slack in _public_ channels, we ask that you request permission from the originator of that content. If you don't receive consent in a reasonable time, we ask that you credit the "Mac Admins Slack".
 
 Sharing content from _private_ channels is not allowed without specific agreement from the author of that content.
 
@@ -275,7 +280,7 @@ As part of the role, Administrators have access to information not available to 
 - Information contained within member requests to join the community. This might include email, name, and occupation.
 - Access log information provided by the Slack administrator interface. This includes name, login times, login device, and IP.
 
-Administrators do not have standing access to private channels unless they are members of that channel.
+Administrators do not have *any* access to private channels unless they are members of that channel. See [Private Channels](#9-private-channels)
 
 The Slack Workspace Owner account is accessible only by members of the Mac Admins Foundation Board. This account has additional tools (such as export and migration tools) that may provide access to private channels and DMs. As per the privacy section above, you should not presume anything you say here will remain private, so act accordingly.
 
