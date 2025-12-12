@@ -302,7 +302,7 @@ This Code of Conduct is supplemented by:
 
 This Code of Conduct may be updated at any time. Changes will be:
 
-- Announced in #announce channel
+- Announced in the #announcements channel
 - Effective 7 days after announcement (for minor changes)
 - Effective 30 days after announcement (for major changes)
 - Archived versions available for reference
