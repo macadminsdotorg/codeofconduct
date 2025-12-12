@@ -408,7 +408,7 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 
 These guidelines evolve based on community needs. To suggest improvements:
 
-1. Open an issue in the [runbooks repository](https://github.com/macadminsdotorg/runbooks)
+1. Open an issue in the [codeofconduct repository](https://github.com/macadminsdotorg/codeofconduct)
 2. Discuss in #macadminsfoundation
 3. Contact an Admin or MAF Board member
 
