@@ -112,7 +112,7 @@ The following behaviors are not tolerated:
 If you experience or witness unacceptable behavior:
 
 1. **Contact an Admin directly** via direct message
-   - Current Admins are announced monthly in #announce
+   - Current Admins are announced monthly in #announcements
    - Any Admin can help, or will connect you with the right person
 
 2. **Use the @admins mention** in public channels (for urgent matters)
