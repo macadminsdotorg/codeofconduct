@@ -421,7 +421,7 @@ Vendors who follow these guidelines and participate authentically receive:
 
 If you experience vendor behavior that violates this policy:
 
-1. **Contact an Admin** via DM (see #announce for current list)
+1. **Contact an Admin** via DM (see #announcements for current list)
 2. **Use @admins** for urgent issues
 3. **Email:** admin@macadmins.org
 4. **Provide:**
