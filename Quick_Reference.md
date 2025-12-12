@@ -21,7 +21,7 @@
 
 ## Need Help?
 
-- **DM any admin** - listed monthly in #announce
+- **DM any admin** - listed monthly in #announcements
 - **Mention @admins** - for urgent matters in public channels
 - **Email:** admin@macadmins.org
 
