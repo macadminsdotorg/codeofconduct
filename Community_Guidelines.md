@@ -115,6 +115,7 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 
 **Sharing Solutions**
 - Share code snippets as files or formatted code blocks
+- Sanitize private information
 - Include comments in scripts
 - Explain any prerequisites or caveats
 - Link to GitHub repos for longer code
