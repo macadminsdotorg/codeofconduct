@@ -222,8 +222,7 @@ This policy applies to:
 **Requirements:**
 - Post jobs relevant to Mac admins
 - Include location/remote status
-- Include salary range if required by local law (CA, CO, NYC, etc.)
-- Salary disclosure encouraged for all postings but required where legally mandated
+- Salary disclosure encouraged for all postings but required where legally mandated (CA, CO, NYC, etc.)
 - Postings without legally required salary info will be removed
 - Threaded discussion about specific jobs is fine, general chatter goes to #jobs-chat
 
