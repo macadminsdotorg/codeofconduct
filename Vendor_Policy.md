@@ -456,7 +456,7 @@ Admin runbooks are available for handling vendor violations including identity v
 
 > **Vendor via DM (unsolicited):** "Hi, I saw you're working on [topic]. We have a solution that could help. When can we set up a 30-minute demo?"
 
-> **Vendor in #jamf:** "Yeah, we looked at Jamf but went with [OurProduct] instead. Jamf has too many issues and their support is terrible."
+> **Vendor in a competitor's channel:** "Yeah, we looked at [competitor] but went with [OurProduct] instead. [competitor] has too many issues and their support is terrible."
 
 > **Vendor in #jobs-board:** "Hiring Mac Admin in San Francisco" (Missing legally required salary range for CA)
 
