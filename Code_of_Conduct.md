@@ -103,6 +103,7 @@ The following behaviors are not tolerated:
 - Spam or unsolicited commercial messages (see [Vendor Policy](./Vendor_Policy.md))
 - Sharing of CSAM (child sexual abuse material) or other illegal content
 - Scraping, harvesting, or collecting member data without authorization (including email addresses, usernames, profiles, or workspace metadata)
+- Using automated tools or scripts to download, export, or exfiltrate workspace content (messages, files, member lists, or metadata) without explicit MAF authorization. This includes but is not limited to: scraping tools, export utilities, archiving scripts, or bulk download tools for purposes such as AI training, data analysis, or external storage
 - Any conduct that creates a hostile, intimidating, or exclusionary environment for community members (including sustained patterns of behavior that may individually seem minor but collectively undermine community safety)
 
 ## [6. Reporting](#6-reporting)
@@ -288,6 +289,17 @@ Admin decisions can be appealed to MAF leadership through the [appeals process](
 - Admin access is logged, auditable, and subject to strict confidentiality policies
 - Do not post sensitive information (passwords, credentials, personal data, etc.)
 - Assume any content posted may become public
+
+**Data Exfiltration**
+
+Using automated tools to download or export workspace content violates our community's privacy expectations and is strictly prohibited. This includes:
+
+- Using third-party export or archiving tools
+- Bulk downloading messages or files
+- Scraping member data for any purpose
+- Training AI models on workspace content
+
+Members who need specific content preserved should use Slack's built-in bookmark and save features. Organizations with legitimate archival needs should contact the MAF Board.
 
 For more details, see [Section 10: Data and Privacy](./Community_Guidelines.md#10-data-and-privacy) in the Community Guidelines.
 

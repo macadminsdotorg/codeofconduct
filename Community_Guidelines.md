@@ -336,6 +336,9 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 - Don't collect member data without permission
 - Don't scrape the workspace
 - Don't share member information outside Slack
+- Don't use automated tools to download, export, or archive workspace content
+- Don't train AI models or build datasets using workspace content
+- Don't create external databases or archives of community conversations
 - Report data harvesting to Admins
 
 ### 10.3 Admin Access
