@@ -225,7 +225,7 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 **Allowed (in moderation):**
 - Sharing your blog posts in #blog-posts
 - Conference talk announcements in #conferences
-- Open source project launches in #github
+- Open source project launches in a channel related to the project
 - Job postings in #jobs-board (discussion in #jobs-chat)
 
 **Not Allowed:**
