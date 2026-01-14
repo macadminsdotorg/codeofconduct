@@ -100,6 +100,7 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 
 **Asking Questions**
 - Search Slack history first
+- Jump in and ask your question, there's no need to "ask to ask" 
 - Provide context (OS version, device model, MDM, etc.)
 - Include error messages or logs (use snippets for long text)
 - Post in the most relevant channel
@@ -285,7 +286,7 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 
 **Politics**
 - There is a private #politics channel available
-- Request access by DMing an Admin (see placeholder channel #politics)
+- Request access by DMing channel moderator (see placeholder channel #politics)
 - General channels: keep politics relevant to our work (tech policy, privacy laws)
 - Admins may intervene if discussions become disruptive
 
@@ -388,8 +389,7 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 
 - [Code of Conduct](./Code_of_Conduct.md) - What's not acceptable
 - [Vendor Policy](./Vendor_Policy.md) - Guidelines for vendors
-- [Admin Channels](./admin-channels.md) - How to contact Admins
-- [Escalation Matrix](./escalation-matrix.md) - How Admins handle issues
+- [Admin Team](https://github.com/macadminsdotorg/slack-assets/blob/master/Admins.md) - How to contact Admins
 
 ## [14. Getting Help](#14-getting-help)
 
