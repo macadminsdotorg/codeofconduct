@@ -58,12 +58,14 @@ This policy applies to:
 ## [3. Philosophy](#3-philosophy)
 
 **We welcome vendors who:**
+
 - Participate authentically as community members
 - Share expertise and help solve problems
 - Are transparent about their affiliations
 - Respect community norms
 
 **We don't welcome:**
+
 - Aggressive sales tactics
 - Spam or unsolicited promotions
 - Astroturfing or fake testimonials
@@ -74,30 +76,35 @@ This policy applies to:
 ### 4.1 Acceptable Vendor Behavior
 
 **Authentic Participation**
+
 - Answer technical questions about your products honestly
 - Share your expertise on relevant topics (even unrelated to your products)
 - Participate in discussions without pushing your products
 - Build genuine relationships with community members
 
 **Transparent Disclosure**
+
 - Include your company affiliation in your Slack profile
 - Disclose your relationship when discussing your products
 - Be upfront about being a vendor
 - Clearly mark announcements as commercial
 
 **Helpful Content**
+
 - Share documentation, guides, and how-tos
 - Provide troubleshooting assistance
 - Answer questions about your products
 - Acknowledge limitations and bugs honestly
 
 **Product Announcements**
+
 - New product launches (with context, not just links)
 - Major feature releases
 - Security updates or critical information
 - Community-relevant news
 
 **Event Participation**
+
 - Announce conference booths/presentations
 - Share conference discount codes (occasionally)
 - Invite community to vendor-hosted events
@@ -106,6 +113,7 @@ This policy applies to:
 ### 4.2 Unacceptable Vendor Behavior
 
 **Spam and Unwanted Promotion**
+
 - Cold-calling members via DM with sales pitches
 - Posting promotional content without context or value
 - Repeated mentions of your product in unrelated discussions
@@ -113,6 +121,7 @@ This policy applies to:
 - Posting the same promotion in multiple channels
 
 **Deceptive Practices**
+
 - Creating fake accounts to post fake testimonials or promote products
 - Paying members to promote your product without disclosure
 - Sock-puppeting (using fake accounts to amplify support for your legitimate account or product)
@@ -121,18 +130,21 @@ This policy applies to:
 - Hiding your vendor affiliation
 
 **Competitor Disparagement**
+
 - Bashing competitor products
 - Spreading FUD (Fear, Uncertainty, and Doubt) about competitors
 - Comparing your product to competitors unsolicited
 - Brigading discussions about competitor products
 
 **Aggressive Sales Tactics**
+
 - Pressuring members to buy
 - Following up after a "no"
 - Making exaggerated or false claims
 - Creating false urgency ("limited time offer" spam)
 
 **Recruiting Violations**
+
 - Mass-recruiting members via DM
 - Posting job listings outside #jobs-board
 - Headhunting without Admin approval
@@ -143,12 +155,14 @@ This policy applies to:
 ### 5.1 Technical Channels (#mac, #ios, #jamf, etc.)
 
 **Allowed:**
+
 - Answering questions about your products
 - Sharing relevant technical insights
 - Linking to documentation when helpful
 - Participating in technical discussions
 
 **Not Allowed:**
+
 - Pushing your product when others are mentioned
 - Derailing discussions to promote your solution
 - Claiming your product is the only solution
@@ -156,11 +170,13 @@ This policy applies to:
 ### 5.2 #blog-posts
 
 **Allowed:**
+
 - Sharing your own blog posts (vendor or personal)
 - Provide brief context in your post
 - Include disclosure if company blog
 
 **Not Allowed:**
+
 - Purely promotional posts without technical value
 - Repeated sharing of old content
 - Link-only posts with no context
@@ -168,12 +184,14 @@ This policy applies to:
 ### 5.3 #conferences
 
 **Allowed:**
+
 - Announcing your conference presence
 - Sharing booth/session information
 - Offering community discount codes
 - Conference-related news
 
 **Not Allowed:**
+
 - Pure sales pitches disguised as conference announcements
 - Repeatedly posting about the same event
 - Collecting attendee email addresses or member data without explicit consent
@@ -182,17 +200,20 @@ This policy applies to:
 ### 5.4 #meetups
 
 **Allowed:**
+
 - Announcing local or virtual meetups open to the community
 - Sharing meetup details and registration information
 - Organizing community-focused events
 
 **Requirements:**
+
 - Events must be open to all community members who wish to attend
 - No vendor-exclusive events or customer-only gatherings
 - If a meeting is internal or limited to specific groups, do not post in #meetups
 - Be transparent about any vendor sponsorship or hosting
 
 **Not Allowed:**
+
 - Posting invite-only events exclusive to your customers
 - Posting internal company meetings or closed-door events
 - Using meetups as exclusive lead generation or sales opportunities
@@ -202,6 +223,7 @@ This policy applies to:
 **Purpose:** Did you make something and want the world to know about it? Tell us about it! Commercial activity is permitted in this channel.
 
 **Allowed:**
+
 - Product announcements and launches
 - Major updates and new features
 - Open-source project releases
@@ -209,29 +231,13 @@ This policy applies to:
 - Include context and value proposition
 
 **Guidelines:**
+
 - This is the primary channel for vendor announcements
 - Be clear about what you're announcing
 - Provide relevant links and details
 - Commercial promotion is explicitly allowed here
 
-### 5.6 #jobs-board and #jobs-chat
-
-**#jobs-board** - Post job listings here
-**#jobs-chat** - Discuss jobs, career advice, general job talk
-
-**Requirements:**
-- Post jobs relevant to Mac admins
-- Include location/remote status
-- Salary disclosure encouraged for all postings but required where legally mandated (CA, CO, NYC, etc.)
-- Postings without legally required salary info will be removed
-- Threaded discussion about specific jobs is fine, general chatter goes to #jobs-chat
-
-**Not Allowed:**
-- Mass recruiting via DM
-- Posting outside #jobs-board
-- Reposting the same job repeatedly without updates
-
-### 5.7 Social Channels
+### 5.6 Social Channels
 
 - Participate as a community member, not a vendor
 - Off-topic chat is welcome
@@ -242,12 +248,14 @@ This policy applies to:
 ### 6.1 Acceptable DM Use
 
 **With Permission:**
+
 - Following up on public conversations
 - Answering specific questions about your product
 - Scheduling demos when requested
 - Networking and relationship building
 
 **Generally OK:**
+
 - Responding to someone who DMed you first
 - Following up on explicit requests for information
 - Sharing pricing when asked
@@ -255,12 +263,14 @@ This policy applies to:
 ### 6.2 Unacceptable DM Use
 
 **Never OK:**
+
 - Cold outreach with sales pitches
 - Bulk messaging members
 - Continuing after being told no
 - Pressuring for meetings or demos
 
 **If someone says "no" in DMs:**
+
 - Thank them for their time
 - Stop following up
 - Don't ask "why not"
@@ -277,7 +287,7 @@ Occasionally, MAF may approve sponsored content or partnerships. This requires:
 - Value for the community
 - Alignment with community values
 
-Contact: board@macadmins.org
+Contact: <board@macadmins.org>
 
 ### 7.2 Product Feedback and Research
 
@@ -292,11 +302,13 @@ Vendors seeking product feedback or conducting research:
 ### 7.3 Competitive Analysis
 
 **Acceptable:**
+
 - Honest feature comparisons when asked
 - Objective discussions of product differences
 - Acknowledging where competitors excel
 
 **Not Acceptable:**
+
 - Proactively disparaging competitors
 - Spreading rumors or FUD
 - Using community to attack competitors
@@ -316,16 +328,19 @@ If two vendors from competing companies have a disagreement:
 Admins may request verification of vendor identity to ensure authenticity and prevent impersonation.
 
 **When verification is requested:**
+
 - Typically after a vendor becomes an active participant in discussions
 - May be triggered by community reports or concerns
 - Can be proactive for vendors in high-visibility roles
 
 **Verification methods may include:**
+
 - LinkedIn profile confirmation
 - Company email verification
 - Video call verification (for active participants)
 
 **What happens if verification is refused:**
+
 - Vendor may be subject to additional scrutiny
 - Possible restrictions on promotional activities
 - In cases of suspected impersonation, temporary suspension pending verification
@@ -337,21 +352,25 @@ Verification is not required for all vendors—only when authenticity concerns a
 Vendor policy violations are handled according to the [Code of Conduct enforcement procedures](./Code_of_Conduct.md#7-enforcement):
 
 **First Violation (Minor)**
+
 - Private warning from Admin
 - Guidance on acceptable behavior
 - Removal of offending content
 
 **Second Violation or Moderate First Violation**
+
 - Formal warning documented
 - Temporary content restrictions
 - May require company leadership notification
 
 **Serious or Repeated Violations**
+
 - Temporary suspension (company-wide or individual)
 - Permanent channel restrictions
 - Company-wide ban for egregious violations
 
 **Severe Violations**
+
 - Immediate permanent ban
 - Possible escalation to legal (for harassment, doxxing, etc.)
 - Notification to other communities if relevant
@@ -361,21 +380,25 @@ Vendor policy violations are handled according to the [Code of Conduct enforceme
 Vendors who follow these guidelines and participate authentically receive:
 
 **Community Trust**
+
 - Established as industry experts
 - Trusted sources of information
 - Authentic relationships with customers
 
 **Visibility**
+
 - Natural product mentions and discussions
 - Positive word-of-mouth
 - Community advocacy
 
 **Product Feedback**
+
 - Real-world usage insights
 - Bug reports and feature requests
 - Beta testing opportunities
 
 **Talent Pipeline**
+
 - Access to skilled professionals
 - Organic recruiting opportunities
 - Industry reputation building
@@ -383,6 +406,7 @@ Vendors who follow these guidelines and participate authentically receive:
 ## [11. Best Practices for Vendors](#11-best-practices-for-vendors)
 
 **Do's**
+
 - Complete your profile with company affiliation
 - Participate regularly, not just to promote
 - Be helpful even when it doesn't benefit your product
@@ -393,6 +417,7 @@ Vendors who follow these guidelines and participate authentically receive:
 - Build relationships before asking for anything
 
 **Don'ts**
+
 - Join just to promote your product
 - Use burner accounts or hide affiliation
 - Get defensive about criticism
@@ -404,6 +429,7 @@ Vendors who follow these guidelines and participate authentically receive:
 ## [12. Vendor Resources](#12-vendor-resources)
 
 **For New Vendors**
+
 1. Read the [Code of Conduct](./Code_of_Conduct.md)
 2. Read the [Community Guidelines](./Community_Guidelines.md)
 3. Complete your Slack profile with company info
@@ -412,10 +438,11 @@ Vendors who follow these guidelines and participate authentically receive:
 6. Start by helping, not promoting
 
 **For Questions**
+
 - **General vendor questions:** DM any Admin
-- **Partnership opportunities:** board@macadmins.org
-- **Sponsorship inquiries:** board@macadmins.org
-- **Policy clarification:** admin@macadmins.org
+- **Partnership opportunities:** <board@macadmins.org>
+- **Sponsorship inquiries:** <board@macadmins.org>
+- **Policy clarification:** <admin@macadmins.org>
 
 ## [13. Reporting Vendor Violations](#13-reporting-vendor-violations)
 
@@ -423,7 +450,7 @@ If you experience vendor behavior that violates this policy:
 
 1. **Contact an Admin** via DM (see #announcements for current list)
 2. **Use @admins** for urgent issues
-3. **Email:** admin@macadmins.org
+3. **Email:** <admin@macadmins.org>
 4. **Provide:**
    - Vendor username and company
    - Description of violation

@@ -79,6 +79,7 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 ### 3.1 General Guidelines
 
 **Be Clear and Concise**
+
 - Threading varies by channel - most channels don't thread as we predate that feature
 - Observe channel norms before posting
 - Break long messages into paragraphs
@@ -86,11 +87,13 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 - Search before asking - your question may be answered already
 
 **Be Respectful of Time**
+
 - Use @admins only for urgent admin matters
 - Respect "do not disturb" and timezone differences
 - Be patient waiting for responses - this is an async community
 
 **Be Inclusive**
+
 - Remember this is a global community with varying English proficiency
 - Avoid idioms and cultural references that may not translate
 - Be patient with misunderstandings
@@ -99,8 +102,9 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 ### 3.2 Technical Discussions
 
 **Asking Questions**
+
 - Search Slack history first
-- Jump in and ask your question, there's no need to "ask to ask" 
+- Jump in and ask your question, there's no need to "ask to ask"
 - Provide context (OS version, device model, MDM, etc.)
 - Include error messages or logs (use snippets for long text)
 - Post in the most relevant channel
@@ -108,6 +112,7 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 - Update the thread if you solve your own problem
 
 **Answering Questions**
+
 - Be kind - everyone was new once
 - Explain your reasoning, don't just post commands
 - Link to documentation when relevant
@@ -115,6 +120,7 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 - Follow the channel's threading conventions
 
 **Sharing Solutions**
+
 - Share code snippets as files or formatted code blocks
 - Sanitize private information
 - Include comments in scripts
@@ -125,6 +131,7 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 ### 3.3 Debates and Disagreements
 
 **Healthy Debate**
+
 - Focus on ideas, not people
 - Use "I" statements: "I've found..." not "You're wrong..."
 - Acknowledge valid points
@@ -132,6 +139,7 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 - Consider moving heated discussions to DM
 
 **When Tensions Rise**
+
 - Take a break before responding
 - Assume good intent, but remember that impact matters regardless of intent—take responsibility if your words cause harm
 - Ask clarifying questions
@@ -143,17 +151,20 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 ### 4.1 Public Channels
 
 **On-Topic Conversations**
+
 - Read channel descriptions and topics
 - Stay generally on-topic
 - Ask Admins if you're unsure where to post
 - Use #random for off-topic chat
 
 **Cross-Posting**
+
 - Avoid posting the same question in multiple channels
 - If you must cross-post, mention where else you've posted
 - Don't tag multiple people with the same question
 
 **Reactions and Emoji**
+
 - Use reactions instead of "+1" messages
 - Common reactions:
   - ✅ = solved/resolved
@@ -169,18 +180,20 @@ Some channels have specific posting and discussion patterns:
 - **#apple-feedback** - Coordinating Apple feedback submissions
 - **#jamf-product-issues** - Jamf-specific product issues and troubleshooting
 - **#blog-feed / #blog-chat** - Blog posts appear in #blog-feed, discussion happens in #blog-chat
-- **#jobs-board / #jobs-chat** - Job postings go in #jobs-board, discussion happens in #jobs-chat. Threaded replies on specific job postings are fine, but general chatter moves to #jobs-chat.
+- **#jobs-board / #jobs-chat** - Job postings go in #jobs-board, discussion happens in #jobs-chat. Threaded replies on specific job postings are fine, but general chatter moves to #jobs-chat. Salary disclosure encouraged for all postings but required where legally mandated (CA, CO, NYC, etc.)
 - **#politics** - There is a private politics channel. To request access, see the placeholder #politics channel and DM an Admin.
 
 ### 4.2 Direct Messages
 
 **When to DM**
+
 - Sensitive topics not appropriate for public channels
 - Continuing a conversation that's gone off-topic
 - Contacting Admins about [CoC violations](./Code_of_Conduct.md#6-reporting)
 - Networking or mentorship requests (when you have an existing relationship or context from public channels)
 
 **DM Etiquette**
+
 - Ask if someone is open to DMs before sending lengthy messages
 - Respect "no" - not everyone wants to chat privately
 - Don't use DMs to bypass channel guidelines (e.g., unsolicited sales)
@@ -191,12 +204,14 @@ Some channels have specific posting and discussion patterns:
 See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Summary:
 
 **✅ Acceptable:**
+
 - Participating authentically as a community member
 - Answering technical questions about your products
 - Sharing relevant announcements in appropriate channels
 - Transparent disclosure of affiliation
 
 **❌ Not Acceptable:**
+
 - Cold-calling members via DM
 - Posting promotional content without context
 - Astroturfing (fake grassroots support) or sockpuppeting (using fake accounts to post testimonials or promote products)
@@ -209,6 +224,7 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 ### 6.1 Links and Resources
 
 **Acceptable:**
+
 - Blog posts (your own or others')
 - Documentation and how-to guides
 - Open source projects
@@ -216,6 +232,7 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 - Relevant news articles
 
 **Guidelines:**
+
 - Provide context - don't just drop links
 - Disclose if it's your own content
 - Use appropriate channels (#blog-posts, #conferences, etc.)
@@ -224,12 +241,14 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 ### 6.2 Self-Promotion
 
 **Allowed (in moderation):**
+
 - Sharing your blog posts in #blog-posts
 - Conference talk announcements in #conferences
 - Open source project launches in a channel related to the project
 - Job postings in #jobs-board (discussion in #jobs-chat)
 
 **Not Allowed:**
+
 - Repeated self-promotion
 - Off-topic promotion
 - Promotional content disguised as help
@@ -237,12 +256,14 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 ### 6.3 Screenshots and Recordings
 
 **Privacy Considerations**
+
 - Blur or redact sensitive information (names, emails, IPs, etc.)
 - Don't share screenshots of DMs without permission
 - Don't share internal company information
 - Assume workspace conversations are public
 
 **Recording Policy**
+
 - Don't record calls without consent
 - Don't share recordings of Slack calls externally
 - Admin team may record calls for training purposes (with notice)
@@ -285,18 +306,21 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 ### 8.2 Requires Caution
 
 **Politics**
+
 - There is a private #politics channel available
 - Request access by DMing channel moderator (see placeholder channel #politics)
 - General channels: keep politics relevant to our work (tech policy, privacy laws)
 - Admins may intervene if discussions become disruptive
 
 **Religion**
+
 - Respect all beliefs and non-beliefs
 - Keep discussions civil
 - Don't proselytize
 - Admins may intervene if discussions become contentious
 
 **Controversial Topics**
+
 - Admins determine what constitutes a controversial topic based on community impact and whether discussions become disruptive
 - Examples include: contentious social issues, divisive current events, sensitive workplace situations
 - Use content warnings for potentially triggering topics (format: "[CW: topic]" at the start of your message)
@@ -318,6 +342,7 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 Only MAF-approved bots are enabled in the workspace. User bots and custom integrations are not permitted.
 
 **Slash Commands and Integrations**
+
 - Use built-in Slack commands appropriately
 - Report malfunctioning bots to Admins
 
@@ -352,12 +377,14 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 ## [11. Recognition and Credit](#11-recognition-and-credit)
 
 **Giving Credit**
+
 - Credit others' work and ideas
 - Link to original sources
 - Tag people when sharing their content
 - Say thank you
 
 **Receiving Credit**
+
 - Accept credit gracefully
 - Acknowledge collaborators
 - Share the spotlight
@@ -394,18 +421,21 @@ Only MAF-approved bots are enabled in the workspace. User bots and custom integr
 ## [14. Getting Help](#14-getting-help)
 
 **Technical Help**
+
 - Post in relevant technical channels
 - Search history first
 - Provide context and details
 
 **Admin Help**
+
 - DM any Admin for questions
 - Use @admins for urgent matters
-- Email admin@macadmins.org
+- Email <admin@macadmins.org>
 
 **MAF Questions**
+
 - #macadminsfoundation channel
-- board@macadmins.org
+- <board@macadmins.org>
 
 ## [15. Contributing to These Guidelines](#15-contributing-to-these-guidelines)
 
