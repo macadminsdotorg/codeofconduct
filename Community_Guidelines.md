@@ -86,101 +86,113 @@ These Community Guidelines supplement our [Code of Conduct](./Code_of_Conduct.md
 - Use formatting (bold, code blocks) appropriately
 - Search before asking - your question may be answered already
 
-**Be Respectful of Time**
+**Be Respectful of Others' Time and Availability**
 
-- Use @admins only for urgent admin matters
-- Respect "do not disturb" and timezone differences
-- Be patient waiting for responses - this is an async community
+- A user's activity status and local time can be seen in their Slack profile; click or tap their username to check it.
+- The MacAdmins Slack is an asynchronous community; replies may take several minutes, hours, days, or even weeks.
+- Respect others' "do not disturb" settings and timezone differences.
+- The Slack admins are volunteers with no SLA or guaranteed response time, but will do their best to respond as quickly as possible
+- Only tag the @admins for truly urgent matters.
 
 **Be Inclusive**
 
-- Remember this is a global community with varying English proficiency
-- Avoid idioms and cultural references that may not translate
-- Be patient with misunderstandings
-- Offer clarification when asked
+- English is the primary language on this Slack instance; however, this is a worldwide community with members whose native language is not English.
+- Avoid idioms and cultural references that might not translate clearly.
+- Offer clarification when asked.
+- Ask for clarification if something is unclear.   
+- In case of a misunderstanding, be patient.
+- Assume positive intent.
 
 ### 3.2 Technical Discussions
 
 **Asking Questions**
 
-- Search Slack history first
-- Jump in and ask your question, there's no need to "ask to ask"
-- Provide context (OS version, device model, MDM, etc.)
-- Include error messages or logs (use snippets for long text)
-- Post in the most relevant channel
+- Use the Search feature in Slack before asking questions; yours might already be answered.
+- Find and join a channel that is most relevant to your issue.
+- Jump in and ask your question; there's no need to ask permission to ask a question.
+- Provide sufficient context for the issue (e.g.: OS version, device type, MDM solution, etc.)
+- Include relevant error messages and/or logs
+- For longer log excerpts more than a few lines, please create a "text snippet" instead.
 - Share what you've already tried so we can help more effectively
-- Update the thread if you solve your own problem
+- The discussion might become threaded as replies or follow-up questions come in.
+- Update the thread if you solve your own problem.
 
 **Answering Questions**
 
-- Be kind - everyone was new once
-- Explain your reasoning, don't just post commands
-- Link to documentation when relevant
-- If you're unsure, say so
-- Follow the channel's threading conventions
+- Be kind.  Remember: everyone was once a beginner.
+- Explain your reasoning; avoid posting commands or solutions without context.
+- Link to documentation when relevant.
+- It's ok to say "I don't know."
+- Follow the channel's threading conventions.
 
 **Sharing Solutions**
 
-- Share code snippets as files or formatted code blocks
-- Sanitize private information
-- Include comments in scripts
-- Explain any prerequisites or caveats
-- Link to GitHub repos for longer code
-- Credit original authors if adapting their work
+- Share code snippets as files, formatted code blocks, or text snippets
+- Sanitize, obfuscate, or make generic any information that could be private or sensitive (e.g.: passwords, access keys, file paths, usernames, etc.)
+- Include comments in scripts.
+- Explain any prerequisites, caveats, gotchas, etc.
+- For large amounts of code, such as a project, we suggest creating a free Github repository and linking to that instead.
+- If you borrow or adapt someone else's work, give them credit or attribution.
 
 ### 3.3 Debates and Disagreements
 
 **Healthy Debate**
 
-- Focus on ideas, not people
-- Use "I" statements: "I've found..." not "You're wrong..."
-- Acknowledge valid points
-- Know when to agree to disagree
-- Consider moving heated discussions to DM
+- Debate is an academic activity for finding solutions by critiquing ideas, not criticizing people.
+- When necessary to point out a flaw, say something constructive ("I've found a problem," or "This seems to be incorrect") instead of accusing the person ("You're wrong because...")
+- Acknowledge valid points within the debate.
+- Know when to agree to disagree, and move on.
+- If the discussion becomes heated in a channel, please use direct messages to work out the disagreement.
 
 **When Tensions Rise**
 
-- Take a break before responding
-- Assume good intent, but remember that impact matters regardless of intent—take responsibility if your words cause harm
-- Ask clarifying questions
-- Invite Admin mediation if needed
-- Remember: being right isn't worth being rude
+- Take a break before responding.
+- Assume positive intent, but remember that impact matters regardless of intent.
+- Take responsibility if the other person tells you that your words caused harm.
+- Ask clarifying questions.
+- Invite an admin to mediate a discussion only as a last resort.
+- Remember: being right isn't worth being rude.
 
 ## [4. Channel Etiquette](#4-channel-etiquette)
 
 ### 4.1 Public Channels
 
-**On-Topic Conversations**
+**Keeping Conversations On-Topic**
 
-- Read channel descriptions and topics
-- Stay generally on-topic
-- Ask Admins if you're unsure where to post
-- Use #random for off-topic chat
+- Read channel descriptions and topics when joining.
+- Stay generally on-topic.
+- If you're unsure where to post or find discussion of an issue, ask in the #general channel.
+- For truly off-topic chat, please use the #breakroom channel.
+- Note: there may be private channels with special interests that require invitation by an existing member; the Slack admins cannot add you to them, and will not suggest any when asked.
+- Warning: even in the off-topic and private channels, Rule 3.3 still applies.
 
 **Cross-Posting**
 
-- Avoid posting the same question in multiple channels
-- If you must cross-post, mention where else you've posted
-- Don't tag multiple people with the same question
+- Avoid posting the same question in multiple channels.
+- If you must cross-post, mention where else you've posted.
+- Don't tag multiple people with the same question.
 
 **Reactions and Emoji**
 
-- Use reactions instead of "+1" messages
-- Common reactions:
-  - ✅ = solved/resolved
-  - 👀 = I'm looking into this
-  - 🙏 = thank you
-  - 📝 = documented/noted
+- To avoid cluttering channels with "me too" or "+1" messages, use Slack reactions ("reacji") to indicate your response or feeling about a message.
+- Examples of common reactions:
+  - 👍 = yes, agree, understood, thanks
+  - ✅ = yes, accepted
+  - 🚫 = no, rejected
+  - 👀 = surprised, very interested, looking into this
+  - 🙏 = high praise, thank you very much
+  - 📝 = noted or documented
 
 **Special Channel Structures**
 
 Some channels have specific posting and discussion patterns:
 
-- **#appleseed** - Discussion of Apple Seed programs and beta testing
-- **#apple-feedback** - Coordinating Apple feedback submissions
-- **#jamf-product-issues** - Jamf-specific product issues and troubleshooting
-- **#blog-feed / #blog-chat** - Blog posts appear in #blog-feed, discussion happens in #blog-chat
-- **#jobs-board / #jobs-chat** - Job postings go in #jobs-board, discussion happens in #jobs-chat. Threaded replies on specific job postings are fine, but general chatter moves to #jobs-chat. Salary disclosure encouraged for all postings but required where legally mandated (CA, CO, NYC, etc.)
+- **#appleseed**: Discussion of Apple Seed programs and beta testing
+- **#apple-feedback**: Coordinating Apple feedback submissions
+- **#jamf-product-issues**: Jamf-specific product issues and troubleshooting
+- **#blog-feed / #blog-chat**: Blog posts appear in #blog-feed, discussion happens in #blog-chat
+- **#jobs-board**: members in this channel are actively looking for work and will enable notifications for all new messages.  To minimize noise and distraction, messages in the main channel are limited to job postings only; discussion about a particular job MUST be a threaded reply.  We encourage salaries to be posted in all cases; however, they MUST be posted in the channel where required by law (e.g.: CA, CO, NYC, some European countries, etc.).  Failure to disclose required salary information may result in the message being removed.
+-  **#jobs-chat**: this channel is reserved for general discussion about the job market, a particular industry or employer, the general economy, or anything pertaining thereto.  Note: keep politically-oriented conversation to a minimum.
 - **#politics** - There is a private politics channel. To request access, see the placeholder #politics channel and DM an Admin.
 
 ### 4.2 Direct Messages
