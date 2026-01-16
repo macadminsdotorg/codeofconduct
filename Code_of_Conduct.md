@@ -119,7 +119,7 @@ If you experience or witness unacceptable behavior:
    - Use this for urgent safety concerns or ongoing harassment
    - Note: If you're in a private channel, please DM an Admin directly instead
 
-3. **Email:** admin@macadmins.org (if you prefer not to use Slack)
+3. **Email:** <admin@macadmins.org> (if you prefer not to use Slack)
 
 ### 6.2 What to Include
 
@@ -151,38 +151,41 @@ Violations are categorized by severity:
 **Examples:** Off-topic discussions, mild unprofessional language, first-time minor spam
 
 **Response:**
+
 - Private warning from Admin
 - Explanation of the issue
 - Guidance on expected behavior
-- No formal record (unless repeated)
 
 #### 7.1.2 Level 2: Moderate Violation
 
 **Examples:** Repeated [Level 1](#711-level-1-minor-violation) violations, disrespectful behavior, promotional content after warning, disruptive behavior
 
 **Response:**
+
 - Formal written warning
 - Required acknowledgment of violation
-- Temporary content removal
+- Content removal
 - Incident documented in admin log
-- Potential temporary channel restrictions
+- Potential temporary channel restrictions where possible
 
 #### 7.1.3 Level 3: Serious Violation
 
-**Examples:** Harassment, discriminatory behavior, repeated [Level 2](#712-level-2-moderate-violation) violations, doxxing, threats, impersonation (including vendor impersonation or astroturfing)
+**Examples:** Harassment, discriminatory behavior, repeated [Level 2](#712-level-2-moderate-violation) violations, doxxing, threats, impersonation (including vendor impersonation or astroturfing), creating a new account while suspended in order to regain access
 
 **Response:**
+
 - Temporary suspension (1-30 days)
 - Formal documentation
 - All members required to acknowledge and commit to following CoC
 - Demonstration of understanding before reinstatement
-- May include permanent channel restrictions
+- May include permanent channel restrictions where possible
 
 #### 7.1.4 Level 4: Severe Violation
 
 **Examples:** Threats of violence, CSAM, severe harassment, coordinated attacks, repeated [Level 3](#713-level-3-serious-violation) violations
 
 **Response:**
+
 - Immediate permanent ban
 - No appeal possible (or very limited circumstances)
 - Law enforcement contacted if appropriate
@@ -204,7 +207,7 @@ For repeated violations:
 
 If you believe an enforcement action was made in error:
 
-1. **Contact:** admin@macadmins.org
+1. **Contact:** <admin@macadmins.org>
 2. **Include:**
    - Your username
    - Date of enforcement action
@@ -219,7 +222,7 @@ Appeals are only available for [Level 2](#712-level-2-moderate-violation)-[3](#7
 
 If you believe an Admin has violated this Code of Conduct or abused their position:
 
-1. **Contact:** board@macadmins.org (bypasses the admin team)
+1. **Contact:** <board@macadmins.org> (bypasses the admin team)
 2. **Include:**
    - Admin username
    - Description of the misconduct
@@ -233,7 +236,7 @@ If you believe an Admin has violated this Code of Conduct or abused their positi
    - Board has authority to remove admins or implement corrective action
    - You will be notified of the outcome when appropriate
 
-Community members may also petition the MAF Board for admin removal by emailing board@macadmins.org with supporting evidence and community feedback.
+Community members may also petition the MAF Board for admin removal by emailing <board@macadmins.org> with supporting evidence and community feedback.
 
 ## [9. Admin Responsibilities](#9-admin-responsibilities)
 
@@ -331,9 +334,9 @@ This Code of Conduct is released under Creative Commons CC BY 4.0.
 
 ## [16. Contact](#16-contact)
 
-- **Admin Team:** admin@macadmins.org or @admins in Slack
-- **MAF Board:** board@macadmins.org
-- **Website:** https://www.macadmins.org
+- **Admin Team:** <admin@macadmins.org> or @admins in Slack
+- **MAF Board:** <board@macadmins.org>
+- **Website:** <https://www.macadmins.org>
 
 ## [17. Acknowledgment](#17-acknowledgment)
 
