@@ -53,7 +53,7 @@
 
 ## [1. Purpose](#1-purpose)
 
-The Community Guidelines are a **supplement** to the [Code of Conduct](./Code_of_Conduct.md), and contain practical guidance to get the most out of your membership in the MacAdmins Slack.  Think of this document like a book of manners, or an etiquette guide for this networked space ("netiquette").
+The Community Guidelines are a **supplement** to the [Code of Conduct](./Code_of_Conduct.md), and contain practical guidance to get the most out of your membership in the MacAdmins Slack.  Think of this document like a book of manners, or an etiquette guide for this networked space.
 
 ## [2. Getting Started](#2-getting-started)
 
