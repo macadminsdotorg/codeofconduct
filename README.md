@@ -185,7 +185,7 @@ See also the additional [Vendor guidelines].
 
 It is forbidden to impersonate an individual, or pretend to represent a company.
 
-As a member of a company, is is strictly not allowed to impersonate a customer or potential customer for the purposes of promotion. Violations of this nature will be treated very seriously and may have consequences for the accounts of other members of your company.
+As a member of a company, it is strictly not allowed to impersonate a customer or potential customer for the purposes of promotion. Violations of this nature will be treated very seriously and may have consequences for the accounts of other members of your company.
 
 ## 8. Direct Message Etiquette
 
