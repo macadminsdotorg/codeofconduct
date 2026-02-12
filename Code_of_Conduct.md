@@ -215,7 +215,7 @@ When assessing whether a pattern of behaviour warrants action, Admins may consid
 
 Membership is a privilege, not a right. Where Admins collectively determine that a member's continued presence is incompatible with the kind of community described in the Code of Conduct, regardless of whether a single definitive violation can be identified — they may take action up to and including permanent removal.
 
-Account reactivation following voluntary deactivation or prior removal is at the discretion of the Administrators and is not guaranteed. Where a pattern of disruptive behaviour has been established, reactivation may be declined.
+Account reactivation following voluntary deactivation or prior removal is at the discretion of the Admins and is not guaranteed. Where a pattern of disruptive behaviour has been established, reactivation may be declined.
 
 ## [8. Appeals](#8-appeals)
 
