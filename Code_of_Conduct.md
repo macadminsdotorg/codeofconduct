@@ -204,16 +204,16 @@ For repeated violations:
 
 ### 7.3 Cumulative Conduct
 
-While individual incidents are assessed on their own merits, the Administrators also consider the cumulative pattern of a member's conduct over time. A series of behaviours that each fall below the threshold of a clear CoC violation may, taken together, constitute a pattern that is incompatible with the spirit of this community.
+While individual incidents are assessed on their own merits, the Admins also consider the cumulative pattern of a member's conduct over time. A series of behaviours that each fall below the threshold of a clear CoC violation may, taken together, constitute a pattern that is incompatible with the spirit of the community.
 
-When assessing whether a pattern of behaviour warrants action, Administrators may consider:
+When assessing whether a pattern of behaviour warrants action, Admins may consider:
 
 - Repeated conduct that disrupts, antagonises, or frustrates other members, even where no single instance is an obvious violation
 - A history of skirting the boundaries of this CoC without technically breaching it
 - Voluntarily deactivating and subsequently seeking reactivation of a Slack account, particularly where this has followed incidents of disruptive behaviour
-- Contacting Administrators or community members through channels external to the Mac Admins Slack (such as LinkedIn, email, or other platforms) in relation to disputes, moderation decisions, or requests for account reinstatement
+- Contacting Admins or community members through channels external to the Mac Admins Slack (such as LinkedIn, email, or other platforms) in relation to disputes, moderation decisions, or requests for account reinstatement
 
-Membership is a privilege, not a right. Where Administrators collectively determine that a member's continued presence is incompatible with the kind of community described in this CoC — regardless of whether a single definitive violation can be identified — they may take action up to and including permanent removal.
+Membership is a privilege, not a right. Where Admins collectively determine that a member's continued presence is incompatible with the kind of community described in the Code of Conduct, regardless of whether a single definitive violation can be identified — they may take action up to and including permanent removal.
 
 Account reactivation following voluntary deactivation or prior removal is at the discretion of the Administrators and is not guaranteed. Where a pattern of disruptive behaviour has been established, reactivation may be declined.
 
