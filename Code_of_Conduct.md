@@ -100,8 +100,8 @@ The following behaviors are not tolerated:
 - Sustained disruption of discussions
 - Spam or unsolicited commercial messages (see [Vendor Policy](./Vendor_Policy.md))
 - Sharing of CSAM (child sexual abuse material) or other illegal content
+- Accessing the workspace through unauthorized programmatic methods (not the official Slack application, an approved installed app/integration or via a web browser)
 - Scraping, harvesting, or collecting member data without authorization (including email addresses, usernames, profiles, or workspace metadata)
-- Using automated tools or scripts to download, export, or exfiltrate workspace content (messages, files, member lists, or metadata) without explicit MAF authorization. This includes but is not limited to: scraping tools, export utilities, archiving scripts, or bulk download tools for purposes such as AI training, data analysis, or external storage
 - Any conduct that creates a hostile, intimidating, or exclusionary environment for community members (including sustained patterns of behavior that may individually seem minor but collectively undermine community safety)
 
 ## [6. Reporting](#6-reporting)
@@ -291,16 +291,15 @@ Admin decisions can be appealed to MAF leadership through the [appeals process](
 - Do not post sensitive information (passwords, credentials, personal data, etc.)
 - Assume any content posted may become public
 
-**Data Exfiltration**
+**Unauthorized Programmatic Access**
 
-Using automated tools to download or export workspace content violates our community's privacy expectations and is strictly prohibited. This includes:
+Accessing the workspace through automated, non-human methods (i.e. not from the Slack application or a web browser) violates our community's privacy expectations and is strictly prohibited. Examples include but are not limited to:
 
-- Using third-party export or archiving tools
-- Bulk downloading messages or files
-- Scraping member data for any purpose
-- Training AI models on workspace content
+- Using SDK-based clients to programmatically interact with the workspace
+- Employing custom scripts or bots to retrieve messages, files, or member data
+- Using third-party applications or tools not officially approved as installed Slack apps
 
-Members who need specific content preserved should use Slack's built-in bookmark and save features. Organizations with legitimate archival needs should contact the MAF Board.
+Only approved, officially installed Slack apps with explicit MAF authorization may programmatically interact with the workspace.
 
 For more details, see [Section 10: Data and Privacy](./Community_Guidelines.md#10-data-and-privacy) in the Community Guidelines.
 

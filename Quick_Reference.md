@@ -18,12 +18,13 @@
 - Share others' private information
 - Send unsolicited sales or recruiting messages
 - Impersonate others or hide your affiliation
+- Access the workspace through unauthorized programmatic methods
 
 ## Need Help?
 
 - **DM any admin** - listed monthly in #announcements
 - **Mention @admins** - for urgent matters in public channels
-- **Email:** admin@macadmins.org
+- **Email:** <admin@macadmins.org>
 
 ## Full Policies
 
