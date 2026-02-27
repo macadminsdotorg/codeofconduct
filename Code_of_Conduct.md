@@ -71,7 +71,6 @@ We are committed to providing a harassment-free, professional environment for ev
 - Nationality
 - Language skills and proficiency
 - Religion or lack thereof
-- Political affiliation
 - Professional experience level
 - Educational background
 

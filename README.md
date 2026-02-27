@@ -49,7 +49,7 @@ All are welcome to participate in the Mac Admins Slack as long as the tenets of 
 
 - Be a valuable positive contributor to this community.
 - Be respectful of other peoples' rights, ideas, and opinions.
-- Treat others fairly, with dignity and respect, regardless of their gender or gender identity (including transgender status), sexual orientation, age, disability, race, ethnicity, colour, nationality, religion (or lack thereof), beliefs, language or language skills, job title, political affiliation, or any other protected characteristic.
+- Treat others fairly, with dignity and respect, regardless of their gender or gender identity (including transgender status), sexual orientation, age, disability, race, ethnicity, colour, nationality, religion (or lack thereof), beliefs, language or language skills, job title, or any other protected characteristic.
 - Ask people to stop if you are bothered.
 - Respect privacy.
 - Understand that this community is moderated voluntarily, and attempt to resolve issues without Administrators, but if you can't resolve an issue, you can contact the [Administrators].
@@ -80,11 +80,10 @@ Protected characteristics are referred to throughout this document. These includ
 - Language
 - Language skills (e.g. level of English)
 - Job title / career path
-- Political affiliation
 
 A note on protected characteristics:
 
-Holding a protected characteristic — including religious belief, political affiliation, or other ideology — does not exempt anyone from complying with the Code of Conduct. Actions or expressions that violate the code (e.g., hate speech, harassment, advocacy of discrimination) will be addressed regardless of the belief system or ideology motivating them.
+Holding a protected characteristic — including religious belief, or other ideology — does not exempt anyone from complying with the Code of Conduct. Actions or expressions that violate the code (e.g., hate speech, harassment, advocacy of discrimination) will be addressed regardless of the belief system or ideology motivating them.
 In line with Karl Popper’s thoughts on the paradox of tolerance, a tolerant community must refuse to tolerate expressions of intolerance that threaten the safety or dignity of others or the very structure of the community as a whole.
 
 ## 1. Respect
@@ -280,7 +279,7 @@ As part of the role, Administrators have access to information not available to 
 - Information contained within member requests to join the community. This might include email, name, and occupation.
 - Access log information provided by the Slack administrator interface. This includes name, login times, login device, and IP.
 
-Administrators do not have *any* access to private channels unless they are members of that channel. See [Private Channels](#9-private-channels)
+Administrators do not have _any_ access to private channels unless they are members of that channel. See [Private Channels](#9-private-channels)
 
 The Slack Workspace Owner account is accessible only by members of the Mac Admins Foundation Board. This account has additional tools (such as export and migration tools) that may provide access to private channels and DMs. As per the privacy section above, you should not presume anything you say here will remain private, so act accordingly.
 
