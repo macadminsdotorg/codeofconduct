@@ -110,16 +110,18 @@ The following behaviors are not tolerated:
 
 If you experience or witness unacceptable behavior:
 
+1. **Open a ticket with Ravenna** by typing `/rav` into any channel and choosing the "Create a Ticket" workflow. You can do this in a private message to yourself, if you'd like.
+
 1. **Contact an Admin directly** via direct message
    - Current Admins are announced monthly in #announcements
    - Any Admin can help, or will connect you with the right person
 
-2. **Use the @admins mention** in public channels (for urgent matters)
+1. **Use the @admins mention** in public channels (for urgent matters)
    - This notifies all Admins immediately
    - Use this for urgent safety concerns or ongoing harassment
    - Note: If you're in a private channel, please DM an Admin directly instead
 
-3. **Email:** <admin@macadmins.org> (if you prefer not to use Slack)
+1. **Email:** <admin@macadmins.org> (if you prefer not to use Slack)
 
 ### 6.2 What to Include
 
