@@ -100,6 +100,7 @@ The following behaviors are not tolerated:
 - Spam or unsolicited commercial messages (see [Vendor Policy](./Vendor_Policy.md))
 - Sharing of CSAM (child sexual abuse material) or other illegal content
 - Accessing the workspace through unauthorized programmatic methods (not the official Slack application, an approved installed app/integration or via a web browser)
+- Posting or otherwise processing content through an LLM or AI-based agent or interface (ask the admins if needed for accessiblity or assistive device usage)
 - Scraping, harvesting, or collecting member data without authorization (including email addresses, usernames, profiles, or workspace metadata)
 - Any conduct that creates a hostile, intimidating, or exclusionary environment for community members (including sustained patterns of behavior that may individually seem minor but collectively undermine community safety)
 
