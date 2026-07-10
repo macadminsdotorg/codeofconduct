@@ -257,7 +257,7 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 
 **Privacy Considerations**
 
-- Blur or redact sensitive information (names, emails, IPs, etc.)
+- Blur or redact secrets and sensitive information (names, URLs, emails, IPs, etc.)
 - Don't share screenshots of DMs without permission
 - Don't share internal company information
 - Assume workspace conversations are public
@@ -269,6 +269,8 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 - Admin team may record calls for training purposes (with notice)
 
 ## [7. Accessibility and Inclusion](#7-accessibility-and-inclusion)
+
+Contact an admin for confirmation that assistive devices or specific agent interfaces for accessiblity purposes can be used.
 
 ### 7.1 Making Content Accessible
 
@@ -316,7 +318,7 @@ See the detailed [Vendor Policy](./Vendor_Policy.md) for complete guidelines. Su
 
 - Respect all beliefs and non-beliefs
 - Keep discussions civil
-- Don't proselytize
+- Don't evangelize or engage in attempts to convert 
 - Admins may intervene if discussions become contentious
 
 **Controversial Topics**
