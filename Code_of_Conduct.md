@@ -19,6 +19,7 @@
 - [7. Enforcement](#7-enforcement)
   - [7.1 Violation Levels](#71-violation-levels)
   - [7.2 Progressive Discipline](#72-progressive-discipline)
+  - [7.3 Cumulative Conduct](#73-cumulative-conduct)
 - [8. Appeals](#8-appeals)
   - [8.1 Appealing Enforcement Actions](#81-appealing-enforcement-actions)
   - [8.2 Reporting Admin Misconduct](#82-reporting-admin-misconduct)
@@ -199,6 +200,21 @@ For repeated violations:
 3. Third offense: Temporary or permanent ban
 
 **Note:** Severe violations skip progressive discipline and result in immediate permanent ban.
+
+### 7.3 Cumulative Conduct
+
+While individual incidents are assessed on their own merits, the Admins also consider the cumulative pattern of a member's conduct over time. A series of behaviours that each fall below the threshold of a clear CoC violation may, taken together, constitute a pattern that is incompatible with the spirit of the community.
+
+When assessing whether a pattern of behaviour warrants action, Admins may consider:
+
+- Repeated conduct that disrupts, antagonises, or frustrates other members, even where no single instance is an obvious violation
+- A history of skirting the boundaries of this CoC without technically breaching it
+- Voluntarily deactivating and subsequently seeking reactivation of a Slack account, particularly where this has followed incidents of disruptive behaviour
+- Contacting Admins or community members through channels external to the Mac Admins Slack (such as LinkedIn, email, or other platforms) in relation to disputes, moderation decisions, or requests for account reinstatement
+
+Membership is a privilege, not a right. Where Admins collectively determine that a member's continued presence is incompatible with the kind of community described in the Code of Conduct, regardless of whether a single definitive violation can be identified — they may take action up to and including permanent removal.
+
+Account reactivation following voluntary deactivation or prior removal is at the discretion of the Admins and is not guaranteed. Where a pattern of disruptive behaviour has been established, reactivation may be declined.
 
 ## [8. Appeals](#8-appeals)
 
