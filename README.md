@@ -113,7 +113,7 @@ We do not tolerate harassment of Slack participants in any form. Sexual language
 
 Harassment includes, but is not limited to:
 
-- Offensive and/or unwelcome comments related to any [protected characteristic](#Protected Characteristics).
+- Offensive and/or unwelcome comments related to any [protected characteristic](#protected-characteristics).
 - Sexual images in public spaces
 - Deliberate intimidation, stalking, or following
 - Harassing photography or recording
