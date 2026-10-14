@@ -22,6 +22,7 @@
 
 ## Need Help?
 
+- **Use Ravenna to open a ticket** - Type `/rav` into any chat and select the "Create a Ticket" workflow.
 - **DM any admin** - listed monthly in #announcements
 - **Mention @admins** - for urgent matters in public channels
 - **Email:** <admin@macadmins.org>
