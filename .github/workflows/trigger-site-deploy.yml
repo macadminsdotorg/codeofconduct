@@ -1,0 +1,40 @@
+name: Trigger site deploy
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["master"]
+    paths:
+      # macadmins.org builds its Code of Conduct page from this repo at build
+      # time (README.md today), so a change should reach it now rather than
+      # waiting for the site's next daily build.
+      - "*.md"
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    env:
+      HAS_APP: ${{ secrets.DEPLOY_APP_ID != '' }}
+    steps:
+      - name: Check for the deploy app's secrets
+        if: env.HAS_APP != 'true'
+        run: |
+          echo "::warning::DEPLOY_APP_ID and DEPLOY_APP_PRIVATE_KEY aren't set, so the site wasn't told to rebuild. It picks the change up at its next daily build."
+      - name: Mint app installation token
+        if: env.HAS_APP == 'true'
+        id: app-token
+        uses: actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3.2.0
+        with:
+          # Org-owned GitHub App with Contents: read/write on the site repo
+          # (required for repository_dispatch).
+          app-id: ${{ secrets.DEPLOY_APP_ID }}
+          private-key: ${{ secrets.DEPLOY_APP_PRIVATE_KEY }}
+          owner: macadminsdotorg
+          repositories: macadminsdotorg
+      - name: Dispatch coc-updated to macadminsdotorg
+        if: env.HAS_APP == 'true'
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        run: |
+          gh api -X POST repos/macadminsdotorg/macadminsdotorg/dispatches \
+            -f event_type=coc-updated
